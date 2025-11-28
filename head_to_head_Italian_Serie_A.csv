@@ -1,0 +1,2024 @@
+strLeague,strSeason,strEvent,strHomeTeam,intHomeScore,strAwayTeam,intAwayScore,homeClassment,awayClassment
+Coppa Italia,2023-2024,AC Milan vs Atalanta,Milan,1,Atalanta,2,,4.0
+Italian Serie A,2023-2024,AC Milan vs Atalanta,Milan,1,Atalanta,1,,4.0
+Italian Serie A,2012-2013,AC Milan vs Atalanta,AC Milan,0,Atalanta,1,,15.0
+Italian Serie A,2023-2024,AC Milan vs Bologna,Milan,2,Bologna,2,,5.0
+Coppa Italia,2023-2024,AC Milan vs Cagliari,Milan,4,Cagliari,1,,16.0
+Italian Serie A,2023-2024,AC Milan vs Cagliari,Milan,5,Cagliari,1,,16.0
+Italian Serie A,2012-2013,AC Milan vs Cagliari,AC Milan,2,Cagliari,0,,11.0
+Italian Serie A,2023-2024,AC Milan vs Empoli,Milan,1,Empoli,0,,17.0
+Italian Serie A,2023-2024,AC Milan vs Fiorentina,Milan,1,Fiorentina,0,,8.0
+Italian Serie A,2023-2024,AC Milan vs Genoa,Milan,3,Genoa,3,,11.0
+Italian Serie A,2023-2024,AC Milan vs Inter Milan,Milan,1,Inter,2,,
+Italian Serie A,2023-2024,AC Milan vs Juventus,Milan,0,Juventus,1,,3.0
+Italian Serie A,2023-2024,AC Milan vs Lazio,Milan,2,Lazio,0,,7.0
+Italian Serie A,2023-2024,AC Milan vs Lecce,Milan,3,Lecce,0,,14.0
+Italian Serie A,2023-2024,AC Milan vs Monza,Milan,3,Monza,0,,12.0
+Italian Serie A,2023-2024,AC Milan vs Napoli,Milan,1,Napoli,0,,10.0
+UEFA Europa League,2023-2024,AC Milan vs Roma,Milan,0,Roma,1,,6.0
+Italian Serie A,2023-2024,AC Milan vs Roma,Milan,3,Roma,1,,6.0
+Italian Serie A,2023-2024,AC Milan vs Torino,Milan,4,Torino,1,,9.0
+Italian Serie A,2023-2024,AC Milan vs Udinese,Milan,0,Udinese,1,,15.0
+Italian Serie A,2023-2024,AC Milan vs Verona,Milan,1,Verona,0,,13.0
+Italian Serie A,2023-2024,Atalanta vs AC Milan,Atalanta,3,Milan,2,4.0,
+Italian Serie A,2023-2024,Atalanta vs Bologna,Atalanta,1,Bologna,2,4.0,5.0
+Italian Serie A,2022-2023,Atalanta vs Bologna,Atalanta,0,Bologna,2,5.0,9.0
+Italian Serie A,2021-2022,Atalanta vs Bologna,Atalanta,0,Bologna,0,8.0,13.0
+Italian Serie A,2020-2021,Atalanta vs Bologna,Atalanta,5,Bologna,0,3.0,12.0
+Italian Serie A,2019-2020,Atalanta vs Bologna,Atalanta,1,Bologna,0,3.0,12.0
+Italian Serie A,2018-2019,Atalanta vs Bologna,Atalanta,4,Bologna,1,3.0,10.0
+Italian Serie A,2017-2018,Atalanta vs Bologna,Atalanta,1,Bologna,0,8.0,13.0
+Italian Serie A,2016-2017,Atalanta vs Bologna,Atalanta,3,Bologna,2,4.0,15.0
+Italian Serie A,2015-2016,Atalanta vs Bologna,Atalanta,2,Bologna,0,13.0,14.0
+Italian Serie A,2012-2013,Atalanta vs Bologna,Atalanta,1,Bologna,1,15.0,13.0
+Italian Serie A,2013-2014,Atalanta vs Bologna,Atalanta,2,Bologna,1,11.0,19.0
+Italian Serie A,2023-2024,Atalanta vs Cagliari,Atalanta,2,Cagliari,0,4.0,16.0
+Italian Serie A,2021-2022,Atalanta vs Cagliari,Atalanta,1,Cagliari,2,8.0,18.0
+Coppa Italia,2020-2021,Atalanta vs Cagliari,Atalanta,3,Cagliari,1,3.0,16.0
+Italian Serie A,2020-2021,Atalanta vs Cagliari,Atalanta,5,Cagliari,2,3.0,16.0
+Italian Serie A,2019-2020,Atalanta vs Cagliari,Atalanta,0,Cagliari,2,3.0,14.0
+Italian Serie A,2018-2019,Atalanta vs Cagliari,Atalanta,0,Cagliari,1,3.0,15.0
+Italian Serie A,2017-2018,Atalanta vs Cagliari,Atalanta,1,Cagliari,2,8.0,14.0
+Italian Serie A,2016-2017,Atalanta vs Cagliari,Atalanta,2,Cagliari,0,4.0,12.0
+Italian Serie A,2013-2014,Atalanta vs Cagliari,Atalanta,1,Cagliari,0,11.0,15.0
+Italian Serie A,2014-2015,Atalanta vs Cagliari,Atalanta,2,Cagliari,1,17.0,18.0
+Italian Serie A,2023-2024,Atalanta vs Empoli,Atalanta,2,Empoli,0,4.0,17.0
+Italian Serie A,2022-2023,Atalanta vs Empoli,Atalanta,2,Empoli,1,5.0,14.0
+Italian Serie A,2021-2022,Atalanta vs Empoli,Atalanta,0,Empoli,1,8.0,14.0
+Italian Serie A,2018-2019,Atalanta vs Empoli,Atalanta,0,Empoli,0,3.0,18.0
+Italian Serie A,2016-2017,Atalanta vs Empoli,Atalanta,2,Empoli,1,4.0,18.0
+Italian Serie A,2015-2016,Atalanta vs Empoli,Atalanta,0,Empoli,0,13.0,11.0
+Italian Serie A,2014-2015,Atalanta vs Empoli,Atalanta,2,Empoli,2,17.0,15.0
+Coppa Italia,2023-2024,Atalanta vs Fiorentina,Atalanta,4,Fiorentina,1,4.0,8.0
+Italian Serie A,2023-2024,Atalanta vs Fiorentina,Atalanta,2,Fiorentina,3,4.0,8.0
+Italian Serie A,2022-2023,Atalanta vs Fiorentina,Atalanta,1,Fiorentina,0,5.0,8.0
+Coppa Italia,2021-2022,Atalanta vs Fiorentina,Fiorentina,2,Atalanta,3,7.0,8.0
+Italian Serie A,2021-2022,Atalanta vs Fiorentina,Atalanta,1,Fiorentina,2,8.0,7.0
+Italian Serie A,2020-2021,Atalanta vs Fiorentina,Atalanta,3,Fiorentina,0,3.0,13.0
+Italian Serie A,2019-2020,Atalanta vs Fiorentina,Atalanta,2,Fiorentina,2,3.0,10.0
+Coppa Italia,2018-2019,Atalanta vs Fiorentina,Atalanta,2,Fiorentina,1,3.0,16.0
+Italian Serie A,2018-2019,Atalanta vs Fiorentina,Atalanta,3,Fiorentina,1,3.0,16.0
+Italian Serie A,2017-2018,Atalanta vs Fiorentina,Atalanta,1,Fiorentina,1,8.0,11.0
+Italian Serie A,2016-2017,Atalanta vs Fiorentina,Atalanta,0,Fiorentina,0,4.0,8.0
+Italian Serie A,2015-2016,Atalanta vs Fiorentina,Atalanta,2,Fiorentina,3,13.0,5.0
+Italian Serie A,2012-2013,Atalanta vs Fiorentina,Atalanta,0,Fiorentina,2,15.0,4.0
+Italian Serie A,2013-2014,Atalanta vs Fiorentina,Atalanta,0,Fiorentina,2,11.0,4.0
+Italian Serie A,2014-2015,Atalanta vs Fiorentina,Atalanta,0,Fiorentina,1,17.0,4.0
+Italian Serie A,2023-2024,Atalanta vs Genoa,Atalanta,2,Genoa,0,4.0,11.0
+Italian Serie A,2021-2022,Atalanta vs Genoa,Atalanta,0,Genoa,0,8.0,19.0
+Italian Serie A,2020-2021,Atalanta vs Genoa,Atalanta,0,Genoa,0,3.0,11.0
+Italian Serie A,2019-2020,Atalanta vs Genoa,Atalanta,2,Genoa,2,3.0,17.0
+Italian Serie A,2018-2019,Atalanta vs Genoa,Atalanta,2,Genoa,1,3.0,17.0
+Italian Serie A,2017-2018,Atalanta vs Genoa,Atalanta,3,Genoa,1,8.0,12.0
+Italian Serie A,2016-2017,Atalanta vs Genoa,Atalanta,3,Genoa,0,4.0,16.0
+Italian Serie A,2015-2016,Atalanta vs Genoa,Atalanta,0,Genoa,2,13.0,10.0
+Italian Serie A,2012-2013,Atalanta vs Genoa,Atalanta,0,Genoa,1,15.0,17.0
+Italian Serie A,2013-2014,Atalanta vs Genoa,Atalanta,1,Genoa,1,11.0,13.0
+Italian Serie A,2014-2015,Atalanta vs Genoa,Atalanta,1,Genoa,4,17.0,6.0
+Italian Serie A,2023-2024,Atalanta vs Inter Milan,Atalanta,1,Inter,2,4.0,
+Coppa Italia,2023-2024,Atalanta vs Juventus,Atalanta,0,Juventus,1,4.0,3.0
+Italian Serie A,2023-2024,Atalanta vs Juventus,Atalanta,0,Juventus,0,4.0,3.0
+Italian Serie A,2022-2023,Atalanta vs Juventus,Atalanta,0,Juventus,2,5.0,7.0
+Italian Serie A,2021-2022,Atalanta vs Juventus,Atalanta,1,Juventus,1,8.0,4.0
+Coppa Italia,2020-2021,Atalanta vs Juventus,Atalanta,1,Juventus,2,3.0,4.0
+Italian Serie A,2020-2021,Atalanta vs Juventus,Atalanta,1,Juventus,0,3.0,4.0
+Italian Serie A,2019-2020,Atalanta vs Juventus,Atalanta,1,Juventus,3,3.0,1.0
+Coppa Italia,2018-2019,Atalanta vs Juventus,Atalanta,3,Juventus,0,3.0,1.0
+Italian Serie A,2018-2019,Atalanta vs Juventus,Atalanta,2,Juventus,2,3.0,1.0
+Italian Serie A,2017-2018,Atalanta vs Juventus,Atalanta,2,Juventus,2,8.0,2.0
+Italian Serie A,2016-2017,Atalanta vs Juventus,Atalanta,2,Juventus,2,4.0,1.0
+Italian Serie A,2015-2016,Atalanta vs Juventus,Atalanta,0,Juventus,2,13.0,1.0
+Italian Serie A,2012-2013,Atalanta vs Juventus,Atalanta,0,Juventus,1,15.0,1.0
+Italian Serie A,2013-2014,Atalanta vs Juventus,Atalanta,1,Juventus,4,11.0,1.0
+Italian Serie A,2014-2015,Atalanta vs Juventus,Atalanta,0,Juventus,3,17.0,1.0
+Italian Serie A,2023-2024,Atalanta vs Lazio,Atalanta,3,Lazio,1,4.0,7.0
+Italian Serie A,2022-2023,Atalanta vs Lazio,Atalanta,0,Lazio,2,5.0,2.0
+Italian Serie A,2021-2022,Atalanta vs Lazio,Atalanta,2,Lazio,2,8.0,5.0
+Coppa Italia,2020-2021,Atalanta vs Lazio,Atalanta,3,Lazio,2,3.0,6.0
+Italian Serie A,2020-2021,Atalanta vs Lazio,Atalanta,1,Lazio,3,3.0,6.0
+Italian Serie A,2019-2020,Atalanta vs Lazio,Atalanta,3,Lazio,2,3.0,4.0
+Coppa Italia,2018-2019,Atalanta vs Lazio,Atalanta,0,Lazio,2,3.0,8.0
+Italian Serie A,2018-2019,Atalanta vs Lazio,Atalanta,1,Lazio,0,3.0,8.0
+Italian Serie A,2017-2018,Atalanta vs Lazio,Atalanta,3,Lazio,3,8.0,5.0
+Italian Serie A,2016-2017,Atalanta vs Lazio,Atalanta,3,Lazio,4,4.0,5.0
+Italian Serie A,2015-2016,Atalanta vs Lazio,Atalanta,2,Lazio,1,13.0,8.0
+Italian Serie A,2012-2013,Atalanta vs Lazio,Atalanta,0,Lazio,1,15.0,7.0
+Italian Serie A,2013-2014,Atalanta vs Lazio,Atalanta,2,Lazio,1,11.0,9.0
+Italian Serie A,2014-2015,Atalanta vs Lazio,Atalanta,1,Lazio,1,17.0,3.0
+Italian Serie A,2023-2024,Atalanta vs Lecce,Atalanta,1,Lecce,0,4.0,14.0
+Italian Serie A,2022-2023,Atalanta vs Lecce,Atalanta,1,Lecce,2,5.0,16.0
+Italian Serie A,2019-2020,Atalanta vs Lecce,Atalanta,3,Lecce,1,3.0,18.0
+Italian Serie A,2023-2024,Atalanta vs Monza,Atalanta,3,Monza,0,4.0,12.0
+Italian Serie A,2022-2023,Atalanta vs Monza,Atalanta,5,Monza,2,5.0,11.0
+Italian Serie A,2023-2024,Atalanta vs Napoli,Atalanta,1,Napoli,2,4.0,10.0
+Italian Serie A,2022-2023,Atalanta vs Napoli,Atalanta,1,Napoli,2,5.0,1.0
+Italian Serie A,2021-2022,Atalanta vs Napoli,Atalanta,1,Napoli,3,8.0,3.0
+Coppa Italia,2020-2021,Atalanta vs Napoli,Atalanta,3,Napoli,1,3.0,5.0
+Italian Serie A,2020-2021,Atalanta vs Napoli,Atalanta,4,Napoli,2,3.0,5.0
+Italian Serie A,2019-2020,Atalanta vs Napoli,Atalanta,2,Napoli,0,3.0,7.0
+Italian Serie A,2018-2019,Atalanta vs Napoli,Atalanta,1,Napoli,2,3.0,2.0
+Italian Serie A,2017-2018,Atalanta vs Napoli,Atalanta,0,Napoli,1,8.0,1.0
+Italian Serie A,2016-2017,Atalanta vs Napoli,Atalanta,1,Napoli,0,4.0,3.0
+Italian Serie A,2015-2016,Atalanta vs Napoli,Atalanta,1,Napoli,3,13.0,2.0
+Italian Serie A,2012-2013,Atalanta vs Napoli,Atalanta,1,Napoli,0,15.0,2.0
+Italian Serie A,2013-2014,Atalanta vs Napoli,Atalanta,3,Napoli,0,11.0,3.0
+Italian Serie A,2014-2015,Atalanta vs Napoli,Atalanta,1,Napoli,1,17.0,5.0
+Italian Serie A,2020-2021,Atalanta vs Parma Calcio 1913,Atalanta,3,Parma Calcio 1913,0,3.0,20.0
+Italian Serie A,2019-2020,Atalanta vs Parma Calcio 1913,Atalanta,5,Parma Calcio 1913,0,3.0,11.0
+Italian Serie A,2018-2019,Atalanta vs Parma Calcio 1913,Atalanta,3,Parma Calcio 1913,0,3.0,14.0
+Italian Serie A,2023-2024,Atalanta vs Roma,Atalanta,2,Roma,1,4.0,6.0
+Italian Serie A,2022-2023,Atalanta vs Roma,Atalanta,3,Roma,1,5.0,6.0
+Italian Serie A,2021-2022,Atalanta vs Roma,Atalanta,1,Roma,4,8.0,6.0
+Italian Serie A,2020-2021,Atalanta vs Roma,Atalanta,4,Roma,1,3.0,7.0
+Italian Serie A,2019-2020,Atalanta vs Roma,Atalanta,2,Roma,1,3.0,5.0
+Italian Serie A,2018-2019,Atalanta vs Roma,Atalanta,3,Roma,3,3.0,6.0
+Italian Serie A,2017-2018,Atalanta vs Roma,Atalanta,0,Roma,1,8.0,4.0
+Italian Serie A,2016-2017,Atalanta vs Roma,Atalanta,2,Roma,1,4.0,2.0
+Italian Serie A,2015-2016,Atalanta vs Roma,Atalanta,3,Roma,3,13.0,3.0
+Italian Serie A,2012-2013,Atalanta vs Roma,Atalanta,2,Roma,3,15.0,6.0
+Italian Serie A,2013-2014,Atalanta vs Roma,Atalanta,1,Roma,1,11.0,2.0
+Italian Serie A,2014-2015,Atalanta vs Roma,Atalanta,1,Roma,2,17.0,2.0
+Italian Serie A,2023-2024,Atalanta vs Torino,Atalanta,3,Torino,0,4.0,9.0
+Italian Serie A,2022-2023,Atalanta vs Torino,Atalanta,3,Torino,1,5.0,10.0
+Italian Serie A,2021-2022,Atalanta vs Torino,Atalanta,4,Torino,4,8.0,10.0
+Italian Serie A,2020-2021,Atalanta vs Torino,Atalanta,3,Torino,3,3.0,17.0
+Italian Serie A,2019-2020,Atalanta vs Torino,Atalanta,2,Torino,3,3.0,16.0
+Italian Serie A,2018-2019,Atalanta vs Torino,Atalanta,0,Torino,0,3.0,7.0
+Italian Serie A,2017-2018,Atalanta vs Torino,Atalanta,2,Torino,1,8.0,9.0
+Italian Serie A,2016-2017,Atalanta vs Torino,Atalanta,2,Torino,1,4.0,9.0
+Italian Serie A,2015-2016,Atalanta vs Torino,Atalanta,0,Torino,1,13.0,12.0
+Italian Serie A,2012-2013,Atalanta vs Torino,Atalanta,1,Torino,5,15.0,16.0
+Italian Serie A,2013-2014,Atalanta vs Torino,Atalanta,2,Torino,0,11.0,7.0
+Italian Serie A,2014-2015,Atalanta vs Torino,Atalanta,1,Torino,2,17.0,9.0
+Italian Serie A,2023-2024,Atalanta vs Udinese,Atalanta,2,Udinese,0,4.0,15.0
+Italian Serie A,2022-2023,Atalanta vs Udinese,Atalanta,0,Udinese,0,5.0,12.0
+Italian Serie A,2021-2022,Atalanta vs Udinese,Atalanta,1,Udinese,1,8.0,12.0
+Italian Serie A,2020-2021,Atalanta vs Udinese,Atalanta,3,Udinese,2,3.0,14.0
+Italian Serie A,2019-2020,Atalanta vs Udinese,Atalanta,7,Udinese,1,3.0,13.0
+Italian Serie A,2018-2019,Atalanta vs Udinese,Atalanta,2,Udinese,0,3.0,12.0
+Italian Serie A,2017-2018,Atalanta vs Udinese,Atalanta,2,Udinese,0,8.0,10.0
+Italian Serie A,2016-2017,Atalanta vs Udinese,Atalanta,1,Udinese,3,4.0,13.0
+Italian Serie A,2015-2016,Atalanta vs Udinese,Atalanta,1,Udinese,1,13.0,17.0
+Italian Serie A,2012-2013,Atalanta vs Udinese,Atalanta,1,Udinese,1,15.0,5.0
+Italian Serie A,2013-2014,Atalanta vs Udinese,Atalanta,2,Udinese,0,11.0,14.0
+Italian Serie A,2014-2015,Atalanta vs Udinese,Atalanta,0,Udinese,0,17.0,16.0
+Coppa Italia,2021-2022,Atalanta vs Venezia,Atalanta,2,Venezia,0,8.0,20.0
+Italian Serie A,2021-2022,Atalanta vs Venezia,Atalanta,4,Venezia,0,8.0,20.0
+Italian Serie A,2023-2024,Atalanta vs Verona,Atalanta,2,Verona,2,4.0,13.0
+Italian Serie A,2022-2023,Atalanta vs Verona,Atalanta,3,Verona,1,5.0,18.0
+Italian Serie A,2021-2022,Atalanta vs Verona,Atalanta,1,Verona,2,8.0,9.0
+Italian Serie A,2020-2021,Atalanta vs Verona,Atalanta,0,Verona,2,3.0,10.0
+Italian Serie A,2019-2020,Atalanta vs Verona,Atalanta,3,Verona,2,3.0,9.0
+Italian Serie A,2017-2018,Atalanta vs Verona,Atalanta,3,Verona,0,8.0,19.0
+Italian Serie A,2015-2016,Atalanta vs Verona,Atalanta,1,Verona,1,13.0,20.0
+Italian Serie A,2013-2014,Atalanta vs Verona,Atalanta,1,Verona,2,11.0,10.0
+Italian Serie A,2014-2015,Atalanta vs Verona,Atalanta,0,Verona,0,17.0,13.0
+Italian Serie A,2023-2024,Bologna vs AC Milan,Bologna,0,Milan,2,5.0,
+Italian Serie A,2023-2024,Bologna vs Atalanta,Bologna,1,Atalanta,0,5.0,4.0
+Italian Serie A,2022-2023,Bologna vs Atalanta,Bologna,1,Atalanta,2,9.0,5.0
+Italian Serie A,2021-2022,Bologna vs Atalanta,Bologna,0,Atalanta,1,13.0,8.0
+Italian Serie A,2020-2021,Bologna vs Atalanta,Bologna,2,Atalanta,2,12.0,3.0
+Italian Serie A,2019-2020,Bologna vs Atalanta,Bologna,2,Atalanta,1,12.0,3.0
+Italian Serie A,2018-2019,Bologna vs Atalanta,Bologna,1,Atalanta,2,10.0,3.0
+Italian Serie A,2017-2018,Bologna vs Atalanta,Bologna,0,Atalanta,1,13.0,8.0
+Italian Serie A,2016-2017,Bologna vs Atalanta,Bologna,0,Atalanta,2,15.0,4.0
+Italian Serie A,2015-2016,Bologna vs Atalanta,Bologna,3,Atalanta,0,14.0,13.0
+Italian Serie A,2012-2013,Bologna vs Atalanta,Bologna,2,Atalanta,1,13.0,15.0
+Italian Serie A,2013-2014,Bologna vs Atalanta,Bologna,0,Atalanta,2,19.0,11.0
+Italian Serie A,2023-2024,Bologna vs Cagliari,Bologna,2,Cagliari,1,5.0,16.0
+Coppa Italia,2022-2023,Bologna vs Cagliari,Bologna,1,Cagliari,0,9.0,
+Italian Serie A,2021-2022,Bologna vs Cagliari,Bologna,2,Cagliari,0,13.0,18.0
+Italian Serie A,2020-2021,Bologna vs Cagliari,Bologna,3,Cagliari,2,12.0,16.0
+Italian Serie A,2019-2020,Bologna vs Cagliari,Bologna,1,Cagliari,1,12.0,14.0
+Italian Serie A,2018-2019,Bologna vs Cagliari,Bologna,2,Cagliari,0,10.0,15.0
+Italian Serie A,2017-2018,Bologna vs Cagliari,Bologna,1,Cagliari,1,13.0,14.0
+Italian Serie A,2016-2017,Bologna vs Cagliari,Bologna,2,Cagliari,1,15.0,12.0
+Italian Serie A,2012-2013,Bologna vs Cagliari,Bologna,3,Cagliari,0,13.0,11.0
+Italian Serie A,2013-2014,Bologna vs Cagliari,Bologna,1,Cagliari,0,19.0,15.0
+Italian Serie A,2023-2024,Bologna vs Empoli,Bologna,3,Empoli,0,5.0,17.0
+Italian Serie A,2022-2023,Bologna vs Empoli,Bologna,0,Empoli,1,9.0,14.0
+Italian Serie A,2021-2022,Bologna vs Empoli,Bologna,0,Empoli,0,13.0,14.0
+Italian Serie A,2018-2019,Bologna vs Empoli,Bologna,3,Empoli,1,10.0,18.0
+Italian Serie A,2016-2017,Bologna vs Empoli,Bologna,0,Empoli,0,15.0,18.0
+Italian Serie A,2015-2016,Bologna vs Empoli,Bologna,2,Empoli,3,14.0,11.0
+Italian Serie A,2023-2024,Bologna vs Fiorentina,Bologna,2,Fiorentina,0,5.0,8.0
+Italian Serie A,2022-2023,Bologna vs Fiorentina,Bologna,2,Fiorentina,1,9.0,8.0
+Italian Serie A,2021-2022,Bologna vs Fiorentina,Bologna,2,Fiorentina,3,13.0,7.0
+Italian Serie A,2020-2021,Bologna vs Fiorentina,Bologna,3,Fiorentina,3,12.0,13.0
+Italian Serie A,2019-2020,Bologna vs Fiorentina,Bologna,1,Fiorentina,1,12.0,10.0
+Italian Serie A,2018-2019,Bologna vs Fiorentina,Bologna,0,Fiorentina,0,10.0,16.0
+Italian Serie A,2017-2018,Bologna vs Fiorentina,Bologna,1,Fiorentina,2,13.0,11.0
+Italian Serie A,2016-2017,Bologna vs Fiorentina,Bologna,0,Fiorentina,1,15.0,8.0
+Italian Serie A,2015-2016,Bologna vs Fiorentina,Bologna,1,Fiorentina,1,14.0,5.0
+Italian Serie A,2013-2014,Bologna vs Fiorentina,Bologna,0,Fiorentina,3,19.0,4.0
+Italian Serie A,2023-2024,Bologna vs Genoa,Bologna,1,Genoa,1,5.0,11.0
+Italian Serie A,2021-2022,Bologna vs Genoa,Bologna,2,Genoa,2,13.0,19.0
+Italian Serie A,2020-2021,Bologna vs Genoa,Bologna,0,Genoa,2,12.0,11.0
+Italian Serie A,2019-2020,Bologna vs Genoa,Bologna,0,Genoa,3,12.0,17.0
+Italian Serie A,2018-2019,Bologna vs Genoa,Bologna,1,Genoa,1,10.0,17.0
+Italian Serie A,2017-2018,Bologna vs Genoa,Bologna,2,Genoa,0,13.0,12.0
+Italian Serie A,2016-2017,Bologna vs Genoa,Bologna,0,Genoa,1,15.0,16.0
+Italian Serie A,2015-2016,Bologna vs Genoa,Bologna,2,Genoa,0,14.0,10.0
+Italian Serie A,2012-2013,Bologna vs Genoa,Bologna,0,Genoa,0,13.0,17.0
+Italian Serie A,2013-2014,Bologna vs Genoa,Bologna,1,Genoa,0,19.0,13.0
+Italian Serie A,2023-2024,Bologna vs Inter Milan,Bologna,0,Inter,1,5.0,
+Italian Serie A,2023-2024,Bologna vs Juventus,Bologna,3,Juventus,3,5.0,3.0
+Italian Serie A,2022-2023,Bologna vs Juventus,Bologna,1,Juventus,1,9.0,7.0
+Italian Serie A,2021-2022,Bologna vs Juventus,Bologna,0,Juventus,2,13.0,4.0
+Italian Serie A,2020-2021,Bologna vs Juventus,Bologna,1,Juventus,4,12.0,4.0
+Italian Serie A,2019-2020,Bologna vs Juventus,Bologna,0,Juventus,2,12.0,1.0
+Coppa Italia,2018-2019,Bologna vs Juventus,Bologna,0,Juventus,2,10.0,1.0
+Italian Serie A,2018-2019,Bologna vs Juventus,Bologna,0,Juventus,1,10.0,1.0
+Italian Serie A,2017-2018,Bologna vs Juventus,Bologna,0,Juventus,3,13.0,2.0
+Italian Serie A,2016-2017,Bologna vs Juventus,Bologna,1,Juventus,2,15.0,1.0
+Italian Serie A,2015-2016,Bologna vs Juventus,Bologna,0,Juventus,0,14.0,1.0
+Italian Serie A,2012-2013,Bologna vs Juventus,Bologna,0,Juventus,2,13.0,1.0
+Italian Serie A,2013-2014,Bologna vs Juventus,Bologna,0,Juventus,2,19.0,1.0
+Italian Serie A,2023-2024,Bologna vs Lazio,Bologna,1,Lazio,0,5.0,7.0
+Italian Serie A,2022-2023,Bologna vs Lazio,Bologna,0,Lazio,0,9.0,2.0
+Italian Serie A,2021-2022,Bologna vs Lazio,Bologna,3,Lazio,0,13.0,5.0
+Italian Serie A,2020-2021,Bologna vs Lazio,Bologna,2,Lazio,0,12.0,6.0
+Italian Serie A,2019-2020,Bologna vs Lazio,Bologna,2,Lazio,2,12.0,4.0
+Italian Serie A,2018-2019,Bologna vs Lazio,Bologna,0,Lazio,2,10.0,8.0
+Italian Serie A,2017-2018,Bologna vs Lazio,Bologna,1,Lazio,2,13.0,5.0
+Italian Serie A,2016-2017,Bologna vs Lazio,Bologna,0,Lazio,2,15.0,5.0
+Italian Serie A,2015-2016,Bologna vs Lazio,Bologna,2,Lazio,2,14.0,8.0
+Italian Serie A,2012-2013,Bologna vs Lazio,Bologna,0,Lazio,0,13.0,7.0
+Italian Serie A,2013-2014,Bologna vs Lazio,Bologna,0,Lazio,0,19.0,9.0
+Italian Serie A,2023-2024,Bologna vs Lecce,Bologna,4,Lecce,0,5.0,14.0
+Italian Serie A,2022-2023,Bologna vs Lecce,Bologna,2,Lecce,0,9.0,16.0
+Italian Serie A,2019-2020,Bologna vs Lecce,Bologna,3,Lecce,2,12.0,18.0
+Italian Serie A,2023-2024,Bologna vs Monza,Bologna,0,Monza,0,5.0,12.0
+Italian Serie A,2022-2023,Bologna vs Monza,Bologna,0,Monza,1,9.0,11.0
+Italian Serie A,2023-2024,Bologna vs Napoli,Bologna,0,Napoli,0,5.0,10.0
+Italian Serie A,2022-2023,Bologna vs Napoli,Bologna,2,Napoli,2,9.0,1.0
+Italian Serie A,2021-2022,Bologna vs Napoli,Bologna,0,Napoli,2,13.0,3.0
+Italian Serie A,2020-2021,Bologna vs Napoli,Bologna,0,Napoli,1,12.0,5.0
+Italian Serie A,2019-2020,Bologna vs Napoli,Bologna,1,Napoli,1,12.0,7.0
+Italian Serie A,2018-2019,Bologna vs Napoli,Bologna,3,Napoli,2,10.0,2.0
+Italian Serie A,2017-2018,Bologna vs Napoli,Bologna,0,Napoli,3,13.0,1.0
+Italian Serie A,2016-2017,Bologna vs Napoli,Bologna,1,Napoli,7,15.0,3.0
+Italian Serie A,2015-2016,Bologna vs Napoli,Bologna,3,Napoli,2,14.0,2.0
+Italian Serie A,2012-2013,Bologna vs Napoli,Bologna,0,Napoli,3,13.0,2.0
+Italian Serie A,2013-2014,Bologna vs Napoli,Bologna,2,Napoli,2,19.0,3.0
+Italian Serie A,2020-2021,Bologna vs Parma Calcio 1913,Bologna,4,Parma Calcio 1913,1,12.0,20.0
+Italian Serie A,2019-2020,Bologna vs Parma Calcio 1913,Bologna,2,Parma Calcio 1913,2,12.0,11.0
+Italian Serie A,2018-2019,Bologna vs Parma Calcio 1913,Bologna,3,Parma Calcio 1913,0,10.0,14.0
+Italian Serie A,2023-2024,Bologna vs Roma,Bologna,2,Roma,0,5.0,6.0
+Italian Serie A,2022-2023,Bologna vs Roma,Bologna,0,Roma,0,9.0,6.0
+Italian Serie A,2021-2022,Bologna vs Roma,Bologna,1,Roma,0,13.0,6.0
+Italian Serie A,2020-2021,Bologna vs Roma,Bologna,1,Roma,5,12.0,7.0
+Italian Serie A,2019-2020,Bologna vs Roma,Bologna,1,Roma,2,12.0,5.0
+Italian Serie A,2018-2019,Bologna vs Roma,Bologna,2,Roma,0,10.0,6.0
+Italian Serie A,2017-2018,Bologna vs Roma,Bologna,1,Roma,1,13.0,4.0
+Italian Serie A,2016-2017,Bologna vs Roma,Bologna,0,Roma,3,15.0,2.0
+Italian Serie A,2015-2016,Bologna vs Roma,Bologna,2,Roma,2,14.0,3.0
+Italian Serie A,2012-2013,Bologna vs Roma,Bologna,3,Roma,3,13.0,6.0
+Italian Serie A,2013-2014,Bologna vs Roma,Bologna,0,Roma,1,19.0,2.0
+Italian Serie A,2023-2024,Bologna vs Torino,Bologna,2,Torino,0,5.0,9.0
+Italian Serie A,2022-2023,Bologna vs Torino,Bologna,2,Torino,1,9.0,10.0
+Italian Serie A,2021-2022,Bologna vs Torino,Bologna,0,Torino,0,13.0,10.0
+Italian Serie A,2020-2021,Bologna vs Torino,Bologna,1,Torino,1,12.0,17.0
+Italian Serie A,2019-2020,Bologna vs Torino,Bologna,1,Torino,1,12.0,16.0
+Italian Serie A,2018-2019,Bologna vs Torino,Bologna,2,Torino,2,10.0,7.0
+Italian Serie A,2017-2018,Bologna vs Torino,Bologna,1,Torino,1,13.0,9.0
+Italian Serie A,2016-2017,Bologna vs Torino,Bologna,2,Torino,0,15.0,9.0
+Italian Serie A,2015-2016,Bologna vs Torino,Bologna,0,Torino,1,14.0,12.0
+Italian Serie A,2012-2013,Bologna vs Torino,Bologna,2,Torino,2,13.0,16.0
+Italian Serie A,2013-2014,Bologna vs Torino,Bologna,1,Torino,2,19.0,7.0
+Italian Serie A,2023-2024,Bologna vs Udinese,Bologna,1,Udinese,1,5.0,15.0
+Italian Serie A,2022-2023,Bologna vs Udinese,Bologna,3,Udinese,0,9.0,12.0
+Italian Serie A,2021-2022,Bologna vs Udinese,Bologna,2,Udinese,2,13.0,12.0
+Italian Serie A,2020-2021,Bologna vs Udinese,Bologna,2,Udinese,2,12.0,14.0
+Italian Serie A,2019-2020,Bologna vs Udinese,Bologna,1,Udinese,1,12.0,13.0
+Italian Serie A,2018-2019,Bologna vs Udinese,Bologna,2,Udinese,1,10.0,12.0
+Italian Serie A,2017-2018,Bologna vs Udinese,Bologna,1,Udinese,2,13.0,10.0
+Italian Serie A,2016-2017,Bologna vs Udinese,Bologna,4,Udinese,0,15.0,13.0
+Italian Serie A,2015-2016,Bologna vs Udinese,Bologna,1,Udinese,2,14.0,17.0
+Italian Serie A,2012-2013,Bologna vs Udinese,Bologna,1,Udinese,1,13.0,5.0
+Italian Serie A,2013-2014,Bologna vs Udinese,Bologna,0,Udinese,2,19.0,14.0
+Italian Serie A,2021-2022,Bologna vs Venezia,Bologna,0,Venezia,1,13.0,20.0
+Coppa Italia,2023-2024,Bologna vs Verona,Bologna,2,Verona,0,5.0,13.0
+Italian Serie A,2023-2024,Bologna vs Verona,Bologna,2,Verona,0,5.0,13.0
+Italian Serie A,2022-2023,Bologna vs Verona,Bologna,1,Verona,1,9.0,18.0
+Italian Serie A,2021-2022,Bologna vs Verona,Bologna,1,Verona,0,13.0,9.0
+Italian Serie A,2020-2021,Bologna vs Verona,Bologna,1,Verona,0,12.0,10.0
+Italian Serie A,2019-2020,Bologna vs Verona,Bologna,1,Verona,1,12.0,9.0
+Italian Serie A,2017-2018,Bologna vs Verona,Bologna,2,Verona,0,13.0,19.0
+Italian Serie A,2015-2016,Bologna vs Verona,Bologna,0,Verona,1,14.0,20.0
+Italian Serie A,2013-2014,Bologna vs Verona,Bologna,1,Verona,4,19.0,10.0
+Italian Serie A,2023-2024,Cagliari vs AC Milan,Cagliari,1,Milan,3,16.0,
+Italian Serie A,2023-2024,Cagliari vs Atalanta,Cagliari,2,Atalanta,1,16.0,4.0
+Italian Serie A,2021-2022,Cagliari vs Atalanta,Cagliari,1,Atalanta,2,18.0,8.0
+Italian Serie A,2020-2021,Cagliari vs Atalanta,Cagliari,0,Atalanta,1,16.0,3.0
+Italian Serie A,2019-2020,Cagliari vs Atalanta,Cagliari,0,Atalanta,1,14.0,3.0
+Coppa Italia,2018-2019,Cagliari vs Atalanta,Cagliari,0,Atalanta,2,15.0,3.0
+Italian Serie A,2018-2019,Cagliari vs Atalanta,Cagliari,0,Atalanta,1,15.0,3.0
+Italian Serie A,2017-2018,Cagliari vs Atalanta,Cagliari,1,Atalanta,0,14.0,8.0
+Italian Serie A,2016-2017,Cagliari vs Atalanta,Cagliari,3,Atalanta,0,12.0,4.0
+Italian Serie A,2013-2014,Cagliari vs Atalanta,Cagliari,2,Atalanta,1,15.0,11.0
+Italian Serie A,2014-2015,Cagliari vs Atalanta,Cagliari,1,Atalanta,2,18.0,17.0
+Italian Serie A,2023-2024,Cagliari vs Bologna,Cagliari,2,Bologna,1,16.0,5.0
+Italian Serie A,2021-2022,Cagliari vs Bologna,Cagliari,2,Bologna,1,18.0,13.0
+Italian Serie A,2020-2021,Cagliari vs Bologna,Cagliari,1,Bologna,0,16.0,12.0
+Italian Serie A,2019-2020,Cagliari vs Bologna,Cagliari,3,Bologna,2,14.0,12.0
+Italian Serie A,2018-2019,Cagliari vs Bologna,Cagliari,2,Bologna,0,15.0,10.0
+Italian Serie A,2017-2018,Cagliari vs Bologna,Cagliari,0,Bologna,0,14.0,13.0
+Italian Serie A,2016-2017,Cagliari vs Bologna,Cagliari,1,Bologna,1,12.0,15.0
+Italian Serie A,2012-2013,Cagliari vs Bologna,Cagliari,1,Bologna,0,11.0,13.0
+Italian Serie A,2013-2014,Cagliari vs Bologna,Cagliari,0,Bologna,3,15.0,19.0
+Italian Serie B,2022-2023,Cagliari vs Como,Cagliari,2,Como,0,,
+Italian Serie A,2023-2024,Cagliari vs Empoli,Cagliari,0,Empoli,0,16.0,17.0
+Italian Serie A,2021-2022,Cagliari vs Empoli,Cagliari,0,Empoli,2,18.0,14.0
+Italian Serie A,2018-2019,Cagliari vs Empoli,Cagliari,2,Empoli,2,15.0,18.0
+Italian Serie A,2016-2017,Cagliari vs Empoli,Cagliari,3,Empoli,2,12.0,18.0
+Italian Serie A,2014-2015,Cagliari vs Empoli,Cagliari,1,Empoli,1,18.0,15.0
+Italian Serie A,2023-2024,Cagliari vs Fiorentina,Cagliari,2,Fiorentina,3,16.0,8.0
+Italian Serie A,2021-2022,Cagliari vs Fiorentina,Cagliari,1,Fiorentina,1,18.0,7.0
+Italian Serie A,2020-2021,Cagliari vs Fiorentina,Cagliari,0,Fiorentina,0,16.0,13.0
+Italian Serie A,2019-2020,Cagliari vs Fiorentina,Cagliari,5,Fiorentina,2,14.0,10.0
+Italian Serie A,2018-2019,Cagliari vs Fiorentina,Cagliari,2,Fiorentina,1,15.0,16.0
+Italian Serie A,2017-2018,Cagliari vs Fiorentina,Cagliari,0,Fiorentina,1,14.0,11.0
+Italian Serie A,2016-2017,Cagliari vs Fiorentina,Cagliari,3,Fiorentina,5,12.0,8.0
+Italian Serie A,2012-2013,Cagliari vs Fiorentina,Cagliari,2,Fiorentina,1,11.0,4.0
+Italian Serie A,2013-2014,Cagliari vs Fiorentina,Cagliari,1,Fiorentina,0,15.0,4.0
+Italian Serie A,2014-2015,Cagliari vs Fiorentina,Cagliari,0,Fiorentina,4,18.0,4.0
+Italian Serie A,2023-2024,Cagliari vs Genoa,Cagliari,2,Genoa,1,16.0,11.0
+Italian Serie B,2022-2023,Cagliari vs Genoa,Cagliari,0,Genoa,0,,
+Italian Serie A,2021-2022,Cagliari vs Genoa,Cagliari,2,Genoa,3,18.0,19.0
+Italian Serie A,2020-2021,Cagliari vs Genoa,Cagliari,0,Genoa,1,16.0,11.0
+Italian Serie A,2019-2020,Cagliari vs Genoa,Cagliari,3,Genoa,1,14.0,17.0
+Italian Serie A,2018-2019,Cagliari vs Genoa,Cagliari,1,Genoa,0,15.0,17.0
+Italian Serie A,2017-2018,Cagliari vs Genoa,Cagliari,2,Genoa,3,14.0,12.0
+Italian Serie A,2016-2017,Cagliari vs Genoa,Cagliari,4,Genoa,1,12.0,16.0
+Italian Serie A,2012-2013,Cagliari vs Genoa,Cagliari,2,Genoa,1,11.0,17.0
+Italian Serie A,2013-2014,Cagliari vs Genoa,Cagliari,2,Genoa,1,15.0,13.0
+Italian Serie A,2014-2015,Cagliari vs Genoa,Cagliari,1,Genoa,1,18.0,6.0
+Italian Serie A,2023-2024,Cagliari vs Inter Milan,Cagliari,0,Inter,2,16.0,
+Italian Serie A,2023-2024,Cagliari vs Juventus,Cagliari,2,Juventus,2,16.0,3.0
+Italian Serie A,2021-2022,Cagliari vs Juventus,Cagliari,1,Juventus,2,18.0,4.0
+Italian Serie A,2020-2021,Cagliari vs Juventus,Cagliari,1,Juventus,3,16.0,4.0
+Italian Serie A,2019-2020,Cagliari vs Juventus,Cagliari,2,Juventus,0,14.0,1.0
+Italian Serie A,2018-2019,Cagliari vs Juventus,Cagliari,0,Juventus,2,15.0,1.0
+Italian Serie A,2017-2018,Cagliari vs Juventus,Cagliari,0,Juventus,1,14.0,2.0
+Italian Serie A,2016-2017,Cagliari vs Juventus,Cagliari,0,Juventus,2,12.0,1.0
+Italian Serie A,2012-2013,Cagliari vs Juventus,Cagliari,1,Juventus,3,11.0,1.0
+Italian Serie A,2013-2014,Cagliari vs Juventus,Cagliari,1,Juventus,4,15.0,1.0
+Italian Serie A,2014-2015,Cagliari vs Juventus,Cagliari,1,Juventus,3,18.0,1.0
+Italian Serie A,2023-2024,Cagliari vs Lazio,Cagliari,1,Lazio,3,16.0,7.0
+Italian Serie A,2021-2022,Cagliari vs Lazio,Cagliari,0,Lazio,3,18.0,5.0
+Italian Serie A,2020-2021,Cagliari vs Lazio,Cagliari,0,Lazio,2,16.0,6.0
+Italian Serie A,2019-2020,Cagliari vs Lazio,Cagliari,1,Lazio,2,14.0,4.0
+Italian Serie A,2018-2019,Cagliari vs Lazio,Cagliari,1,Lazio,2,15.0,8.0
+Italian Serie A,2017-2018,Cagliari vs Lazio,Cagliari,2,Lazio,2,14.0,5.0
+Italian Serie A,2016-2017,Cagliari vs Lazio,Cagliari,0,Lazio,0,12.0,5.0
+Italian Serie A,2012-2013,Cagliari vs Lazio,Cagliari,1,Lazio,0,11.0,7.0
+Italian Serie A,2013-2014,Cagliari vs Lazio,Cagliari,0,Lazio,2,15.0,9.0
+Italian Serie A,2014-2015,Cagliari vs Lazio,Cagliari,1,Lazio,3,18.0,3.0
+Italian Serie A,2023-2024,Cagliari vs Lecce,Cagliari,1,Lecce,1,16.0,14.0
+Italian Serie A,2019-2020,Cagliari vs Lecce,Cagliari,0,Lecce,0,14.0,18.0
+Italian Serie A,2023-2024,Cagliari vs Monza,Cagliari,1,Monza,1,16.0,12.0
+Italian Serie A,2023-2024,Cagliari vs Napoli,Cagliari,1,Napoli,1,16.0,10.0
+Italian Serie A,2021-2022,Cagliari vs Napoli,Cagliari,1,Napoli,1,18.0,3.0
+Italian Serie A,2020-2021,Cagliari vs Napoli,Cagliari,1,Napoli,4,16.0,5.0
+Italian Serie A,2019-2020,Cagliari vs Napoli,Cagliari,0,Napoli,1,14.0,7.0
+Italian Serie A,2018-2019,Cagliari vs Napoli,Cagliari,0,Napoli,1,15.0,2.0
+Italian Serie A,2017-2018,Cagliari vs Napoli,Cagliari,0,Napoli,5,14.0,1.0
+Italian Serie A,2016-2017,Cagliari vs Napoli,Cagliari,0,Napoli,5,12.0,3.0
+Italian Serie A,2012-2013,Cagliari vs Napoli,Cagliari,0,Napoli,1,11.0,2.0
+Italian Serie A,2013-2014,Cagliari vs Napoli,Cagliari,1,Napoli,1,15.0,3.0
+Italian Serie A,2014-2015,Cagliari vs Napoli,Cagliari,0,Napoli,3,18.0,5.0
+Italian Serie B,2022-2023,Cagliari vs Parma Calcio 1913,Cagliari,3,Parma Calcio 1913,2,,
+Italian Serie B,2022-2023,Cagliari vs Parma Calcio 1913,Cagliari,1,Parma Calcio 1913,1,,
+Italian Serie A,2020-2021,Cagliari vs Parma Calcio 1913,Cagliari,4,Parma Calcio 1913,3,16.0,20.0
+Italian Serie A,2019-2020,Cagliari vs Parma Calcio 1913,Cagliari,2,Parma Calcio 1913,2,14.0,11.0
+Italian Serie A,2018-2019,Cagliari vs Parma Calcio 1913,Cagliari,2,Parma Calcio 1913,1,15.0,14.0
+Italian Serie A,2023-2024,Cagliari vs Roma,Cagliari,1,Roma,4,16.0,6.0
+Italian Serie A,2021-2022,Cagliari vs Roma,Cagliari,1,Roma,2,18.0,6.0
+Italian Serie A,2020-2021,Cagliari vs Roma,Cagliari,3,Roma,2,16.0,7.0
+Italian Serie A,2019-2020,Cagliari vs Roma,Cagliari,3,Roma,4,14.0,5.0
+Italian Serie A,2018-2019,Cagliari vs Roma,Cagliari,2,Roma,2,15.0,6.0
+Italian Serie A,2017-2018,Cagliari vs Roma,Cagliari,0,Roma,1,14.0,4.0
+Italian Serie A,2016-2017,Cagliari vs Roma,Cagliari,2,Roma,2,12.0,2.0
+Italian Serie A,2012-2013,Cagliari vs Roma,Cagliari,0,Roma,3,11.0,6.0
+Italian Serie A,2013-2014,Cagliari vs Roma,Cagliari,1,Roma,3,15.0,2.0
+Italian Serie A,2014-2015,Cagliari vs Roma,Cagliari,1,Roma,2,18.0,2.0
+Italian Serie A,2023-2024,Cagliari vs Torino,Cagliari,1,Torino,2,16.0,9.0
+Italian Serie A,2021-2022,Cagliari vs Torino,Cagliari,1,Torino,1,18.0,10.0
+Italian Serie A,2020-2021,Cagliari vs Torino,Cagliari,0,Torino,1,16.0,17.0
+Italian Serie A,2019-2020,Cagliari vs Torino,Cagliari,4,Torino,2,14.0,16.0
+Italian Serie A,2018-2019,Cagliari vs Torino,Cagliari,0,Torino,0,15.0,7.0
+Italian Serie A,2017-2018,Cagliari vs Torino,Cagliari,0,Torino,4,14.0,9.0
+Italian Serie A,2016-2017,Cagliari vs Torino,Cagliari,2,Torino,3,12.0,9.0
+Italian Serie A,2012-2013,Cagliari vs Torino,Cagliari,4,Torino,3,11.0,16.0
+Italian Serie A,2013-2014,Cagliari vs Torino,Cagliari,2,Torino,1,15.0,7.0
+Italian Serie A,2014-2015,Cagliari vs Torino,Cagliari,1,Torino,2,18.0,9.0
+Italian Serie A,2023-2024,Cagliari vs Udinese,Cagliari,0,Udinese,0,16.0,15.0
+Italian Serie A,2021-2022,Cagliari vs Udinese,Cagliari,0,Udinese,4,18.0,12.0
+Italian Serie A,2020-2021,Cagliari vs Udinese,Cagliari,1,Udinese,1,16.0,14.0
+Italian Serie A,2019-2020,Cagliari vs Udinese,Cagliari,0,Udinese,1,14.0,13.0
+Italian Serie A,2018-2019,Cagliari vs Udinese,Cagliari,1,Udinese,2,15.0,12.0
+Italian Serie A,2017-2018,Cagliari vs Udinese,Cagliari,2,Udinese,1,14.0,10.0
+Italian Serie A,2016-2017,Cagliari vs Udinese,Cagliari,2,Udinese,1,12.0,13.0
+Italian Serie A,2012-2013,Cagliari vs Udinese,Cagliari,0,Udinese,1,11.0,5.0
+Italian Serie A,2013-2014,Cagliari vs Udinese,Cagliari,3,Udinese,0,15.0,14.0
+Italian Serie A,2014-2015,Cagliari vs Udinese,Cagliari,4,Udinese,3,18.0,16.0
+Italian Serie B,2022-2023,Cagliari vs Venezia,Cagliari,2,Venezia,1,,
+Italian Serie B,2022-2023,Cagliari vs Venezia,Cagliari,1,Venezia,4,,
+Italian Serie A,2021-2022,Cagliari vs Venezia,Cagliari,1,Venezia,1,18.0,20.0
+Italian Serie A,2023-2024,Cagliari vs Verona,Cagliari,1,Verona,1,16.0,13.0
+Italian Serie A,2021-2022,Cagliari vs Verona,Cagliari,1,Verona,2,18.0,9.0
+Coppa Italia,2020-2021,Cagliari vs Verona,Cagliari,2,Verona,1,16.0,10.0
+Italian Serie A,2020-2021,Cagliari vs Verona,Cagliari,0,Verona,2,16.0,10.0
+Italian Serie A,2019-2020,Cagliari vs Verona,Cagliari,1,Verona,1,14.0,9.0
+Italian Serie A,2017-2018,Cagliari vs Verona,Cagliari,2,Verona,1,14.0,19.0
+Italian Serie A,2013-2014,Cagliari vs Verona,Cagliari,1,Verona,0,15.0,10.0
+Italian Serie A,2014-2015,Cagliari vs Verona,Cagliari,1,Verona,2,18.0,13.0
+Italian Serie B,2022-2023,Como vs Cagliari,Como,1,Cagliari,1,,
+Italian Serie B,2022-2023,Como vs Genoa,Como,2,Genoa,2,,
+Italian Serie C,2020-2021,Como vs Juventus U23,Como,3,Juventus U23,0,,
+Italian Serie C,2019-2020,Como vs Juventus U23,Como,1,Juventus U23,1,,
+Italian Lega Pro,2019-2020,Como vs Juventus U23,Como,1,Juventus U23,1,,
+Italian Serie B,2021-2022,Como vs Lecce,Como,1,Lecce,1,,
+Italian Serie B,2021-2022,Como vs Monza,Como,2,Monza,0,,
+Italian Lega Pro,2019-2020,Como vs Monza,Como,0,Monza,1,,
+Italian Serie B,2023-2024,Como vs Parma Calcio 1913,Como,1,Parma Calcio 1913,1,,
+Italian Serie B,2022-2023,Como vs Parma Calcio 1913,Como,2,Parma Calcio 1913,0,,
+Italian Serie B,2021-2022,Como vs Parma Calcio 1913,Como,1,Parma Calcio 1913,1,,
+Italian Serie B,2023-2024,Como vs Venezia,Como,2,Venezia,1,,
+Italian Serie B,2022-2023,Como vs Venezia,Como,1,Venezia,0,,
+Italian Serie A,2023-2024,Empoli vs AC Milan,Empoli,0,Milan,3,17.0,
+Italian Serie A,2023-2024,Empoli vs Atalanta,Empoli,0,Atalanta,3,17.0,4.0
+Italian Serie A,2022-2023,Empoli vs Atalanta,Empoli,0,Atalanta,2,14.0,5.0
+Italian Serie A,2021-2022,Empoli vs Atalanta,Empoli,1,Atalanta,4,14.0,8.0
+Italian Serie A,2018-2019,Empoli vs Atalanta,Empoli,3,Atalanta,2,18.0,3.0
+Italian Serie A,2016-2017,Empoli vs Atalanta,Empoli,0,Atalanta,1,18.0,4.0
+Italian Serie A,2015-2016,Empoli vs Atalanta,Empoli,0,Atalanta,1,11.0,13.0
+Italian Serie A,2014-2015,Empoli vs Atalanta,Empoli,0,Atalanta,0,15.0,17.0
+Italian Serie A,2023-2024,Empoli vs Bologna,Empoli,0,Bologna,1,17.0,5.0
+Italian Serie A,2022-2023,Empoli vs Bologna,Empoli,3,Bologna,1,14.0,9.0
+Italian Serie A,2021-2022,Empoli vs Bologna,Empoli,4,Bologna,2,14.0,13.0
+Italian Serie A,2018-2019,Empoli vs Bologna,Empoli,2,Bologna,1,18.0,10.0
+Italian Serie A,2016-2017,Empoli vs Bologna,Empoli,3,Bologna,1,18.0,15.0
+Italian Serie A,2015-2016,Empoli vs Bologna,Empoli,0,Bologna,0,11.0,14.0
+Italian Serie A,2023-2024,Empoli vs Cagliari,Empoli,0,Cagliari,1,17.0,16.0
+Italian Serie A,2021-2022,Empoli vs Cagliari,Empoli,1,Cagliari,1,14.0,18.0
+Italian Serie A,2018-2019,Empoli vs Cagliari,Empoli,2,Cagliari,0,18.0,15.0
+Italian Serie A,2016-2017,Empoli vs Cagliari,Empoli,2,Cagliari,0,18.0,12.0
+Italian Serie A,2014-2015,Empoli vs Cagliari,Empoli,0,Cagliari,4,15.0,18.0
+Italian Serie A,2023-2024,Empoli vs Fiorentina,Empoli,1,Fiorentina,1,17.0,8.0
+Italian Serie A,2022-2023,Empoli vs Fiorentina,Empoli,0,Fiorentina,0,14.0,8.0
+Italian Serie A,2021-2022,Empoli vs Fiorentina,Empoli,2,Fiorentina,1,14.0,7.0
+Italian Serie A,2018-2019,Empoli vs Fiorentina,Empoli,1,Fiorentina,0,18.0,16.0
+Italian Serie A,2016-2017,Empoli vs Fiorentina,Empoli,0,Fiorentina,4,18.0,8.0
+Italian Serie A,2015-2016,Empoli vs Fiorentina,Empoli,2,Fiorentina,0,11.0,5.0
+Italian Serie A,2014-2015,Empoli vs Fiorentina,Empoli,2,Fiorentina,3,15.0,4.0
+Italian Serie A,2023-2024,Empoli vs Genoa,Empoli,0,Genoa,0,17.0,11.0
+Italian Serie A,2021-2022,Empoli vs Genoa,Empoli,2,Genoa,2,14.0,19.0
+Italian Serie A,2018-2019,Empoli vs Genoa,Empoli,1,Genoa,3,18.0,17.0
+Italian Serie A,2016-2017,Empoli vs Genoa,Empoli,0,Genoa,2,18.0,16.0
+Italian Serie A,2015-2016,Empoli vs Genoa,Empoli,2,Genoa,0,11.0,10.0
+Italian Serie A,2014-2015,Empoli vs Genoa,Empoli,1,Genoa,1,15.0,6.0
+Italian Serie A,2023-2024,Empoli vs Inter Milan,Empoli,0,Inter,1,17.0,
+Italian Serie A,2023-2024,Empoli vs Juventus,Empoli,0,Juventus,2,17.0,3.0
+Italian Serie A,2022-2023,Empoli vs Juventus,Empoli,4,Juventus,1,14.0,7.0
+Italian Serie A,2021-2022,Empoli vs Juventus,Empoli,2,Juventus,3,14.0,4.0
+Italian Serie A,2018-2019,Empoli vs Juventus,Empoli,1,Juventus,2,18.0,1.0
+Italian Serie A,2016-2017,Empoli vs Juventus,Empoli,0,Juventus,3,18.0,1.0
+Italian Serie A,2015-2016,Empoli vs Juventus,Empoli,1,Juventus,3,11.0,1.0
+Italian Serie A,2014-2015,Empoli vs Juventus,Empoli,0,Juventus,2,15.0,1.0
+Italian Serie A,2023-2024,Empoli vs Lazio,Empoli,0,Lazio,2,17.0,7.0
+Italian Serie A,2022-2023,Empoli vs Lazio,Empoli,0,Lazio,2,14.0,2.0
+Italian Serie A,2021-2022,Empoli vs Lazio,Empoli,1,Lazio,3,14.0,5.0
+Italian Serie A,2018-2019,Empoli vs Lazio,Empoli,0,Lazio,1,18.0,8.0
+Italian Serie A,2016-2017,Empoli vs Lazio,Empoli,1,Lazio,2,18.0,5.0
+Italian Serie A,2015-2016,Empoli vs Lazio,Empoli,1,Lazio,0,11.0,8.0
+Italian Serie A,2014-2015,Empoli vs Lazio,Empoli,2,Lazio,1,15.0,3.0
+Italian Serie A,2023-2024,Empoli vs Lecce,Empoli,1,Lecce,1,17.0,14.0
+Italian Serie A,2022-2023,Empoli vs Lecce,Empoli,1,Lecce,0,14.0,16.0
+Italian Serie B,2020-2021,Empoli vs Lecce,Empoli,2,Lecce,1,,
+Italian Serie A,2023-2024,Empoli vs Monza,Empoli,3,Monza,0,17.0,12.0
+Italian Serie A,2022-2023,Empoli vs Monza,Empoli,1,Monza,0,14.0,11.0
+Italian Serie B,2020-2021,Empoli vs Monza,Empoli,0,Monza,0,,
+Italian Serie A,2023-2024,Empoli vs Napoli,Empoli,1,Napoli,0,17.0,10.0
+Italian Serie A,2022-2023,Empoli vs Napoli,Empoli,0,Napoli,2,14.0,1.0
+Italian Serie A,2021-2022,Empoli vs Napoli,Empoli,3,Napoli,2,14.0,3.0
+Italian Serie A,2018-2019,Empoli vs Napoli,Empoli,2,Napoli,1,18.0,2.0
+Italian Serie A,2016-2017,Empoli vs Napoli,Empoli,2,Napoli,3,18.0,3.0
+Italian Serie A,2015-2016,Empoli vs Napoli,Empoli,2,Napoli,2,11.0,2.0
+Italian Serie A,2014-2015,Empoli vs Napoli,Empoli,4,Napoli,2,15.0,5.0
+Italian Serie A,2018-2019,Empoli vs Parma Calcio 1913,Empoli,3,Parma Calcio 1913,3,18.0,14.0
+Italian Serie B,2017-2018,Empoli vs Parma Calcio 1913,Empoli,4,Parma Calcio 1913,0,,
+Italian Serie A,2023-2024,Empoli vs Roma,Empoli,2,Roma,1,17.0,6.0
+Italian Serie A,2022-2023,Empoli vs Roma,Empoli,1,Roma,2,14.0,6.0
+Italian Serie A,2021-2022,Empoli vs Roma,Empoli,2,Roma,4,14.0,6.0
+Italian Serie A,2018-2019,Empoli vs Roma,Empoli,0,Roma,2,18.0,6.0
+Italian Serie A,2016-2017,Empoli vs Roma,Empoli,0,Roma,0,18.0,2.0
+Italian Serie A,2015-2016,Empoli vs Roma,Empoli,1,Roma,3,11.0,3.0
+Italian Serie A,2014-2015,Empoli vs Roma,Empoli,0,Roma,1,15.0,2.0
+Italian Serie A,2023-2024,Empoli vs Torino,Empoli,3,Torino,2,17.0,9.0
+Italian Serie A,2022-2023,Empoli vs Torino,Empoli,2,Torino,2,14.0,10.0
+Italian Serie A,2021-2022,Empoli vs Torino,Empoli,1,Torino,3,14.0,10.0
+Italian Serie A,2018-2019,Empoli vs Torino,Empoli,4,Torino,1,18.0,7.0
+Italian Serie A,2016-2017,Empoli vs Torino,Empoli,1,Torino,1,18.0,9.0
+Italian Serie A,2015-2016,Empoli vs Torino,Empoli,2,Torino,1,11.0,12.0
+Italian Serie A,2014-2015,Empoli vs Torino,Empoli,0,Torino,0,15.0,9.0
+Italian Serie A,2023-2024,Empoli vs Udinese,Empoli,0,Udinese,0,17.0,15.0
+Italian Serie A,2022-2023,Empoli vs Udinese,Empoli,0,Udinese,1,14.0,12.0
+Italian Serie A,2021-2022,Empoli vs Udinese,Empoli,3,Udinese,1,14.0,12.0
+Italian Serie A,2018-2019,Empoli vs Udinese,Empoli,2,Udinese,1,18.0,12.0
+Italian Serie A,2016-2017,Empoli vs Udinese,Empoli,1,Udinese,0,18.0,13.0
+Italian Serie A,2015-2016,Empoli vs Udinese,Empoli,1,Udinese,1,11.0,17.0
+Italian Serie A,2014-2015,Empoli vs Udinese,Empoli,1,Udinese,2,15.0,16.0
+Italian Serie A,2021-2022,Empoli vs Venezia,Empoli,1,Venezia,2,14.0,20.0
+Italian Serie B,2020-2021,Empoli vs Venezia,Empoli,1,Venezia,1,,
+Italian Serie B,2019-2020,Empoli vs Venezia,Empoli,1,Venezia,1,,
+Italian Serie B,2017-2018,Empoli vs Venezia,Empoli,3,Venezia,2,,
+Italian Serie A,2023-2024,Empoli vs Verona,Empoli,0,Verona,1,17.0,13.0
+Italian Serie A,2022-2023,Empoli vs Verona,Empoli,1,Verona,1,14.0,18.0
+Italian Serie A,2021-2022,Empoli vs Verona,Empoli,1,Verona,1,14.0,9.0
+Italian Serie A,2015-2016,Empoli vs Verona,Empoli,1,Verona,0,11.0,20.0
+Italian Serie B,2012-2013,Empoli vs Verona,Empoli,1,Verona,1,,
+Italian Serie A,2014-2015,Empoli vs Verona,Empoli,0,Verona,0,15.0,13.0
+Italian Serie A,2023-2024,Fiorentina vs AC Milan,Fiorentina,1,Milan,2,8.0,
+Coppa Italia,2023-2024,Fiorentina vs Atalanta,Fiorentina,1,Atalanta,0,8.0,4.0
+Italian Serie A,2023-2024,Fiorentina vs Atalanta,Fiorentina,3,Atalanta,2,8.0,4.0
+Italian Serie A,2022-2023,Fiorentina vs Atalanta,Fiorentina,1,Atalanta,1,8.0,5.0
+Italian Serie A,2021-2022,Fiorentina vs Atalanta,Fiorentina,1,Atalanta,0,7.0,8.0
+Italian Serie A,2020-2021,Fiorentina vs Atalanta,Fiorentina,2,Atalanta,3,13.0,3.0
+Coppa Italia,2019-2020,Fiorentina vs Atalanta,Fiorentina,2,Atalanta,1,10.0,3.0
+Italian Serie A,2019-2020,Fiorentina vs Atalanta,Fiorentina,1,Atalanta,2,10.0,3.0
+Coppa Italia,2018-2019,Fiorentina vs Atalanta,Fiorentina,3,Atalanta,3,16.0,3.0
+Italian Serie A,2018-2019,Fiorentina vs Atalanta,Fiorentina,2,Atalanta,0,16.0,3.0
+Italian Serie A,2017-2018,Fiorentina vs Atalanta,Fiorentina,1,Atalanta,1,11.0,8.0
+Italian Serie A,2016-2017,Fiorentina vs Atalanta,Fiorentina,0,Atalanta,0,8.0,4.0
+Italian Serie A,2015-2016,Fiorentina vs Atalanta,Fiorentina,3,Atalanta,0,5.0,13.0
+Italian Serie A,2012-2013,Fiorentina vs Atalanta,Fiorentina,4,Atalanta,1,4.0,15.0
+Italian Serie A,2013-2014,Fiorentina vs Atalanta,Fiorentina,2,Atalanta,0,4.0,11.0
+Italian Serie A,2014-2015,Fiorentina vs Atalanta,Fiorentina,3,Atalanta,2,4.0,17.0
+Coppa Italia,2023-2024,Fiorentina vs Bologna,Fiorentina,0,Bologna,0,8.0,5.0
+Italian Serie A,2023-2024,Fiorentina vs Bologna,Fiorentina,2,Bologna,1,8.0,5.0
+Italian Serie A,2022-2023,Fiorentina vs Bologna,Fiorentina,1,Bologna,2,8.0,9.0
+Italian Serie A,2021-2022,Fiorentina vs Bologna,Fiorentina,1,Bologna,0,7.0,13.0
+Italian Serie A,2020-2021,Fiorentina vs Bologna,Fiorentina,0,Bologna,0,13.0,12.0
+Italian Serie A,2019-2020,Fiorentina vs Bologna,Fiorentina,4,Bologna,0,10.0,12.0
+Italian Serie A,2018-2019,Fiorentina vs Bologna,Fiorentina,0,Bologna,0,16.0,10.0
+Italian Serie A,2017-2018,Fiorentina vs Bologna,Fiorentina,2,Bologna,1,11.0,13.0
+Italian Serie A,2016-2017,Fiorentina vs Bologna,Fiorentina,1,Bologna,0,8.0,15.0
+Italian Serie A,2015-2016,Fiorentina vs Bologna,Fiorentina,2,Bologna,0,5.0,14.0
+Italian Serie A,2012-2013,Fiorentina vs Bologna,Fiorentina,1,Bologna,0,4.0,13.0
+Italian Serie A,2013-2014,Fiorentina vs Bologna,Fiorentina,3,Bologna,0,4.0,19.0
+Italian Serie A,2023-2024,Fiorentina vs Cagliari,Fiorentina,3,Cagliari,0,8.0,16.0
+Italian Serie A,2021-2022,Fiorentina vs Cagliari,Fiorentina,3,Cagliari,0,7.0,18.0
+Italian Serie A,2020-2021,Fiorentina vs Cagliari,Fiorentina,1,Cagliari,0,13.0,16.0
+Italian Serie A,2019-2020,Fiorentina vs Cagliari,Fiorentina,0,Cagliari,0,10.0,14.0
+Italian Serie A,2018-2019,Fiorentina vs Cagliari,Fiorentina,1,Cagliari,1,16.0,15.0
+Italian Serie A,2017-2018,Fiorentina vs Cagliari,Fiorentina,0,Cagliari,1,11.0,14.0
+Italian Serie A,2016-2017,Fiorentina vs Cagliari,Fiorentina,1,Cagliari,0,8.0,12.0
+Italian Serie A,2012-2013,Fiorentina vs Cagliari,Fiorentina,4,Cagliari,1,4.0,11.0
+Italian Serie A,2013-2014,Fiorentina vs Cagliari,Fiorentina,1,Cagliari,1,4.0,15.0
+Italian Serie A,2014-2015,Fiorentina vs Cagliari,Fiorentina,1,Cagliari,3,4.0,18.0
+Italian Serie A,2023-2024,Fiorentina vs Empoli,Fiorentina,0,Empoli,2,8.0,17.0
+Italian Serie A,2022-2023,Fiorentina vs Empoli,Fiorentina,1,Empoli,1,8.0,14.0
+Italian Serie A,2021-2022,Fiorentina vs Empoli,Fiorentina,1,Empoli,0,7.0,14.0
+Italian Serie A,2018-2019,Fiorentina vs Empoli,Fiorentina,3,Empoli,1,16.0,18.0
+Italian Serie A,2016-2017,Fiorentina vs Empoli,Fiorentina,,Empoli,,8.0,18.0
+Italian Serie A,2016-2017,Fiorentina vs Empoli,Fiorentina,1,Empoli,2,8.0,18.0
+Italian Serie A,2015-2016,Fiorentina vs Empoli,Fiorentina,2,Empoli,2,5.0,11.0
+Italian Serie A,2014-2015,Fiorentina vs Empoli,Fiorentina,1,Empoli,1,4.0,15.0
+Italian Serie A,2023-2024,Fiorentina vs Genoa,Fiorentina,1,Genoa,1,8.0,11.0
+Italian Serie A,2021-2022,Fiorentina vs Genoa,Fiorentina,6,Genoa,0,7.0,19.0
+Italian Serie A,2020-2021,Fiorentina vs Genoa,Fiorentina,1,Genoa,1,13.0,11.0
+Italian Serie A,2019-2020,Fiorentina vs Genoa,Fiorentina,0,Genoa,0,10.0,17.0
+Italian Serie A,2018-2019,Fiorentina vs Genoa,Fiorentina,0,Genoa,0,16.0,17.0
+Italian Serie A,2017-2018,Fiorentina vs Genoa,Fiorentina,0,Genoa,0,11.0,12.0
+Italian Serie A,2016-2017,Fiorentina vs Genoa,Fiorentina,3,Genoa,3,8.0,16.0
+Italian Serie A,2015-2016,Fiorentina vs Genoa,Fiorentina,1,Genoa,0,5.0,10.0
+Italian Serie A,2012-2013,Fiorentina vs Genoa,Fiorentina,3,Genoa,2,4.0,17.0
+Italian Serie A,2013-2014,Fiorentina vs Genoa,Fiorentina,3,Genoa,3,4.0,13.0
+Italian Serie A,2014-2015,Fiorentina vs Genoa,Fiorentina,0,Genoa,0,4.0,6.0
+Italian Serie A,2023-2024,Fiorentina vs Inter Milan,Fiorentina,0,Inter,1,8.0,
+Italian Serie A,2023-2024,Fiorentina vs Juventus,Fiorentina,0,Juventus,1,8.0,3.0
+Italian Serie A,2022-2023,Fiorentina vs Juventus,Fiorentina,1,Juventus,1,8.0,7.0
+Coppa Italia,2021-2022,Fiorentina vs Juventus,Fiorentina,0,Juventus,1,7.0,4.0
+Italian Serie A,2021-2022,Fiorentina vs Juventus,Fiorentina,2,Juventus,0,7.0,4.0
+Italian Serie A,2020-2021,Fiorentina vs Juventus,Fiorentina,1,Juventus,1,13.0,4.0
+Italian Serie A,2019-2020,Fiorentina vs Juventus,Fiorentina,0,Juventus,0,10.0,1.0
+Italian Serie A,2018-2019,Fiorentina vs Juventus,Fiorentina,0,Juventus,3,16.0,1.0
+Italian Serie A,2017-2018,Fiorentina vs Juventus,Fiorentina,0,Juventus,2,11.0,2.0
+Italian Serie A,2016-2017,Fiorentina vs Juventus,Fiorentina,2,Juventus,1,8.0,1.0
+Italian Serie A,2015-2016,Fiorentina vs Juventus,Fiorentina,1,Juventus,2,5.0,1.0
+Italian Serie A,2012-2013,Fiorentina vs Juventus,Fiorentina,0,Juventus,0,4.0,1.0
+Italian Serie A,2013-2014,Fiorentina vs Juventus,Fiorentina,4,Juventus,2,4.0,1.0
+Italian Serie A,2014-2015,Fiorentina vs Juventus,Fiorentina,0,Juventus,0,4.0,1.0
+Italian Serie A,2023-2024,Fiorentina vs Lazio,Fiorentina,2,Lazio,1,8.0,7.0
+Italian Serie A,2022-2023,Fiorentina vs Lazio,Fiorentina,0,Lazio,4,8.0,2.0
+Italian Serie A,2021-2022,Fiorentina vs Lazio,Fiorentina,0,Lazio,3,7.0,5.0
+Italian Serie A,2020-2021,Fiorentina vs Lazio,Fiorentina,2,Lazio,0,13.0,6.0
+Italian Serie A,2019-2020,Fiorentina vs Lazio,Fiorentina,1,Lazio,2,10.0,4.0
+Italian Serie A,2018-2019,Fiorentina vs Lazio,Fiorentina,1,Lazio,1,16.0,8.0
+Italian Serie A,2017-2018,Fiorentina vs Lazio,Fiorentina,3,Lazio,4,11.0,5.0
+Italian Serie A,2016-2017,Fiorentina vs Lazio,Fiorentina,3,Lazio,2,8.0,5.0
+Italian Serie A,2015-2016,Fiorentina vs Lazio,Fiorentina,1,Lazio,3,5.0,8.0
+Italian Serie A,2012-2013,Fiorentina vs Lazio,Fiorentina,2,Lazio,0,4.0,7.0
+Italian Serie A,2013-2014,Fiorentina vs Lazio,Fiorentina,0,Lazio,1,4.0,9.0
+Italian Serie A,2014-2015,Fiorentina vs Lazio,Fiorentina,0,Lazio,2,4.0,3.0
+Italian Serie A,2023-2024,Fiorentina vs Lecce,Fiorentina,2,Lecce,2,8.0,14.0
+Italian Serie A,2022-2023,Fiorentina vs Lecce,Fiorentina,1,Lecce,0,8.0,16.0
+Italian Serie A,2019-2020,Fiorentina vs Lecce,Fiorentina,0,Lecce,1,10.0,18.0
+Italian Serie A,2023-2024,Fiorentina vs Monza,Fiorentina,2,Monza,1,8.0,12.0
+Italian Serie A,2022-2023,Fiorentina vs Monza,Fiorentina,1,Monza,1,8.0,11.0
+Coppa Italia,2019-2020,Fiorentina vs Monza,Fiorentina,3,Monza,1,10.0,
+Italian Serie A,2023-2024,Fiorentina vs Napoli,Fiorentina,2,Napoli,2,8.0,10.0
+Italian Serie A,2022-2023,Fiorentina vs Napoli,Fiorentina,0,Napoli,0,8.0,1.0
+Italian Serie A,2021-2022,Fiorentina vs Napoli,Fiorentina,1,Napoli,2,7.0,3.0
+Italian Serie A,2020-2021,Fiorentina vs Napoli,Fiorentina,0,Napoli,2,13.0,5.0
+Italian Serie A,2019-2020,Fiorentina vs Napoli,Fiorentina,3,Napoli,4,10.0,7.0
+Italian Serie A,2018-2019,Fiorentina vs Napoli,Fiorentina,0,Napoli,0,16.0,2.0
+Italian Serie A,2017-2018,Fiorentina vs Napoli,Fiorentina,3,Napoli,0,11.0,1.0
+Italian Serie A,2016-2017,Fiorentina vs Napoli,Fiorentina,3,Napoli,3,8.0,3.0
+Italian Serie A,2015-2016,Fiorentina vs Napoli,Fiorentina,1,Napoli,1,5.0,2.0
+Italian Serie A,2012-2013,Fiorentina vs Napoli,Fiorentina,1,Napoli,1,4.0,2.0
+Italian Serie A,2013-2014,Fiorentina vs Napoli,Fiorentina,1,Napoli,2,4.0,3.0
+Italian Serie A,2014-2015,Fiorentina vs Napoli,Fiorentina,0,Napoli,1,4.0,5.0
+Coppa Italia,2023-2024,Fiorentina vs Parma Calcio 1913,Fiorentina,2,Parma Calcio 1913,2,8.0,
+Italian Serie A,2020-2021,Fiorentina vs Parma Calcio 1913,Fiorentina,3,Parma Calcio 1913,3,13.0,20.0
+Italian Serie A,2019-2020,Fiorentina vs Parma Calcio 1913,Fiorentina,1,Parma Calcio 1913,1,10.0,11.0
+Italian Serie A,2018-2019,Fiorentina vs Parma Calcio 1913,Fiorentina,0,Parma Calcio 1913,1,16.0,14.0
+Italian Serie A,2023-2024,Fiorentina vs Roma,Fiorentina,2,Roma,2,8.0,6.0
+Italian Serie A,2022-2023,Fiorentina vs Roma,Fiorentina,2,Roma,1,8.0,6.0
+Italian Serie A,2021-2022,Fiorentina vs Roma,Fiorentina,2,Roma,0,7.0,6.0
+Italian Serie A,2020-2021,Fiorentina vs Roma,Fiorentina,1,Roma,2,13.0,7.0
+Italian Serie A,2019-2020,Fiorentina vs Roma,Fiorentina,1,Roma,4,10.0,5.0
+Coppa Italia,2018-2019,Fiorentina vs Roma,Fiorentina,7,Roma,1,16.0,6.0
+Italian Serie A,2018-2019,Fiorentina vs Roma,Fiorentina,1,Roma,1,16.0,6.0
+Italian Serie A,2017-2018,Fiorentina vs Roma,Fiorentina,2,Roma,4,11.0,4.0
+Italian Serie A,2016-2017,Fiorentina vs Roma,Fiorentina,1,Roma,0,8.0,2.0
+Italian Serie A,2015-2016,Fiorentina vs Roma,Fiorentina,1,Roma,2,5.0,3.0
+Italian Serie A,2012-2013,Fiorentina vs Roma,Fiorentina,0,Roma,1,4.0,6.0
+Italian Serie A,2013-2014,Fiorentina vs Roma,Fiorentina,0,Roma,1,4.0,2.0
+Italian Serie A,2014-2015,Fiorentina vs Roma,Fiorentina,1,Roma,1,4.0,2.0
+Italian Serie A,2023-2024,Fiorentina vs Torino,Fiorentina,1,Torino,0,8.0,9.0
+Coppa Italia,2022-2023,Fiorentina vs Torino,Fiorentina,2,Torino,1,8.0,10.0
+Italian Serie A,2022-2023,Fiorentina vs Torino,Fiorentina,0,Torino,1,8.0,10.0
+Italian Serie A,2021-2022,Fiorentina vs Torino,Fiorentina,2,Torino,1,7.0,10.0
+Italian Serie A,2020-2021,Fiorentina vs Torino,Fiorentina,1,Torino,0,13.0,17.0
+Italian Serie A,2019-2020,Fiorentina vs Torino,Fiorentina,2,Torino,0,10.0,16.0
+Italian Serie A,2018-2019,Fiorentina vs Torino,Fiorentina,1,Torino,1,16.0,7.0
+Italian Serie A,2017-2018,Fiorentina vs Torino,Fiorentina,3,Torino,0,11.0,9.0
+Italian Serie A,2016-2017,Fiorentina vs Torino,Fiorentina,2,Torino,2,8.0,9.0
+Italian Serie A,2015-2016,Fiorentina vs Torino,Fiorentina,2,Torino,0,5.0,12.0
+Italian Serie A,2012-2013,Fiorentina vs Torino,Fiorentina,4,Torino,3,4.0,16.0
+Italian Serie A,2013-2014,Fiorentina vs Torino,Fiorentina,2,Torino,2,4.0,7.0
+Italian Serie A,2014-2015,Fiorentina vs Torino,Fiorentina,1,Torino,1,4.0,9.0
+Italian Serie A,2023-2024,Fiorentina vs Udinese,Fiorentina,2,Udinese,2,8.0,15.0
+Italian Serie A,2022-2023,Fiorentina vs Udinese,Fiorentina,2,Udinese,0,8.0,12.0
+Italian Serie A,2021-2022,Fiorentina vs Udinese,Fiorentina,0,Udinese,4,7.0,12.0
+Italian Serie A,2020-2021,Fiorentina vs Udinese,Fiorentina,3,Udinese,2,13.0,14.0
+Italian Serie A,2019-2020,Fiorentina vs Udinese,Fiorentina,1,Udinese,0,10.0,13.0
+Italian Serie A,2018-2019,Fiorentina vs Udinese,Fiorentina,1,Udinese,0,16.0,12.0
+Italian Serie A,2017-2018,Fiorentina vs Udinese,Fiorentina,2,Udinese,1,11.0,10.0
+Italian Serie A,2016-2017,Fiorentina vs Udinese,Fiorentina,3,Udinese,0,8.0,13.0
+Italian Serie A,2015-2016,Fiorentina vs Udinese,Fiorentina,3,Udinese,0,5.0,17.0
+Italian Serie A,2012-2013,Fiorentina vs Udinese,Fiorentina,2,Udinese,1,4.0,5.0
+Italian Serie A,2013-2014,Fiorentina vs Udinese,Fiorentina,2,Udinese,1,4.0,14.0
+Italian Serie A,2014-2015,Fiorentina vs Udinese,Fiorentina,3,Udinese,0,4.0,16.0
+Italian Serie A,2021-2022,Fiorentina vs Venezia,Fiorentina,1,Venezia,0,7.0,20.0
+Italian Serie A,2023-2024,Fiorentina vs Verona,Fiorentina,1,Verona,0,8.0,13.0
+Italian Serie A,2022-2023,Fiorentina vs Verona,Fiorentina,2,Verona,0,8.0,18.0
+Italian Serie A,2021-2022,Fiorentina vs Verona,Fiorentina,1,Verona,1,7.0,9.0
+Italian Serie A,2020-2021,Fiorentina vs Verona,Fiorentina,1,Verona,1,13.0,10.0
+Italian Serie A,2019-2020,Fiorentina vs Verona,Fiorentina,1,Verona,1,10.0,9.0
+Italian Serie A,2017-2018,Fiorentina vs Verona,Fiorentina,1,Verona,4,11.0,19.0
+Italian Serie A,2015-2016,Fiorentina vs Verona,Fiorentina,1,Verona,1,5.0,20.0
+Italian Serie A,2013-2014,Fiorentina vs Verona,Fiorentina,4,Verona,3,4.0,10.0
+Italian Serie A,2014-2015,Fiorentina vs Verona,Fiorentina,0,Verona,1,4.0,13.0
+Italian Serie A,2023-2024,Genoa vs AC Milan,Genoa,0,Milan,1,11.0,
+Italian Serie A,2023-2024,Genoa vs Atalanta,Genoa,1,Atalanta,4,11.0,4.0
+Italian Serie A,2021-2022,Genoa vs Atalanta,Genoa,0,Atalanta,0,19.0,8.0
+Italian Serie A,2020-2021,Genoa vs Atalanta,Genoa,3,Atalanta,4,11.0,3.0
+Italian Serie A,2019-2020,Genoa vs Atalanta,Genoa,1,Atalanta,2,17.0,3.0
+Italian Serie A,2018-2019,Genoa vs Atalanta,Genoa,3,Atalanta,1,17.0,3.0
+Italian Serie A,2017-2018,Genoa vs Atalanta,Genoa,1,Atalanta,2,12.0,8.0
+Italian Serie A,2016-2017,Genoa vs Atalanta,Genoa,0,Atalanta,5,16.0,4.0
+Italian Serie A,2015-2016,Genoa vs Atalanta,Genoa,1,Atalanta,2,10.0,13.0
+Italian Serie A,2012-2013,Genoa vs Atalanta,Genoa,1,Atalanta,1,17.0,15.0
+Italian Serie A,2013-2014,Genoa vs Atalanta,Genoa,1,Atalanta,1,13.0,11.0
+Italian Serie A,2014-2015,Genoa vs Atalanta,Genoa,2,Atalanta,2,6.0,17.0
+Italian Serie A,2023-2024,Genoa vs Bologna,Genoa,2,Bologna,0,11.0,5.0
+Italian Serie A,2021-2022,Genoa vs Bologna,Genoa,0,Bologna,1,19.0,13.0
+Italian Serie A,2020-2021,Genoa vs Bologna,Genoa,2,Bologna,0,11.0,12.0
+Italian Serie A,2019-2020,Genoa vs Bologna,Genoa,0,Bologna,0,17.0,12.0
+Italian Serie A,2018-2019,Genoa vs Bologna,Genoa,1,Bologna,0,17.0,10.0
+Italian Serie A,2017-2018,Genoa vs Bologna,Genoa,0,Bologna,1,12.0,13.0
+Italian Serie A,2016-2017,Genoa vs Bologna,Genoa,1,Bologna,1,16.0,15.0
+Italian Serie A,2015-2016,Genoa vs Bologna,Genoa,0,Bologna,1,10.0,14.0
+Italian Serie A,2012-2013,Genoa vs Bologna,Genoa,2,Bologna,0,17.0,13.0
+Italian Serie A,2013-2014,Genoa vs Bologna,Genoa,0,Bologna,0,13.0,19.0
+Italian Serie A,2023-2024,Genoa vs Cagliari,Genoa,3,Cagliari,0,11.0,16.0
+Italian Serie B,2022-2023,Genoa vs Cagliari,Genoa,0,Cagliari,0,,
+Italian Serie A,2021-2022,Genoa vs Cagliari,Genoa,1,Cagliari,0,19.0,18.0
+Italian Serie A,2020-2021,Genoa vs Cagliari,Genoa,1,Cagliari,0,11.0,16.0
+Italian Serie A,2019-2020,Genoa vs Cagliari,Genoa,1,Cagliari,0,17.0,14.0
+Italian Serie A,2018-2019,Genoa vs Cagliari,Genoa,1,Cagliari,1,17.0,15.0
+Italian Serie A,2017-2018,Genoa vs Cagliari,Genoa,2,Cagliari,1,12.0,14.0
+Italian Serie A,2016-2017,Genoa vs Cagliari,Genoa,3,Cagliari,1,16.0,12.0
+Italian Serie A,2012-2013,Genoa vs Cagliari,Genoa,2,Cagliari,0,17.0,11.0
+Italian Serie A,2013-2014,Genoa vs Cagliari,Genoa,1,Cagliari,2,13.0,15.0
+Italian Serie A,2014-2015,Genoa vs Cagliari,Genoa,2,Cagliari,0,6.0,18.0
+Italian Serie B,2022-2023,Genoa vs Como,Genoa,1,Como,1,,
+Italian Serie A,2023-2024,Genoa vs Empoli,Genoa,1,Empoli,1,11.0,17.0
+Italian Serie A,2021-2022,Genoa vs Empoli,Genoa,0,Empoli,0,19.0,14.0
+Italian Serie A,2018-2019,Genoa vs Empoli,Genoa,2,Empoli,1,17.0,18.0
+Italian Serie A,2016-2017,Genoa vs Empoli,Genoa,0,Empoli,0,16.0,18.0
+Italian Serie A,2015-2016,Genoa vs Empoli,Genoa,1,Empoli,0,10.0,11.0
+Italian Serie A,2014-2015,Genoa vs Empoli,Genoa,1,Empoli,1,6.0,15.0
+Italian Serie A,2023-2024,Genoa vs Fiorentina,Genoa,1,Fiorentina,4,11.0,8.0
+Italian Serie A,2021-2022,Genoa vs Fiorentina,Genoa,1,Fiorentina,2,19.0,7.0
+Italian Serie A,2020-2021,Genoa vs Fiorentina,Genoa,1,Fiorentina,1,11.0,13.0
+Italian Serie A,2019-2020,Genoa vs Fiorentina,Genoa,2,Fiorentina,1,17.0,10.0
+Italian Serie A,2018-2019,Genoa vs Fiorentina,Genoa,0,Fiorentina,0,17.0,16.0
+Italian Serie A,2017-2018,Genoa vs Fiorentina,Genoa,2,Fiorentina,3,12.0,11.0
+Italian Serie A,2016-2017,Genoa vs Fiorentina,Genoa,1,Fiorentina,0,16.0,8.0
+Italian Serie A,2015-2016,Genoa vs Fiorentina,Genoa,0,Fiorentina,0,10.0,5.0
+Italian Serie A,2012-2013,Genoa vs Fiorentina,Genoa,0,Fiorentina,1,17.0,4.0
+Italian Serie A,2013-2014,Genoa vs Fiorentina,Genoa,2,Fiorentina,5,13.0,4.0
+Italian Serie A,2014-2015,Genoa vs Fiorentina,Genoa,1,Fiorentina,1,6.0,4.0
+Italian Serie A,2023-2024,Genoa vs Inter Milan,Genoa,1,Inter,1,11.0,
+Italian Serie A,2023-2024,Genoa vs Juventus,Genoa,1,Juventus,1,11.0,3.0
+Italian Serie A,2021-2022,Genoa vs Juventus,Genoa,2,Juventus,1,19.0,4.0
+Italian Serie A,2020-2021,Genoa vs Juventus,Genoa,1,Juventus,3,11.0,4.0
+Italian Serie A,2019-2020,Genoa vs Juventus,Genoa,1,Juventus,3,17.0,1.0
+Italian Serie A,2018-2019,Genoa vs Juventus,Genoa,2,Juventus,0,17.0,1.0
+Italian Serie A,2017-2018,Genoa vs Juventus,Genoa,2,Juventus,4,12.0,2.0
+Italian Serie A,2016-2017,Genoa vs Juventus,Genoa,3,Juventus,1,16.0,1.0
+Italian Serie A,2015-2016,Genoa vs Juventus,Genoa,0,Juventus,2,10.0,1.0
+Italian Serie A,2012-2013,Genoa vs Juventus,Genoa,1,Juventus,3,17.0,1.0
+Italian Serie A,2013-2014,Genoa vs Juventus,Genoa,0,Juventus,1,13.0,1.0
+Italian Serie A,2014-2015,Genoa vs Juventus,Genoa,1,Juventus,0,6.0,1.0
+Italian Serie A,2023-2024,Genoa vs Lazio,Genoa,0,Lazio,1,11.0,7.0
+Italian Serie A,2021-2022,Genoa vs Lazio,Genoa,1,Lazio,4,19.0,5.0
+Italian Serie A,2020-2021,Genoa vs Lazio,Genoa,1,Lazio,1,11.0,6.0
+Italian Serie A,2019-2020,Genoa vs Lazio,Genoa,2,Lazio,3,17.0,4.0
+Italian Serie A,2018-2019,Genoa vs Lazio,Genoa,2,Lazio,1,17.0,8.0
+Italian Serie A,2017-2018,Genoa vs Lazio,Genoa,2,Lazio,3,12.0,5.0
+Italian Serie A,2016-2017,Genoa vs Lazio,Genoa,,Lazio,,16.0,5.0
+Italian Serie A,2016-2017,Genoa vs Lazio,Genoa,2,Lazio,2,16.0,5.0
+Italian Serie A,2015-2016,Genoa vs Lazio,Genoa,0,Lazio,0,10.0,8.0
+Italian Serie A,2012-2013,Genoa vs Lazio,Genoa,3,Lazio,2,17.0,7.0
+Italian Serie A,2013-2014,Genoa vs Lazio,Genoa,2,Lazio,0,13.0,9.0
+Italian Serie A,2014-2015,Genoa vs Lazio,Genoa,1,Lazio,0,6.0,3.0
+Italian Serie A,2023-2024,Genoa vs Lecce,Genoa,2,Lecce,1,11.0,14.0
+Italian Serie A,2019-2020,Genoa vs Lecce,Genoa,2,Lecce,1,17.0,18.0
+Coppa Italia,2018-2019,Genoa vs Lecce,Genoa,4,Lecce,0,17.0,
+Italian Serie A,2023-2024,Genoa vs Monza,Genoa,2,Monza,3,11.0,12.0
+Italian Serie A,2023-2024,Genoa vs Napoli,Genoa,2,Napoli,2,11.0,10.0
+Italian Serie A,2021-2022,Genoa vs Napoli,Genoa,1,Napoli,2,19.0,3.0
+Italian Serie A,2020-2021,Genoa vs Napoli,Genoa,2,Napoli,1,11.0,5.0
+Italian Serie A,2019-2020,Genoa vs Napoli,Genoa,1,Napoli,2,17.0,7.0
+Italian Serie A,2018-2019,Genoa vs Napoli,Genoa,1,Napoli,2,17.0,2.0
+Italian Serie A,2017-2018,Genoa vs Napoli,Genoa,2,Napoli,3,12.0,1.0
+Italian Serie A,2016-2017,Genoa vs Napoli,Genoa,0,Napoli,0,16.0,3.0
+Italian Serie A,2015-2016,Genoa vs Napoli,Genoa,0,Napoli,0,10.0,2.0
+Italian Serie A,2012-2013,Genoa vs Napoli,Genoa,2,Napoli,4,17.0,2.0
+Italian Serie A,2013-2014,Genoa vs Napoli,Genoa,0,Napoli,2,13.0,3.0
+Italian Serie A,2014-2015,Genoa vs Napoli,Genoa,1,Napoli,2,6.0,5.0
+Italian Serie B,2022-2023,Genoa vs Parma Calcio 1913,Genoa,3,Parma Calcio 1913,3,,
+Italian Serie A,2020-2021,Genoa vs Parma Calcio 1913,Genoa,1,Parma Calcio 1913,2,11.0,20.0
+Italian Serie A,2019-2020,Genoa vs Parma Calcio 1913,Genoa,1,Parma Calcio 1913,4,17.0,11.0
+Italian Serie A,2018-2019,Genoa vs Parma Calcio 1913,Genoa,1,Parma Calcio 1913,3,17.0,14.0
+Italian Serie A,2023-2024,Genoa vs Roma,Genoa,4,Roma,1,11.0,6.0
+Italian Serie A,2021-2022,Genoa vs Roma,Genoa,0,Roma,2,19.0,6.0
+Italian Serie A,2020-2021,Genoa vs Roma,Genoa,1,Roma,3,11.0,7.0
+Italian Serie A,2019-2020,Genoa vs Roma,Genoa,1,Roma,3,17.0,5.0
+Italian Serie A,2018-2019,Genoa vs Roma,Genoa,1,Roma,1,17.0,6.0
+Italian Serie A,2017-2018,Genoa vs Roma,Genoa,1,Roma,1,12.0,4.0
+Italian Serie A,2016-2017,Genoa vs Roma,Genoa,0,Roma,1,16.0,2.0
+Italian Serie A,2015-2016,Genoa vs Roma,Genoa,2,Roma,3,10.0,3.0
+Italian Serie A,2012-2013,Genoa vs Roma,Genoa,2,Roma,4,17.0,6.0
+Italian Serie A,2013-2014,Genoa vs Roma,Genoa,1,Roma,0,13.0,2.0
+Italian Serie A,2014-2015,Genoa vs Roma,Genoa,0,Roma,1,6.0,2.0
+Italian Serie A,2023-2024,Genoa vs Torino,Genoa,0,Torino,0,11.0,9.0
+Italian Serie A,2021-2022,Genoa vs Torino,Genoa,1,Torino,0,19.0,10.0
+Italian Serie A,2020-2021,Genoa vs Torino,Genoa,1,Torino,2,11.0,17.0
+Italian Serie A,2019-2020,Genoa vs Torino,Genoa,0,Torino,1,17.0,16.0
+Italian Serie A,2018-2019,Genoa vs Torino,Genoa,0,Torino,1,17.0,7.0
+Italian Serie A,2017-2018,Genoa vs Torino,Genoa,1,Torino,2,12.0,9.0
+Italian Serie A,2016-2017,Genoa vs Torino,Genoa,2,Torino,1,16.0,9.0
+Italian Serie A,2015-2016,Genoa vs Torino,Genoa,3,Torino,2,10.0,12.0
+Italian Serie A,2012-2013,Genoa vs Torino,Genoa,1,Torino,1,17.0,16.0
+Italian Serie A,2013-2014,Genoa vs Torino,Genoa,1,Torino,1,13.0,7.0
+Italian Serie A,2014-2015,Genoa vs Torino,Genoa,5,Torino,1,6.0,9.0
+Italian Serie A,2023-2024,Genoa vs Udinese,Genoa,2,Udinese,0,11.0,15.0
+Italian Serie A,2021-2022,Genoa vs Udinese,Genoa,0,Udinese,0,19.0,12.0
+Italian Serie A,2020-2021,Genoa vs Udinese,Genoa,1,Udinese,1,11.0,14.0
+Italian Serie A,2019-2020,Genoa vs Udinese,Genoa,1,Udinese,3,17.0,13.0
+Italian Serie A,2018-2019,Genoa vs Udinese,Genoa,2,Udinese,2,17.0,12.0
+Italian Serie A,2017-2018,Genoa vs Udinese,Genoa,0,Udinese,1,12.0,10.0
+Italian Serie A,2016-2017,Genoa vs Udinese,Genoa,1,Udinese,1,16.0,13.0
+Italian Serie A,2015-2016,Genoa vs Udinese,Genoa,2,Udinese,1,10.0,17.0
+Italian Serie A,2012-2013,Genoa vs Udinese,Genoa,1,Udinese,0,17.0,5.0
+Italian Serie A,2013-2014,Genoa vs Udinese,Genoa,3,Udinese,3,13.0,14.0
+Italian Serie A,2014-2015,Genoa vs Udinese,Genoa,1,Udinese,1,6.0,16.0
+Italian Serie B,2022-2023,Genoa vs Venezia,Genoa,1,Venezia,0,,
+Italian Serie A,2021-2022,Genoa vs Venezia,Genoa,0,Venezia,0,19.0,20.0
+Italian Serie A,2023-2024,Genoa vs Verona,Genoa,1,Verona,0,11.0,13.0
+Italian Serie A,2021-2022,Genoa vs Verona,Genoa,3,Verona,3,19.0,9.0
+Italian Serie A,2020-2021,Genoa vs Verona,Genoa,2,Verona,2,11.0,10.0
+Italian Serie A,2019-2020,Genoa vs Verona,Genoa,3,Verona,0,17.0,9.0
+Italian Serie A,2017-2018,Genoa vs Verona,Genoa,3,Verona,1,12.0,19.0
+Italian Serie A,2015-2016,Genoa vs Verona,Genoa,2,Verona,0,10.0,20.0
+Italian Serie A,2013-2014,Genoa vs Verona,Genoa,2,Verona,0,13.0,10.0
+Italian Serie A,2014-2015,Genoa vs Verona,Genoa,5,Verona,2,6.0,13.0
+Italian Serie A,2023-2024,Inter Milan vs AC Milan,Inter,5,Milan,1,,
+Italian Serie A,2023-2024,Inter Milan vs Atalanta,Inter,4,Atalanta,0,,4.0
+Coppa Italia,2023-2024,Inter Milan vs Bologna,Inter,1,Bologna,2,,5.0
+Italian Serie A,2023-2024,Inter Milan vs Bologna,Inter,2,Bologna,2,,5.0
+Italian Serie A,2023-2024,Inter Milan vs Cagliari,Inter,2,Cagliari,2,,16.0
+Italian Serie A,2023-2024,Inter Milan vs Empoli,Inter,2,Empoli,0,,17.0
+Italian Serie A,2023-2024,Inter Milan vs Fiorentina,Inter,4,Fiorentina,0,,8.0
+Italian Serie A,2023-2024,Inter Milan vs Genoa,Inter,2,Genoa,1,,11.0
+Italian Serie A,2023-2024,Inter Milan vs Juventus,Inter,1,Juventus,0,,3.0
+Italian Serie A,2023-2024,Inter Milan vs Lazio,Inter,1,Lazio,1,,7.0
+Italian Serie A,2023-2024,Inter Milan vs Lecce,Inter,2,Lecce,0,,14.0
+Italian Serie A,2023-2024,Inter Milan vs Monza,Inter,2,Monza,0,,12.0
+Italian Serie A,2023-2024,Inter Milan vs Napoli,Inter,1,Napoli,1,,10.0
+Italian Serie A,2023-2024,Inter Milan vs Roma,Inter,1,Roma,0,,6.0
+Italian Serie A,2023-2024,Inter Milan vs Torino,Inter,2,Torino,0,,9.0
+Italian Serie A,2023-2024,Inter Milan vs Udinese,Inter,4,Udinese,0,,15.0
+Italian Serie A,2023-2024,Inter Milan vs Verona,Inter,2,Verona,1,,13.0
+Italian Serie A,2023-2024,Juventus vs AC Milan,Juventus,0,Milan,0,3.0,
+Italian Serie A,2023-2024,Juventus vs Atalanta,Juventus,2,Atalanta,2,3.0,4.0
+Italian Serie A,2022-2023,Juventus vs Atalanta,Juventus,3,Atalanta,3,7.0,5.0
+Club Friendlies,2021-2022,Juventus vs Atalanta,Juventus,3,Atalanta,1,4.0,8.0
+Italian Serie A,2021-2022,Juventus vs Atalanta,Juventus,0,Atalanta,1,4.0,8.0
+Italian Serie A,2020-2021,Juventus vs Atalanta,Juventus,1,Atalanta,1,4.0,3.0
+Italian Serie A,2019-2020,Juventus vs Atalanta,Juventus,2,Atalanta,2,1.0,3.0
+Italian Serie A,2018-2019,Juventus vs Atalanta,Juventus,1,Atalanta,1,1.0,3.0
+Italian Serie A,2017-2018,Juventus vs Atalanta,Juventus,2,Atalanta,0,2.0,8.0
+Italian Serie A,2016-2017,Juventus vs Atalanta,Juventus,3,Atalanta,1,1.0,4.0
+Italian Serie A,2015-2016,Juventus vs Atalanta,Juventus,2,Atalanta,0,1.0,13.0
+Italian Serie A,2012-2013,Juventus vs Atalanta,Juventus,3,Atalanta,0,1.0,15.0
+Italian Serie A,2013-2014,Juventus vs Atalanta,Juventus,1,Atalanta,0,1.0,11.0
+Italian Serie A,2014-2015,Juventus vs Atalanta,Juventus,2,Atalanta,1,1.0,17.0
+Italian Serie A,2023-2024,Juventus vs Bologna,Juventus,1,Bologna,1,3.0,5.0
+Italian Serie A,2022-2023,Juventus vs Bologna,Juventus,3,Bologna,0,7.0,9.0
+Italian Serie A,2021-2022,Juventus vs Bologna,Juventus,1,Bologna,1,4.0,13.0
+Italian Serie A,2020-2021,Juventus vs Bologna,Juventus,2,Bologna,0,4.0,12.0
+Italian Serie A,2019-2020,Juventus vs Bologna,Juventus,2,Bologna,1,1.0,12.0
+Italian Serie A,2018-2019,Juventus vs Bologna,Juventus,2,Bologna,0,1.0,10.0
+Italian Serie A,2017-2018,Juventus vs Bologna,Juventus,3,Bologna,1,2.0,13.0
+Italian Serie A,2016-2017,Juventus vs Bologna,Juventus,3,Bologna,0,1.0,15.0
+Italian Serie A,2015-2016,Juventus vs Bologna,Juventus,3,Bologna,1,1.0,14.0
+Italian Serie A,2012-2013,Juventus vs Bologna,Juventus,2,Bologna,1,1.0,13.0
+Italian Serie A,2013-2014,Juventus vs Bologna,Juventus,1,Bologna,0,1.0,19.0
+Italian Serie A,2023-2024,Juventus vs Cagliari,Juventus,2,Cagliari,1,3.0,16.0
+Italian Serie A,2021-2022,Juventus vs Cagliari,Juventus,2,Cagliari,0,4.0,18.0
+Italian Serie A,2020-2021,Juventus vs Cagliari,Juventus,2,Cagliari,0,4.0,16.0
+Italian Serie A,2019-2020,Juventus vs Cagliari,Juventus,4,Cagliari,0,1.0,14.0
+Italian Serie A,2018-2019,Juventus vs Cagliari,Juventus,3,Cagliari,1,1.0,15.0
+Italian Serie A,2017-2018,Juventus vs Cagliari,Juventus,3,Cagliari,0,2.0,14.0
+Italian Serie A,2016-2017,Juventus vs Cagliari,Juventus,4,Cagliari,0,1.0,12.0
+Italian Serie A,2012-2013,Juventus vs Cagliari,Juventus,1,Cagliari,1,1.0,11.0
+Italian Serie A,2013-2014,Juventus vs Cagliari,Juventus,3,Cagliari,0,1.0,15.0
+Italian Serie A,2014-2015,Juventus vs Cagliari,Juventus,1,Cagliari,1,1.0,18.0
+Italian Serie A,2023-2024,Juventus vs Empoli,Juventus,1,Empoli,1,3.0,17.0
+Italian Serie A,2022-2023,Juventus vs Empoli,Juventus,4,Empoli,0,7.0,14.0
+Italian Serie A,2021-2022,Juventus vs Empoli,Juventus,0,Empoli,1,4.0,14.0
+Italian Serie A,2018-2019,Juventus vs Empoli,Juventus,1,Empoli,0,1.0,18.0
+Italian Serie A,2016-2017,Juventus vs Empoli,Juventus,2,Empoli,0,1.0,18.0
+Italian Serie A,2015-2016,Juventus vs Empoli,Juventus,1,Empoli,0,1.0,11.0
+Italian Serie A,2014-2015,Juventus vs Empoli,Juventus,2,Empoli,0,1.0,15.0
+Italian Serie A,2023-2024,Juventus vs Fiorentina,Juventus,1,Fiorentina,0,3.0,8.0
+Italian Serie A,2022-2023,Juventus vs Fiorentina,Juventus,1,Fiorentina,0,7.0,8.0
+Coppa Italia,2021-2022,Juventus vs Fiorentina,Juventus,2,Fiorentina,0,4.0,7.0
+Italian Serie A,2021-2022,Juventus vs Fiorentina,Juventus,1,Fiorentina,0,4.0,7.0
+Italian Serie A,2020-2021,Juventus vs Fiorentina,Juventus,0,Fiorentina,3,4.0,13.0
+Italian Serie A,2019-2020,Juventus vs Fiorentina,Juventus,3,Fiorentina,0,1.0,10.0
+Italian Serie A,2018-2019,Juventus vs Fiorentina,Juventus,2,Fiorentina,1,1.0,16.0
+Italian Serie A,2017-2018,Juventus vs Fiorentina,Juventus,1,Fiorentina,0,2.0,11.0
+Italian Serie A,2016-2017,Juventus vs Fiorentina,Juventus,2,Fiorentina,1,1.0,8.0
+Italian Serie A,2015-2016,Juventus vs Fiorentina,Juventus,3,Fiorentina,1,1.0,5.0
+Italian Serie A,2012-2013,Juventus vs Fiorentina,Juventus,2,Fiorentina,0,1.0,4.0
+Italian Serie A,2013-2014,Juventus vs Fiorentina,Juventus,1,Fiorentina,0,1.0,4.0
+Italian Serie A,2014-2015,Juventus vs Fiorentina,Juventus,3,Fiorentina,2,1.0,4.0
+Italian Serie A,2023-2024,Juventus vs Genoa,Juventus,0,Genoa,0,3.0,11.0
+Italian Serie A,2021-2022,Juventus vs Genoa,Juventus,2,Genoa,0,4.0,19.0
+Coppa Italia,2020-2021,Juventus vs Genoa,Juventus,3,Genoa,2,4.0,11.0
+Italian Serie A,2020-2021,Juventus vs Genoa,Juventus,3,Genoa,1,4.0,11.0
+Italian Serie A,2019-2020,Juventus vs Genoa,Juventus,2,Genoa,1,1.0,17.0
+Italian Serie A,2018-2019,Juventus vs Genoa,Juventus,1,Genoa,1,1.0,17.0
+Italian Serie A,2017-2018,Juventus vs Genoa,Juventus,1,Genoa,0,2.0,12.0
+Italian Serie A,2016-2017,Juventus vs Genoa,Juventus,4,Genoa,0,1.0,16.0
+Italian Serie A,2015-2016,Juventus vs Genoa,Juventus,1,Genoa,0,1.0,10.0
+Italian Serie A,2012-2013,Juventus vs Genoa,Juventus,1,Genoa,1,1.0,17.0
+Italian Serie A,2013-2014,Juventus vs Genoa,Juventus,2,Genoa,0,1.0,13.0
+Italian Serie A,2014-2015,Juventus vs Genoa,Juventus,1,Genoa,0,1.0,6.0
+Italian Serie A,2023-2024,Juventus vs Inter Milan,Juventus,1,Inter,1,3.0,
+Coppa Italia,2023-2024,Juventus vs Lazio,Juventus,2,Lazio,0,3.0,7.0
+Italian Serie A,2023-2024,Juventus vs Lazio,Juventus,3,Lazio,1,3.0,7.0
+Coppa Italia,2022-2023,Juventus vs Lazio,Juventus,1,Lazio,0,7.0,2.0
+Italian Serie A,2022-2023,Juventus vs Lazio,Juventus,3,Lazio,0,7.0,2.0
+Italian Serie A,2021-2022,Juventus vs Lazio,Juventus,2,Lazio,2,4.0,5.0
+Italian Serie A,2020-2021,Juventus vs Lazio,Juventus,3,Lazio,1,4.0,6.0
+Italian Serie A,2019-2020,Juventus vs Lazio,Juventus,2,Lazio,1,1.0,4.0
+Italian Serie A,2018-2019,Juventus vs Lazio,Juventus,2,Lazio,0,1.0,8.0
+Italian Serie A,2017-2018,Juventus vs Lazio,Juventus,1,Lazio,2,2.0,5.0
+Italian Serie A,2016-2017,Juventus vs Lazio,Juventus,2,Lazio,0,1.0,5.0
+Italian Serie A,2015-2016,Juventus vs Lazio,Juventus,3,Lazio,0,1.0,8.0
+Italian Serie A,2012-2013,Juventus vs Lazio,Juventus,0,Lazio,0,1.0,7.0
+Italian Serie A,2013-2014,Juventus vs Lazio,Juventus,4,Lazio,1,1.0,9.0
+Italian Serie A,2014-2015,Juventus vs Lazio,Juventus,2,Lazio,0,1.0,3.0
+Italian Serie A,2023-2024,Juventus vs Lecce,Juventus,1,Lecce,0,3.0,14.0
+Italian Serie A,2022-2023,Juventus vs Lecce,Juventus,2,Lecce,1,7.0,16.0
+Italian Serie A,2019-2020,Juventus vs Lecce,Juventus,4,Lecce,0,1.0,18.0
+Italian Serie A,2023-2024,Juventus vs Monza,Juventus,2,Monza,0,3.0,12.0
+Coppa Italia,2022-2023,Juventus vs Monza,Juventus,2,Monza,1,7.0,11.0
+Italian Serie A,2022-2023,Juventus vs Monza,Juventus,0,Monza,2,7.0,11.0
+Italian Serie A,2023-2024,Juventus vs Napoli,Juventus,1,Napoli,0,3.0,10.0
+Italian Serie A,2022-2023,Juventus vs Napoli,Juventus,0,Napoli,1,7.0,1.0
+Italian Serie A,2021-2022,Juventus vs Napoli,Juventus,1,Napoli,1,4.0,3.0
+Italian Serie A,2020-2021,Juventus vs Napoli,Juventus,2,Napoli,1,4.0,5.0
+Italian Serie A,2019-2020,Juventus vs Napoli,Juventus,4,Napoli,3,1.0,7.0
+Italian Serie A,2018-2019,Juventus vs Napoli,Juventus,3,Napoli,1,1.0,2.0
+Italian Serie A,2017-2018,Juventus vs Napoli,Juventus,0,Napoli,1,2.0,1.0
+Italian Serie A,2016-2017,Juventus vs Napoli,Juventus,2,Napoli,1,1.0,3.0
+Italian Serie A,2015-2016,Juventus vs Napoli,Juventus,1,Napoli,0,1.0,2.0
+Italian Serie A,2012-2013,Juventus vs Napoli,Juventus,2,Napoli,0,1.0,2.0
+Italian Serie A,2013-2014,Juventus vs Napoli,Juventus,3,Napoli,0,1.0,3.0
+Italian Serie A,2014-2015,Juventus vs Napoli,Juventus,3,Napoli,1,1.0,5.0
+Italian Serie A,2020-2021,Juventus vs Parma Calcio 1913,Juventus,3,Parma Calcio 1913,1,4.0,20.0
+Italian Serie A,2019-2020,Juventus vs Parma Calcio 1913,Juventus,2,Parma Calcio 1913,1,1.0,11.0
+Italian Serie A,2018-2019,Juventus vs Parma Calcio 1913,Juventus,3,Parma Calcio 1913,3,1.0,14.0
+Italian Serie A,2023-2024,Juventus vs Roma,Juventus,1,Roma,0,3.0,6.0
+Italian Serie A,2022-2023,Juventus vs Roma,Juventus,1,Roma,1,7.0,6.0
+Italian Serie A,2021-2022,Juventus vs Roma,Juventus,1,Roma,0,4.0,6.0
+Italian Serie A,2020-2021,Juventus vs Roma,Juventus,2,Roma,0,4.0,7.0
+Italian Serie A,2019-2020,Juventus vs Roma,Juventus,1,Roma,3,1.0,5.0
+Coppa Italia,2019-2020,Juventus vs Roma,Juventus,3,Roma,1,1.0,5.0
+Italian Serie A,2018-2019,Juventus vs Roma,Juventus,1,Roma,0,1.0,6.0
+Italian Serie A,2017-2018,Juventus vs Roma,Juventus,1,Roma,0,2.0,4.0
+Italian Serie A,2016-2017,Juventus vs Roma,Juventus,1,Roma,0,1.0,2.0
+Italian Serie A,2015-2016,Juventus vs Roma,Juventus,1,Roma,0,1.0,3.0
+Italian Serie A,2013-2014,Juventus vs Roma,Juventus,3,Roma,0,1.0,2.0
+Italian Serie A,2014-2015,Juventus vs Roma,Juventus,3,Roma,2,1.0,2.0
+Italian Serie A,2023-2024,Juventus vs Torino,Juventus,2,Torino,0,3.0,9.0
+Italian Serie A,2022-2023,Juventus vs Torino,Juventus,4,Torino,2,7.0,10.0
+Italian Serie A,2021-2022,Juventus vs Torino,Juventus,1,Torino,1,4.0,10.0
+Italian Serie A,2020-2021,Juventus vs Torino,Juventus,2,Torino,1,4.0,17.0
+Italian Serie A,2019-2020,Juventus vs Torino,Juventus,4,Torino,1,1.0,16.0
+Italian Serie A,2018-2019,Juventus vs Torino,Juventus,1,Torino,1,1.0,7.0
+Italian Serie A,2017-2018,Juventus vs Torino,Juventus,4,Torino,0,2.0,9.0
+Italian Serie A,2016-2017,Juventus vs Torino,Juventus,1,Torino,1,1.0,9.0
+Italian Serie A,2015-2016,Juventus vs Torino,Juventus,2,Torino,1,1.0,12.0
+Italian Serie A,2012-2013,Juventus vs Torino,Juventus,3,Torino,0,1.0,16.0
+Italian Serie A,2013-2014,Juventus vs Torino,Juventus,1,Torino,0,1.0,7.0
+Italian Serie A,2014-2015,Juventus vs Torino,Juventus,2,Torino,1,1.0,9.0
+Italian Serie A,2023-2024,Juventus vs Udinese,Juventus,0,Udinese,1,3.0,15.0
+Italian Serie A,2022-2023,Juventus vs Udinese,Juventus,1,Udinese,0,7.0,12.0
+Italian Serie A,2021-2022,Juventus vs Udinese,Juventus,2,Udinese,0,4.0,12.0
+Italian Serie A,2020-2021,Juventus vs Udinese,Juventus,4,Udinese,1,4.0,14.0
+Coppa Italia,2019-2020,Juventus vs Udinese,Juventus,4,Udinese,0,1.0,13.0
+Italian Serie A,2019-2020,Juventus vs Udinese,Juventus,3,Udinese,1,1.0,13.0
+Italian Serie A,2018-2019,Juventus vs Udinese,Juventus,4,Udinese,1,1.0,12.0
+Italian Serie A,2017-2018,Juventus vs Udinese,Juventus,2,Udinese,0,2.0,10.0
+Italian Serie A,2016-2017,Juventus vs Udinese,Juventus,2,Udinese,1,1.0,13.0
+Italian Serie A,2015-2016,Juventus vs Udinese,Juventus,0,Udinese,1,1.0,17.0
+Italian Serie A,2012-2013,Juventus vs Udinese,Juventus,4,Udinese,0,1.0,5.0
+Italian Serie A,2013-2014,Juventus vs Udinese,Juventus,1,Udinese,0,1.0,14.0
+Italian Serie A,2014-2015,Juventus vs Udinese,Juventus,2,Udinese,0,1.0,16.0
+Italian Serie A,2021-2022,Juventus vs Venezia,Juventus,2,Venezia,1,4.0,20.0
+Italian Serie A,2023-2024,Juventus vs Verona,Juventus,1,Verona,0,3.0,13.0
+Italian Serie A,2022-2023,Juventus vs Verona,Juventus,1,Verona,0,7.0,18.0
+Italian Serie A,2021-2022,Juventus vs Verona,Juventus,2,Verona,0,4.0,9.0
+Italian Serie A,2020-2021,Juventus vs Verona,Juventus,1,Verona,1,4.0,10.0
+Italian Serie A,2019-2020,Juventus vs Verona,Juventus,2,Verona,1,1.0,9.0
+Italian Serie A,2017-2018,Juventus vs Verona,Juventus,2,Verona,1,2.0,19.0
+Italian Serie A,2015-2016,Juventus vs Verona,Juventus,3,Verona,0,1.0,20.0
+Italian Serie A,2013-2014,Juventus vs Verona,Juventus,2,Verona,1,1.0,10.0
+Italian Serie A,2014-2015,Juventus vs Verona,Juventus,4,Verona,0,1.0,13.0
+Italian Serie A,2023-2024,Lazio vs AC Milan,Lazio,0,Milan,1,7.0,
+Italian Serie A,2023-2024,Lazio vs Atalanta,Lazio,3,Atalanta,2,7.0,4.0
+Italian Serie A,2022-2023,Lazio vs Atalanta,Lazio,0,Atalanta,2,2.0,5.0
+Italian Serie A,2021-2022,Lazio vs Atalanta,Lazio,0,Atalanta,0,5.0,8.0
+Italian Serie A,2020-2021,Lazio vs Atalanta,Lazio,1,Atalanta,4,6.0,3.0
+Italian Serie A,2019-2020,Lazio vs Atalanta,Lazio,3,Atalanta,3,4.0,3.0
+Italian Serie A,2018-2019,Lazio vs Atalanta,Lazio,1,Atalanta,3,8.0,3.0
+Italian Serie A,2017-2018,Lazio vs Atalanta,Lazio,1,Atalanta,1,5.0,8.0
+Italian Serie A,2016-2017,Lazio vs Atalanta,Lazio,2,Atalanta,1,5.0,4.0
+Italian Serie A,2015-2016,Lazio vs Atalanta,Lazio,2,Atalanta,0,8.0,13.0
+Italian Serie A,2012-2013,Lazio vs Atalanta,Lazio,2,Atalanta,0,7.0,15.0
+Italian Serie A,2013-2014,Lazio vs Atalanta,Lazio,0,Atalanta,1,9.0,11.0
+Italian Serie A,2014-2015,Lazio vs Atalanta,Lazio,3,Atalanta,0,3.0,17.0
+Italian Serie A,2023-2024,Lazio vs Bologna,Lazio,1,Bologna,2,7.0,5.0
+Coppa Italia,2022-2023,Lazio vs Bologna,Lazio,1,Bologna,0,2.0,9.0
+Italian Serie A,2022-2023,Lazio vs Bologna,Lazio,2,Bologna,1,2.0,9.0
+Italian Serie A,2021-2022,Lazio vs Bologna,Lazio,3,Bologna,0,5.0,13.0
+Italian Serie A,2020-2021,Lazio vs Bologna,Lazio,2,Bologna,1,6.0,12.0
+Italian Serie A,2019-2020,Lazio vs Bologna,Lazio,2,Bologna,0,4.0,12.0
+Italian Serie A,2018-2019,Lazio vs Bologna,Lazio,3,Bologna,3,8.0,10.0
+Italian Serie A,2017-2018,Lazio vs Bologna,Lazio,1,Bologna,1,5.0,13.0
+Italian Serie A,2016-2017,Lazio vs Bologna,Lazio,1,Bologna,1,5.0,15.0
+Italian Serie A,2015-2016,Lazio vs Bologna,Lazio,2,Bologna,1,8.0,14.0
+Italian Serie A,2012-2013,Lazio vs Bologna,Lazio,6,Bologna,0,7.0,13.0
+Italian Serie A,2013-2014,Lazio vs Bologna,Lazio,1,Bologna,0,9.0,19.0
+Italian Serie A,2023-2024,Lazio vs Cagliari,Lazio,1,Cagliari,0,7.0,16.0
+Italian Serie A,2021-2022,Lazio vs Cagliari,Lazio,2,Cagliari,2,5.0,18.0
+Italian Serie A,2020-2021,Lazio vs Cagliari,Lazio,1,Cagliari,0,6.0,16.0
+Italian Serie A,2019-2020,Lazio vs Cagliari,Lazio,2,Cagliari,1,4.0,14.0
+Italian Serie A,2018-2019,Lazio vs Cagliari,Lazio,3,Cagliari,1,8.0,15.0
+Italian Serie A,2017-2018,Lazio vs Cagliari,Lazio,3,Cagliari,0,5.0,14.0
+Italian Serie A,2016-2017,Lazio vs Cagliari,Lazio,4,Cagliari,1,5.0,12.0
+Italian Serie A,2012-2013,Lazio vs Cagliari,Lazio,2,Cagliari,1,7.0,11.0
+Italian Serie A,2013-2014,Lazio vs Cagliari,Lazio,2,Cagliari,0,9.0,15.0
+Italian Serie A,2014-2015,Lazio vs Cagliari,Lazio,4,Cagliari,2,3.0,18.0
+Italian Serie A,2023-2024,Lazio vs Empoli,Lazio,2,Empoli,0,7.0,17.0
+Italian Serie A,2022-2023,Lazio vs Empoli,Lazio,2,Empoli,2,2.0,14.0
+Italian Serie A,2021-2022,Lazio vs Empoli,Lazio,3,Empoli,3,5.0,14.0
+Italian Serie A,2018-2019,Lazio vs Empoli,Lazio,1,Empoli,0,8.0,18.0
+Italian Serie A,2016-2017,Lazio vs Empoli,Lazio,2,Empoli,0,5.0,18.0
+Italian Serie A,2015-2016,Lazio vs Empoli,Lazio,2,Empoli,0,8.0,11.0
+Italian Serie A,2014-2015,Lazio vs Empoli,Lazio,4,Empoli,0,3.0,15.0
+Italian Serie A,2023-2024,Lazio vs Fiorentina,Lazio,1,Fiorentina,0,7.0,8.0
+Italian Serie A,2022-2023,Lazio vs Fiorentina,Lazio,1,Fiorentina,1,2.0,8.0
+Italian Serie A,2021-2022,Lazio vs Fiorentina,Lazio,1,Fiorentina,0,5.0,7.0
+Italian Serie A,2020-2021,Lazio vs Fiorentina,Lazio,2,Fiorentina,1,6.0,13.0
+Italian Serie A,2019-2020,Lazio vs Fiorentina,Lazio,2,Fiorentina,1,4.0,10.0
+Italian Serie A,2018-2019,Lazio vs Fiorentina,Lazio,1,Fiorentina,0,8.0,16.0
+Italian Serie A,2017-2018,Lazio vs Fiorentina,Lazio,1,Fiorentina,1,5.0,11.0
+Italian Serie A,2016-2017,Lazio vs Fiorentina,Lazio,3,Fiorentina,1,5.0,8.0
+Italian Serie A,2015-2016,Lazio vs Fiorentina,Lazio,2,Fiorentina,4,8.0,5.0
+Italian Serie A,2012-2013,Lazio vs Fiorentina,Lazio,0,Fiorentina,2,7.0,4.0
+Italian Serie A,2013-2014,Lazio vs Fiorentina,Lazio,0,Fiorentina,0,9.0,4.0
+Italian Serie A,2014-2015,Lazio vs Fiorentina,Lazio,4,Fiorentina,0,3.0,4.0
+Coppa Italia,2023-2024,Lazio vs Genoa,Lazio,1,Genoa,0,7.0,11.0
+Italian Serie A,2023-2024,Lazio vs Genoa,Lazio,0,Genoa,1,7.0,11.0
+Italian Serie A,2021-2022,Lazio vs Genoa,Lazio,3,Genoa,1,5.0,19.0
+Italian Serie A,2020-2021,Lazio vs Genoa,Lazio,4,Genoa,3,6.0,11.0
+Italian Serie A,2019-2020,Lazio vs Genoa,Lazio,4,Genoa,0,4.0,17.0
+Italian Serie A,2018-2019,Lazio vs Genoa,Lazio,4,Genoa,1,8.0,17.0
+Italian Serie A,2017-2018,Lazio vs Genoa,Lazio,1,Genoa,2,5.0,12.0
+Italian Serie A,2016-2017,Lazio vs Genoa,Lazio,3,Genoa,1,5.0,16.0
+Italian Serie A,2015-2016,Lazio vs Genoa,Lazio,2,Genoa,0,8.0,10.0
+Italian Serie A,2012-2013,Lazio vs Genoa,Lazio,0,Genoa,1,7.0,17.0
+Italian Serie A,2013-2014,Lazio vs Genoa,Lazio,0,Genoa,2,9.0,13.0
+Italian Serie A,2014-2015,Lazio vs Genoa,Lazio,0,Genoa,1,3.0,6.0
+Italian Serie A,2023-2024,Lazio vs Inter Milan,Lazio,0,Inter,2,7.0,
+Coppa Italia,2023-2024,Lazio vs Juventus,Lazio,2,Juventus,1,7.0,3.0
+Italian Serie A,2023-2024,Lazio vs Juventus,Lazio,1,Juventus,0,7.0,3.0
+Italian Serie A,2022-2023,Lazio vs Juventus,Lazio,2,Juventus,1,2.0,7.0
+Italian Serie A,2021-2022,Lazio vs Juventus,Lazio,0,Juventus,2,5.0,4.0
+Italian Serie A,2020-2021,Lazio vs Juventus,Lazio,1,Juventus,1,6.0,4.0
+Italian Serie A,2019-2020,Lazio vs Juventus,Lazio,3,Juventus,1,4.0,1.0
+Italian Serie A,2018-2019,Lazio vs Juventus,Lazio,1,Juventus,2,8.0,1.0
+Italian Serie A,2017-2018,Lazio vs Juventus,Lazio,0,Juventus,1,5.0,2.0
+Italian Serie A,2016-2017,Lazio vs Juventus,Lazio,0,Juventus,1,5.0,1.0
+Italian Serie A,2015-2016,Lazio vs Juventus,Lazio,0,Juventus,2,8.0,1.0
+Italian Serie A,2012-2013,Lazio vs Juventus,Lazio,0,Juventus,2,7.0,1.0
+Italian Serie A,2013-2014,Lazio vs Juventus,Lazio,1,Juventus,1,9.0,1.0
+Italian Serie A,2014-2015,Lazio vs Juventus,Lazio,0,Juventus,3,3.0,1.0
+Italian Serie A,2023-2024,Lazio vs Lecce,Lazio,1,Lecce,0,7.0,14.0
+Italian Serie A,2022-2023,Lazio vs Lecce,Lazio,2,Lecce,2,2.0,16.0
+Italian Serie A,2019-2020,Lazio vs Lecce,Lazio,4,Lecce,2,4.0,18.0
+Italian Serie A,2023-2024,Lazio vs Monza,Lazio,1,Monza,1,7.0,12.0
+Italian Serie A,2022-2023,Lazio vs Monza,Lazio,1,Monza,0,2.0,11.0
+Italian Serie A,2023-2024,Lazio vs Napoli,Lazio,0,Napoli,0,7.0,10.0
+Italian Serie A,2022-2023,Lazio vs Napoli,Lazio,1,Napoli,2,2.0,1.0
+Italian Serie A,2021-2022,Lazio vs Napoli,Lazio,1,Napoli,2,5.0,3.0
+Italian Serie A,2020-2021,Lazio vs Napoli,Lazio,2,Napoli,0,6.0,5.0
+Italian Serie A,2019-2020,Lazio vs Napoli,Lazio,1,Napoli,0,4.0,7.0
+Italian Serie A,2018-2019,Lazio vs Napoli,Lazio,1,Napoli,2,8.0,2.0
+Italian Serie A,2017-2018,Lazio vs Napoli,Lazio,1,Napoli,4,5.0,1.0
+Italian Serie A,2016-2017,Lazio vs Napoli,Lazio,0,Napoli,3,5.0,3.0
+Italian Serie A,2015-2016,Lazio vs Napoli,Lazio,0,Napoli,2,8.0,2.0
+Italian Serie A,2012-2013,Lazio vs Napoli,Lazio,1,Napoli,1,7.0,2.0
+Italian Serie A,2013-2014,Lazio vs Napoli,Lazio,2,Napoli,4,9.0,3.0
+Italian Serie A,2014-2015,Lazio vs Napoli,Lazio,0,Napoli,1,3.0,5.0
+Coppa Italia,2020-2021,Lazio vs Parma Calcio 1913,Lazio,2,Parma Calcio 1913,1,6.0,20.0
+Italian Serie A,2020-2021,Lazio vs Parma Calcio 1913,Lazio,1,Parma Calcio 1913,0,6.0,20.0
+Italian Serie A,2019-2020,Lazio vs Parma Calcio 1913,Lazio,2,Parma Calcio 1913,0,4.0,11.0
+Italian Serie A,2018-2019,Lazio vs Parma Calcio 1913,Lazio,4,Parma Calcio 1913,1,8.0,14.0
+Coppa Italia,2023-2024,Lazio vs Roma,Lazio,1,Roma,0,7.0,6.0
+Italian Serie A,2023-2024,Lazio vs Roma,Lazio,0,Roma,0,7.0,6.0
+Italian Serie A,2022-2023,Lazio vs Roma,Lazio,1,Roma,0,2.0,6.0
+Italian Serie A,2021-2022,Lazio vs Roma,Lazio,3,Roma,2,5.0,6.0
+Italian Serie A,2020-2021,Lazio vs Roma,Lazio,3,Roma,0,6.0,7.0
+Italian Serie A,2019-2020,Lazio vs Roma,Lazio,1,Roma,1,4.0,5.0
+Italian Serie A,2018-2019,Lazio vs Roma,Lazio,3,Roma,0,8.0,6.0
+Italian Serie A,2017-2018,Lazio vs Roma,Lazio,0,Roma,0,5.0,4.0
+Italian Serie A,2016-2017,Lazio vs Roma,Lazio,0,Roma,2,5.0,2.0
+Italian Serie A,2015-2016,Lazio vs Roma,Lazio,1,Roma,4,8.0,3.0
+Italian Serie A,2012-2013,Lazio vs Roma,Lazio,3,Roma,2,7.0,6.0
+Italian Serie A,2013-2014,Lazio vs Roma,Lazio,0,Roma,0,9.0,2.0
+Italian Serie A,2014-2015,Lazio vs Roma,Lazio,1,Roma,2,3.0,2.0
+Italian Serie A,2023-2024,Lazio vs Torino,Lazio,2,Torino,0,7.0,9.0
+Italian Serie A,2022-2023,Lazio vs Torino,Lazio,0,Torino,1,2.0,10.0
+Italian Serie A,2021-2022,Lazio vs Torino,Lazio,1,Torino,1,5.0,10.0
+Italian Serie A,2020-2021,Lazio vs Torino,Lazio,0,Torino,0,6.0,17.0
+Italian Serie A,2019-2020,Lazio vs Torino,Lazio,4,Torino,0,4.0,16.0
+Italian Serie A,2018-2019,Lazio vs Torino,Lazio,1,Torino,1,8.0,7.0
+Italian Serie A,2017-2018,Lazio vs Torino,Lazio,1,Torino,3,5.0,9.0
+Italian Serie A,2016-2017,Lazio vs Torino,Lazio,3,Torino,1,5.0,9.0
+Italian Serie A,2015-2016,Lazio vs Torino,Lazio,3,Torino,0,8.0,12.0
+Italian Serie A,2012-2013,Lazio vs Torino,Lazio,1,Torino,1,7.0,16.0
+Italian Serie A,2013-2014,Lazio vs Torino,Lazio,3,Torino,3,9.0,7.0
+Italian Serie A,2014-2015,Lazio vs Torino,Lazio,2,Torino,1,3.0,9.0
+Italian Serie A,2023-2024,Lazio vs Udinese,Lazio,1,Udinese,2,7.0,15.0
+Italian Serie A,2022-2023,Lazio vs Udinese,Lazio,0,Udinese,0,2.0,12.0
+Coppa Italia,2021-2022,Lazio vs Udinese,Lazio,1,Udinese,0,5.0,12.0
+Italian Serie A,2021-2022,Lazio vs Udinese,Lazio,4,Udinese,4,5.0,12.0
+Italian Serie A,2020-2021,Lazio vs Udinese,Lazio,1,Udinese,3,6.0,14.0
+Italian Serie A,2019-2020,Lazio vs Udinese,Lazio,3,Udinese,0,4.0,13.0
+Italian Serie A,2018-2019,Lazio vs Udinese,Lazio,2,Udinese,0,8.0,12.0
+Italian Serie A,2017-2018,Lazio vs Udinese,Lazio,3,Udinese,0,5.0,10.0
+Italian Serie A,2016-2017,Lazio vs Udinese,Lazio,1,Udinese,0,5.0,13.0
+Italian Serie A,2015-2016,Lazio vs Udinese,Lazio,2,Udinese,0,8.0,17.0
+Italian Serie A,2012-2013,Lazio vs Udinese,Lazio,3,Udinese,0,7.0,5.0
+Italian Serie A,2013-2014,Lazio vs Udinese,Lazio,2,Udinese,1,9.0,14.0
+Italian Serie A,2014-2015,Lazio vs Udinese,Lazio,0,Udinese,1,3.0,16.0
+Italian Serie A,2021-2022,Lazio vs Venezia,Lazio,1,Venezia,0,5.0,20.0
+Italian Serie A,2023-2024,Lazio vs Verona,Lazio,1,Verona,0,7.0,13.0
+Italian Serie A,2022-2023,Lazio vs Verona,Lazio,2,Verona,0,2.0,18.0
+Italian Serie A,2021-2022,Lazio vs Verona,Lazio,3,Verona,3,5.0,9.0
+Italian Serie A,2020-2021,Lazio vs Verona,Lazio,1,Verona,2,6.0,10.0
+Italian Serie A,2019-2020,Lazio vs Verona,Lazio,0,Verona,0,4.0,9.0
+Italian Serie A,2017-2018,Lazio vs Verona,Lazio,2,Verona,0,5.0,19.0
+Italian Serie A,2015-2016,Lazio vs Verona,Lazio,5,Verona,2,8.0,20.0
+Italian Serie A,2013-2014,Lazio vs Verona,Lazio,3,Verona,3,9.0,10.0
+Italian Serie A,2014-2015,Lazio vs Verona,Lazio,2,Verona,0,3.0,13.0
+Italian Serie A,2023-2024,Lecce vs AC Milan,Lecce,2,Milan,2,14.0,
+Italian Serie A,2023-2024,Lecce vs Atalanta,Lecce,0,Atalanta,2,14.0,4.0
+Italian Serie A,2022-2023,Lecce vs Atalanta,Lecce,2,Atalanta,1,16.0,5.0
+Italian Serie A,2019-2020,Lecce vs Atalanta,Lecce,2,Atalanta,7,18.0,3.0
+Italian Serie A,2023-2024,Lecce vs Bologna,Lecce,1,Bologna,1,14.0,5.0
+Italian Serie A,2022-2023,Lecce vs Bologna,Lecce,2,Bologna,3,16.0,9.0
+Italian Serie A,2019-2020,Lecce vs Bologna,Lecce,2,Bologna,3,18.0,12.0
+Italian Serie A,2023-2024,Lecce vs Cagliari,Lecce,1,Cagliari,1,14.0,16.0
+Italian Serie A,2019-2020,Lecce vs Cagliari,Lecce,2,Cagliari,2,18.0,14.0
+Italian Serie A,2019-2020,Lecce vs Cagliari,Lecce,2,Cagliari,2,18.0,14.0
+Coppa Italia,2023-2024,Lecce vs Como,Lecce,1,Como,0,14.0,
+Italian Serie B,2021-2022,Lecce vs Como,Lecce,1,Como,1,,
+Italian Serie A,2023-2024,Lecce vs Empoli,Lecce,1,Empoli,0,14.0,17.0
+Italian Serie A,2022-2023,Lecce vs Empoli,Lecce,1,Empoli,1,16.0,14.0
+Italian Serie B,2020-2021,Lecce vs Empoli,Lecce,2,Empoli,2,,
+Italian Serie A,2023-2024,Lecce vs Fiorentina,Lecce,3,Fiorentina,2,14.0,8.0
+Italian Serie A,2022-2023,Lecce vs Fiorentina,Lecce,1,Fiorentina,1,16.0,8.0
+Italian Serie A,2019-2020,Lecce vs Fiorentina,Lecce,1,Fiorentina,3,18.0,10.0
+Italian Serie A,2023-2024,Lecce vs Genoa,Lecce,1,Genoa,0,14.0,11.0
+Italian Serie A,2019-2020,Lecce vs Genoa,Lecce,2,Genoa,2,18.0,17.0
+Italian Serie A,2023-2024,Lecce vs Inter Milan,Lecce,0,Inter,4,14.0,
+Italian Serie A,2023-2024,Lecce vs Juventus,Lecce,0,Juventus,3,14.0,3.0
+Italian Serie A,2022-2023,Lecce vs Juventus,Lecce,0,Juventus,1,16.0,7.0
+Italian Serie A,2019-2020,Lecce vs Juventus,Lecce,1,Juventus,1,18.0,1.0
+Italian Serie A,2023-2024,Lecce vs Lazio,Lecce,2,Lazio,1,14.0,7.0
+Italian Serie A,2022-2023,Lecce vs Lazio,Lecce,2,Lazio,1,16.0,2.0
+Italian Serie A,2019-2020,Lecce vs Lazio,Lecce,2,Lazio,1,18.0,4.0
+Italian Serie A,2023-2024,Lecce vs Monza,Lecce,1,Monza,1,14.0,12.0
+Italian Serie A,2022-2023,Lecce vs Monza,Lecce,1,Monza,1,16.0,11.0
+Italian Serie B,2021-2022,Lecce vs Monza,Lecce,3,Monza,0,,
+Italian Serie B,2020-2021,Lecce vs Monza,Lecce,0,Monza,0,,
+Italian Serie A,2023-2024,Lecce vs Napoli,Lecce,0,Napoli,4,14.0,10.0
+Italian Serie A,2022-2023,Lecce vs Napoli,Lecce,1,Napoli,2,16.0,1.0
+Italian Serie A,2019-2020,Lecce vs Napoli,Lecce,1,Napoli,4,18.0,7.0
+Coppa Italia,2023-2024,Lecce vs Parma Calcio 1913,Lecce,2,Parma Calcio 1913,4,14.0,
+Italian Serie B,2021-2022,Lecce vs Parma Calcio 1913,Lecce,4,Parma Calcio 1913,0,,
+Italian Serie A,2019-2020,Lecce vs Parma Calcio 1913,Lecce,3,Parma Calcio 1913,4,18.0,11.0
+Italian Serie A,2023-2024,Lecce vs Roma,Lecce,0,Roma,0,14.0,6.0
+Italian Serie A,2022-2023,Lecce vs Roma,Lecce,1,Roma,1,16.0,6.0
+Italian Serie A,2019-2020,Lecce vs Roma,Lecce,0,Roma,1,18.0,5.0
+Italian Serie A,2023-2024,Lecce vs Torino,Lecce,0,Torino,1,14.0,9.0
+Italian Serie A,2022-2023,Lecce vs Torino,Lecce,0,Torino,2,16.0,10.0
+Italian Serie A,2019-2020,Lecce vs Torino,Lecce,4,Torino,0,18.0,16.0
+Italian Serie A,2023-2024,Lecce vs Udinese,Lecce,0,Udinese,2,14.0,15.0
+Italian Serie A,2022-2023,Lecce vs Udinese,Lecce,1,Udinese,0,16.0,12.0
+Italian Serie A,2019-2020,Lecce vs Udinese,Lecce,0,Udinese,1,18.0,13.0
+Italian Serie B,2020-2021,Lecce vs Venezia,Lecce,1,Venezia,1,,
+Italian Serie B,2020-2021,Lecce vs Venezia,Lecce,2,Venezia,2,,
+Italian Serie B,2018-2019,Lecce vs Venezia,Lecce,2,Venezia,1,,
+Italian Serie A,2023-2024,Lecce vs Verona,Lecce,0,Verona,1,14.0,13.0
+Italian Serie A,2022-2023,Lecce vs Verona,Lecce,0,Verona,1,16.0,18.0
+Italian Serie A,2019-2020,Lecce vs Verona,Lecce,0,Verona,1,18.0,9.0
+Italian Serie B,2018-2019,Lecce vs Verona,Lecce,2,Verona,1,,
+Italian Serie B,2012-2013,Lecce vs Verona,Lecce,,Verona,,,
+Italian Serie A,2023-2024,Monza vs AC Milan,Monza,4,Milan,2,12.0,
+Italian Serie A,2023-2024,Monza vs Atalanta,Monza,1,Atalanta,2,12.0,4.0
+Italian Serie A,2022-2023,Monza vs Atalanta,Monza,0,Atalanta,2,11.0,5.0
+Italian Serie A,2023-2024,Monza vs Bologna,Monza,0,Bologna,0,12.0,5.0
+Italian Serie A,2022-2023,Monza vs Bologna,Monza,1,Bologna,2,11.0,9.0
+Italian Serie A,2023-2024,Monza vs Cagliari,Monza,1,Cagliari,0,12.0,16.0
+Italian Serie B,2021-2022,Monza vs Como,Monza,3,Como,2,,
+Italian Lega Pro,2019-2020,Monza vs Como,Monza,1,Como,1,,
+Italian Serie A,2023-2024,Monza vs Empoli,Monza,2,Empoli,0,12.0,17.0
+Italian Serie A,2022-2023,Monza vs Empoli,Monza,2,Empoli,1,11.0,14.0
+Italian Serie B,2020-2021,Monza vs Empoli,Monza,1,Empoli,1,,
+Italian Serie A,2023-2024,Monza vs Fiorentina,Monza,0,Fiorentina,1,12.0,8.0
+Italian Serie A,2022-2023,Monza vs Fiorentina,Monza,3,Fiorentina,2,11.0,8.0
+Italian Serie A,2023-2024,Monza vs Genoa,Monza,1,Genoa,0,12.0,11.0
+Italian Serie A,2023-2024,Monza vs Inter Milan,Monza,1,Inter,5,12.0,
+Italian Serie A,2023-2024,Monza vs Juventus,Monza,1,Juventus,2,12.0,3.0
+Italian Serie A,2022-2023,Monza vs Juventus,Monza,1,Juventus,0,11.0,7.0
+Club Friendlies,2021-2022,Monza vs Juventus,Monza,1,Juventus,2,,4.0
+Italian Lega Pro,2019-2020,Monza vs Juventus U23,Monza,1,Juventus U23,2,,
+Italian Serie A,2023-2024,Monza vs Lazio,Monza,2,Lazio,2,12.0,7.0
+Italian Serie A,2022-2023,Monza vs Lazio,Monza,0,Lazio,2,11.0,2.0
+Italian Serie A,2023-2024,Monza vs Lecce,Monza,1,Lecce,1,12.0,14.0
+Italian Serie A,2022-2023,Monza vs Lecce,Monza,0,Lecce,1,11.0,16.0
+Italian Serie B,2021-2022,Monza vs Lecce,Monza,0,Lecce,1,,
+Italian Serie B,2020-2021,Monza vs Lecce,Monza,1,Lecce,0,,
+Italian Serie A,2023-2024,Monza vs Napoli,Monza,2,Napoli,4,12.0,10.0
+Italian Serie A,2022-2023,Monza vs Napoli,Monza,2,Napoli,0,11.0,1.0
+Italian Serie B,2021-2022,Monza vs Parma Calcio 1913,Monza,1,Parma Calcio 1913,1,,
+Italian Serie A,2023-2024,Monza vs Roma,Monza,1,Roma,4,12.0,6.0
+Italian Serie A,2022-2023,Monza vs Roma,Monza,1,Roma,1,11.0,6.0
+Italian Serie A,2023-2024,Monza vs Torino,Monza,1,Torino,1,12.0,9.0
+Italian Serie A,2022-2023,Monza vs Torino,Monza,1,Torino,2,11.0,10.0
+Italian Serie A,2023-2024,Monza vs Udinese,Monza,1,Udinese,1,12.0,15.0
+Italian Serie A,2022-2023,Monza vs Udinese,Monza,1,Udinese,2,11.0,12.0
+Italian Serie B,2020-2021,Monza vs Venezia,Monza,1,Venezia,4,,
+Italian Serie A,2023-2024,Monza vs Verona,Monza,0,Verona,0,12.0,13.0
+Italian Serie A,2022-2023,Monza vs Verona,Monza,2,Verona,0,11.0,18.0
+Italian Serie A,2023-2024,Napoli vs AC Milan,Napoli,2,Milan,2,10.0,
+Italian Serie A,2023-2024,Napoli vs Atalanta,Napoli,0,Atalanta,3,10.0,4.0
+Italian Serie A,2022-2023,Napoli vs Atalanta,Napoli,2,Atalanta,0,1.0,5.0
+Italian Serie A,2021-2022,Napoli vs Atalanta,Napoli,2,Atalanta,3,3.0,8.0
+Coppa Italia,2020-2021,Napoli vs Atalanta,Napoli,0,Atalanta,0,5.0,3.0
+Italian Serie A,2020-2021,Napoli vs Atalanta,Napoli,4,Atalanta,1,5.0,3.0
+Italian Serie A,2019-2020,Napoli vs Atalanta,Napoli,2,Atalanta,2,7.0,3.0
+Italian Serie A,2018-2019,Napoli vs Atalanta,Napoli,1,Atalanta,2,2.0,3.0
+Italian Serie A,2017-2018,Napoli vs Atalanta,Napoli,3,Atalanta,1,1.0,8.0
+Italian Serie A,2016-2017,Napoli vs Atalanta,Napoli,0,Atalanta,2,3.0,4.0
+Italian Serie A,2015-2016,Napoli vs Atalanta,Napoli,2,Atalanta,1,2.0,13.0
+Italian Serie A,2012-2013,Napoli vs Atalanta,Napoli,3,Atalanta,2,2.0,15.0
+Italian Serie A,2013-2014,Napoli vs Atalanta,Napoli,2,Atalanta,0,3.0,11.0
+Italian Serie A,2014-2015,Napoli vs Atalanta,Napoli,1,Atalanta,1,5.0,17.0
+Italian Serie A,2023-2024,Napoli vs Bologna,Napoli,0,Bologna,2,10.0,5.0
+Italian Serie A,2022-2023,Napoli vs Bologna,Napoli,3,Bologna,2,1.0,9.0
+Italian Serie A,2021-2022,Napoli vs Bologna,Napoli,3,Bologna,0,3.0,13.0
+Italian Serie A,2020-2021,Napoli vs Bologna,Napoli,3,Bologna,1,5.0,12.0
+Italian Serie A,2019-2020,Napoli vs Bologna,Napoli,1,Bologna,2,7.0,12.0
+Italian Serie A,2018-2019,Napoli vs Bologna,Napoli,3,Bologna,2,2.0,10.0
+Italian Serie A,2017-2018,Napoli vs Bologna,Napoli,3,Bologna,1,1.0,13.0
+Italian Serie A,2016-2017,Napoli vs Bologna,Napoli,3,Bologna,1,3.0,15.0
+Italian Serie A,2015-2016,Napoli vs Bologna,Napoli,6,Bologna,0,2.0,14.0
+Italian Serie A,2012-2013,Napoli vs Bologna,Napoli,2,Bologna,3,2.0,13.0
+Italian Serie A,2013-2014,Napoli vs Bologna,Napoli,3,Bologna,0,3.0,19.0
+Italian Serie A,2023-2024,Napoli vs Cagliari,Napoli,2,Cagliari,1,10.0,16.0
+Italian Serie A,2021-2022,Napoli vs Cagliari,Napoli,2,Cagliari,0,3.0,18.0
+Italian Serie A,2020-2021,Napoli vs Cagliari,Napoli,1,Cagliari,1,5.0,16.0
+Italian Serie A,2019-2020,Napoli vs Cagliari,Napoli,0,Cagliari,1,7.0,14.0
+Italian Serie A,2018-2019,Napoli vs Cagliari,Napoli,2,Cagliari,1,2.0,15.0
+Italian Serie A,2017-2018,Napoli vs Cagliari,Napoli,3,Cagliari,0,1.0,14.0
+Italian Serie A,2016-2017,Napoli vs Cagliari,Napoli,3,Cagliari,1,3.0,12.0
+Italian Serie A,2012-2013,Napoli vs Cagliari,Napoli,3,Cagliari,2,2.0,11.0
+Italian Serie A,2013-2014,Napoli vs Cagliari,Napoli,3,Cagliari,0,3.0,15.0
+Italian Serie A,2014-2015,Napoli vs Cagliari,Napoli,3,Cagliari,3,5.0,18.0
+Italian Serie A,2023-2024,Napoli vs Empoli,Napoli,0,Empoli,1,10.0,17.0
+Italian Serie A,2022-2023,Napoli vs Empoli,Napoli,2,Empoli,0,1.0,14.0
+Italian Serie A,2021-2022,Napoli vs Empoli,Napoli,0,Empoli,1,3.0,14.0
+Coppa Italia,2020-2021,Napoli vs Empoli,Napoli,3,Empoli,2,5.0,
+Italian Serie A,2018-2019,Napoli vs Empoli,Napoli,5,Empoli,1,2.0,18.0
+Italian Serie A,2016-2017,Napoli vs Empoli,Napoli,2,Empoli,0,3.0,18.0
+Italian Serie A,2015-2016,Napoli vs Empoli,Napoli,5,Empoli,1,2.0,11.0
+Italian Serie A,2014-2015,Napoli vs Empoli,Napoli,2,Empoli,2,5.0,15.0
+Italian Serie A,2023-2024,Napoli vs Fiorentina,Napoli,1,Fiorentina,3,10.0,8.0
+Italian Serie A,2022-2023,Napoli vs Fiorentina,Napoli,1,Fiorentina,0,1.0,8.0
+Coppa Italia,2021-2022,Napoli vs Fiorentina,Napoli,2,Fiorentina,5,3.0,7.0
+Italian Serie A,2021-2022,Napoli vs Fiorentina,Napoli,2,Fiorentina,3,3.0,7.0
+Italian Serie A,2020-2021,Napoli vs Fiorentina,Napoli,6,Fiorentina,0,5.0,13.0
+Italian Serie A,2019-2020,Napoli vs Fiorentina,Napoli,0,Fiorentina,2,7.0,10.0
+Italian Serie A,2018-2019,Napoli vs Fiorentina,Napoli,1,Fiorentina,0,2.0,16.0
+Italian Serie A,2017-2018,Napoli vs Fiorentina,Napoli,0,Fiorentina,0,1.0,11.0
+Italian Serie A,2016-2017,Napoli vs Fiorentina,Napoli,4,Fiorentina,1,3.0,8.0
+Italian Serie A,2015-2016,Napoli vs Fiorentina,Napoli,2,Fiorentina,1,2.0,5.0
+Italian Serie A,2012-2013,Napoli vs Fiorentina,Napoli,2,Fiorentina,1,2.0,4.0
+Italian Serie A,2013-2014,Napoli vs Fiorentina,Napoli,0,Fiorentina,1,3.0,4.0
+Italian Serie A,2014-2015,Napoli vs Fiorentina,Napoli,3,Fiorentina,0,5.0,4.0
+Italian Serie A,2023-2024,Napoli vs Genoa,Napoli,1,Genoa,1,10.0,11.0
+Italian Serie A,2021-2022,Napoli vs Genoa,Napoli,3,Genoa,0,3.0,19.0
+Italian Serie A,2020-2021,Napoli vs Genoa,Napoli,6,Genoa,0,5.0,11.0
+Italian Serie A,2019-2020,Napoli vs Genoa,Napoli,0,Genoa,0,7.0,17.0
+Italian Serie A,2018-2019,Napoli vs Genoa,Napoli,1,Genoa,1,2.0,17.0
+Italian Serie A,2017-2018,Napoli vs Genoa,Napoli,1,Genoa,0,1.0,12.0
+Italian Serie A,2016-2017,Napoli vs Genoa,Napoli,2,Genoa,0,3.0,16.0
+Italian Serie A,2015-2016,Napoli vs Genoa,Napoli,3,Genoa,1,2.0,10.0
+Italian Serie A,2012-2013,Napoli vs Genoa,Napoli,2,Genoa,0,2.0,17.0
+Italian Serie A,2013-2014,Napoli vs Genoa,Napoli,1,Genoa,1,3.0,13.0
+Italian Serie A,2014-2015,Napoli vs Genoa,Napoli,2,Genoa,1,5.0,6.0
+Italian Serie A,2023-2024,Napoli vs Inter Milan,Napoli,0,Inter,3,10.0,
+Italian Serie A,2023-2024,Napoli vs Juventus,Napoli,2,Juventus,1,10.0,3.0
+Italian Serie A,2022-2023,Napoli vs Juventus,Napoli,5,Juventus,1,1.0,7.0
+Italian Serie A,2021-2022,Napoli vs Juventus,Napoli,2,Juventus,1,3.0,4.0
+Italian Serie A,2020-2021,Napoli vs Juventus,Napoli,1,Juventus,0,5.0,4.0
+Coppa Italia,2019-2020,Napoli vs Juventus,Napoli,0,Juventus,0,7.0,1.0
+Italian Serie A,2019-2020,Napoli vs Juventus,Napoli,2,Juventus,1,7.0,1.0
+Italian Serie A,2018-2019,Napoli vs Juventus,Napoli,1,Juventus,2,2.0,1.0
+Italian Serie A,2017-2018,Napoli vs Juventus,Napoli,0,Juventus,1,1.0,2.0
+Italian Serie A,2016-2017,Napoli vs Juventus,Napoli,1,Juventus,1,3.0,1.0
+Italian Serie A,2015-2016,Napoli vs Juventus,Napoli,2,Juventus,1,2.0,1.0
+Italian Serie A,2012-2013,Napoli vs Juventus,Napoli,1,Juventus,1,2.0,1.0
+Italian Serie A,2013-2014,Napoli vs Juventus,Napoli,2,Juventus,0,3.0,1.0
+Italian Serie A,2014-2015,Napoli vs Juventus,Napoli,1,Juventus,3,5.0,1.0
+Italian Serie A,2023-2024,Napoli vs Lazio,Napoli,1,Lazio,2,10.0,7.0
+Italian Serie A,2022-2023,Napoli vs Lazio,Napoli,0,Lazio,1,1.0,2.0
+Italian Serie A,2021-2022,Napoli vs Lazio,Napoli,4,Lazio,0,3.0,5.0
+Italian Serie A,2020-2021,Napoli vs Lazio,Napoli,5,Lazio,2,5.0,6.0
+Italian Serie A,2019-2020,Napoli vs Lazio,Napoli,3,Lazio,1,7.0,4.0
+Coppa Italia,2019-2020,Napoli vs Lazio,Napoli,1,Lazio,0,7.0,4.0
+Italian Serie A,2018-2019,Napoli vs Lazio,Napoli,2,Lazio,1,2.0,8.0
+Italian Serie A,2017-2018,Napoli vs Lazio,Napoli,4,Lazio,1,1.0,5.0
+Italian Serie A,2016-2017,Napoli vs Lazio,Napoli,1,Lazio,1,3.0,5.0
+Italian Serie A,2015-2016,Napoli vs Lazio,Napoli,5,Lazio,0,2.0,8.0
+Italian Serie A,2013-2014,Napoli vs Lazio,Napoli,4,Lazio,2,3.0,9.0
+Italian Serie A,2014-2015,Napoli vs Lazio,Napoli,2,Lazio,4,5.0,3.0
+Italian Serie A,2023-2024,Napoli vs Lecce,Napoli,0,Lecce,0,10.0,14.0
+Italian Serie A,2022-2023,Napoli vs Lecce,Napoli,1,Lecce,1,1.0,16.0
+Italian Serie A,2019-2020,Napoli vs Lecce,Napoli,2,Lecce,3,7.0,18.0
+Italian Serie A,2023-2024,Napoli vs Monza,Napoli,0,Monza,0,10.0,12.0
+Italian Serie A,2022-2023,Napoli vs Monza,Napoli,4,Monza,0,1.0,11.0
+Italian Serie A,2020-2021,Napoli vs Parma Calcio 1913,Napoli,2,Parma Calcio 1913,0,5.0,20.0
+Italian Serie A,2019-2020,Napoli vs Parma Calcio 1913,Napoli,1,Parma Calcio 1913,2,7.0,11.0
+Italian Serie A,2018-2019,Napoli vs Parma Calcio 1913,Napoli,3,Parma Calcio 1913,0,2.0,14.0
+Italian Serie A,2023-2024,Napoli vs Roma,Napoli,2,Roma,2,10.0,6.0
+Italian Serie A,2022-2023,Napoli vs Roma,Napoli,2,Roma,1,1.0,6.0
+Italian Serie A,2021-2022,Napoli vs Roma,Napoli,1,Roma,1,3.0,6.0
+Italian Serie A,2020-2021,Napoli vs Roma,Napoli,4,Roma,0,5.0,7.0
+Italian Serie A,2019-2020,Napoli vs Roma,Napoli,2,Roma,1,7.0,5.0
+Italian Serie A,2018-2019,Napoli vs Roma,Napoli,1,Roma,1,2.0,6.0
+Italian Serie A,2017-2018,Napoli vs Roma,Napoli,2,Roma,4,1.0,4.0
+Italian Serie A,2016-2017,Napoli vs Roma,Napoli,1,Roma,3,3.0,2.0
+Italian Serie A,2015-2016,Napoli vs Roma,Napoli,0,Roma,0,2.0,3.0
+Italian Serie A,2012-2013,Napoli vs Roma,Napoli,4,Roma,1,2.0,6.0
+Italian Serie A,2013-2014,Napoli vs Roma,Napoli,1,Roma,0,3.0,2.0
+Italian Serie A,2014-2015,Napoli vs Roma,Napoli,2,Roma,0,5.0,2.0
+Italian Serie A,2023-2024,Napoli vs Torino,Napoli,1,Torino,1,10.0,9.0
+Italian Serie A,2022-2023,Napoli vs Torino,Napoli,3,Torino,1,1.0,10.0
+Italian Serie A,2021-2022,Napoli vs Torino,Napoli,1,Torino,0,3.0,10.0
+Italian Serie A,2020-2021,Napoli vs Torino,Napoli,1,Torino,1,5.0,17.0
+Italian Serie A,2019-2020,Napoli vs Torino,Napoli,2,Torino,1,7.0,16.0
+Italian Serie A,2018-2019,Napoli vs Torino,Napoli,0,Torino,0,2.0,7.0
+Italian Serie A,2017-2018,Napoli vs Torino,Napoli,2,Torino,2,1.0,9.0
+Italian Serie A,2016-2017,Napoli vs Torino,Napoli,5,Torino,3,3.0,9.0
+Italian Serie A,2015-2016,Napoli vs Torino,Napoli,2,Torino,1,2.0,12.0
+Italian Serie A,2012-2013,Napoli vs Torino,Napoli,1,Torino,1,2.0,16.0
+Italian Serie A,2013-2014,Napoli vs Torino,Napoli,2,Torino,0,3.0,7.0
+Italian Serie A,2014-2015,Napoli vs Torino,Napoli,2,Torino,1,5.0,9.0
+Italian Serie A,2023-2024,Napoli vs Udinese,Napoli,4,Udinese,1,10.0,15.0
+Italian Serie A,2022-2023,Napoli vs Udinese,Napoli,3,Udinese,2,1.0,12.0
+Italian Serie A,2021-2022,Napoli vs Udinese,Napoli,2,Udinese,1,3.0,12.0
+Italian Serie A,2020-2021,Napoli vs Udinese,Napoli,5,Udinese,1,5.0,14.0
+Italian Serie A,2019-2020,Napoli vs Udinese,Napoli,2,Udinese,1,7.0,13.0
+Italian Serie A,2018-2019,Napoli vs Udinese,Napoli,4,Udinese,2,2.0,12.0
+Italian Serie A,2017-2018,Napoli vs Udinese,Napoli,4,Udinese,2,1.0,10.0
+Italian Serie A,2016-2017,Napoli vs Udinese,Napoli,,Udinese,,3.0,13.0
+Italian Serie A,2016-2017,Napoli vs Udinese,Napoli,3,Udinese,0,3.0,13.0
+Italian Serie A,2015-2016,Napoli vs Udinese,Napoli,1,Udinese,0,2.0,17.0
+Italian Serie A,2013-2014,Napoli vs Udinese,Napoli,3,Udinese,3,3.0,14.0
+Italian Serie A,2014-2015,Napoli vs Udinese,Napoli,3,Udinese,1,5.0,16.0
+Italian Serie A,2021-2022,Napoli vs Venezia,Napoli,2,Venezia,0,3.0,20.0
+Italian Serie A,2023-2024,Napoli vs Verona,Napoli,2,Verona,1,10.0,13.0
+Italian Serie A,2022-2023,Napoli vs Verona,Napoli,0,Verona,0,1.0,18.0
+Italian Serie A,2021-2022,Napoli vs Verona,Napoli,1,Verona,1,3.0,9.0
+Italian Serie A,2020-2021,Napoli vs Verona,Napoli,1,Verona,1,5.0,10.0
+Italian Serie A,2019-2020,Napoli vs Verona,Napoli,2,Verona,0,7.0,9.0
+Italian Serie A,2017-2018,Napoli vs Verona,Napoli,2,Verona,0,1.0,19.0
+Italian Serie A,2015-2016,Napoli vs Verona,Napoli,3,Verona,0,2.0,20.0
+Italian Serie A,2013-2014,Napoli vs Verona,Napoli,5,Verona,1,3.0,10.0
+Italian Serie A,2014-2015,Napoli vs Verona,Napoli,6,Verona,2,5.0,13.0
+Italian Serie A,2020-2021,Parma Calcio 1913 vs Atalanta,Parma Calcio 1913,2,Atalanta,5,20.0,3.0
+Italian Serie A,2019-2020,Parma Calcio 1913 vs Atalanta,Parma Calcio 1913,1,Atalanta,2,11.0,3.0
+Italian Serie A,2018-2019,Parma Calcio 1913 vs Atalanta,Parma Calcio 1913,1,Atalanta,3,14.0,3.0
+Italian Serie A,2020-2021,Parma Calcio 1913 vs Bologna,Parma Calcio 1913,0,Bologna,3,20.0,12.0
+Italian Serie A,2019-2020,Parma Calcio 1913 vs Bologna,Parma Calcio 1913,2,Bologna,2,11.0,12.0
+Italian Serie A,2018-2019,Parma Calcio 1913 vs Bologna,Parma Calcio 1913,0,Bologna,0,14.0,10.0
+Italian Serie B,2022-2023,Parma Calcio 1913 vs Cagliari,Parma Calcio 1913,0,Cagliari,0,,
+Italian Serie B,2022-2023,Parma Calcio 1913 vs Cagliari,Parma Calcio 1913,2,Cagliari,1,,
+Italian Serie A,2020-2021,Parma Calcio 1913 vs Cagliari,Parma Calcio 1913,0,Cagliari,0,20.0,16.0
+Italian Serie A,2019-2020,Parma Calcio 1913 vs Cagliari,Parma Calcio 1913,1,Cagliari,3,11.0,14.0
+Italian Serie A,2018-2019,Parma Calcio 1913 vs Cagliari,Parma Calcio 1913,2,Cagliari,0,14.0,15.0
+Italian Serie B,2023-2024,Parma Calcio 1913 vs Como,Parma Calcio 1913,2,Como,1,,
+Italian Serie B,2022-2023,Parma Calcio 1913 vs Como,Parma Calcio 1913,1,Como,0,,
+Italian Serie B,2021-2022,Parma Calcio 1913 vs Como,Parma Calcio 1913,4,Como,3,,
+Italian Serie A,2018-2019,Parma Calcio 1913 vs Empoli,Parma Calcio 1913,1,Empoli,0,14.0,18.0
+Italian Serie B,2017-2018,Parma Calcio 1913 vs Empoli,Parma Calcio 1913,1,Empoli,2,,
+Italian Serie A,2020-2021,Parma Calcio 1913 vs Fiorentina,Parma Calcio 1913,0,Fiorentina,0,20.0,13.0
+Italian Serie A,2019-2020,Parma Calcio 1913 vs Fiorentina,Parma Calcio 1913,1,Fiorentina,2,11.0,10.0
+Italian Serie A,2018-2019,Parma Calcio 1913 vs Fiorentina,Parma Calcio 1913,1,Fiorentina,0,14.0,16.0
+Italian Serie B,2022-2023,Parma Calcio 1913 vs Genoa,Parma Calcio 1913,2,Genoa,0,,
+Italian Serie A,2020-2021,Parma Calcio 1913 vs Genoa,Parma Calcio 1913,1,Genoa,2,20.0,11.0
+Italian Serie A,2019-2020,Parma Calcio 1913 vs Genoa,Parma Calcio 1913,5,Genoa,1,11.0,17.0
+Italian Serie A,2018-2019,Parma Calcio 1913 vs Genoa,Parma Calcio 1913,1,Genoa,0,14.0,17.0
+Italian Serie A,2020-2021,Parma Calcio 1913 vs Juventus,Parma Calcio 1913,0,Juventus,4,20.0,4.0
+Italian Serie A,2019-2020,Parma Calcio 1913 vs Juventus,Parma Calcio 1913,0,Juventus,1,11.0,1.0
+Italian Serie A,2018-2019,Parma Calcio 1913 vs Juventus,Parma Calcio 1913,1,Juventus,2,14.0,1.0
+Italian Serie A,2020-2021,Parma Calcio 1913 vs Lazio,Parma Calcio 1913,0,Lazio,2,20.0,6.0
+Italian Serie A,2019-2020,Parma Calcio 1913 vs Lazio,Parma Calcio 1913,0,Lazio,1,11.0,4.0
+Italian Serie A,2018-2019,Parma Calcio 1913 vs Lazio,Parma Calcio 1913,0,Lazio,2,14.0,8.0
+Coppa Italia,2021-2022,Parma Calcio 1913 vs Lecce,Parma Calcio 1913,1,Lecce,3,,
+Italian Serie B,2021-2022,Parma Calcio 1913 vs Lecce,Parma Calcio 1913,0,Lecce,0,,
+Italian Serie A,2019-2020,Parma Calcio 1913 vs Lecce,Parma Calcio 1913,2,Lecce,0,11.0,18.0
+Italian Serie B,2021-2022,Parma Calcio 1913 vs Monza,Parma Calcio 1913,0,Monza,0,,
+Italian Serie A,2020-2021,Parma Calcio 1913 vs Napoli,Parma Calcio 1913,0,Napoli,2,20.0,5.0
+Italian Serie A,2019-2020,Parma Calcio 1913 vs Napoli,Parma Calcio 1913,2,Napoli,1,11.0,7.0
+Italian Serie A,2018-2019,Parma Calcio 1913 vs Napoli,Parma Calcio 1913,0,Napoli,4,14.0,2.0
+Italian Serie A,2020-2021,Parma Calcio 1913 vs Roma,Parma Calcio 1913,2,Roma,0,20.0,7.0
+Coppa Italia,2019-2020,Parma Calcio 1913 vs Roma,Parma Calcio 1913,0,Roma,2,11.0,5.0
+Italian Serie A,2019-2020,Parma Calcio 1913 vs Roma,Parma Calcio 1913,2,Roma,0,11.0,5.0
+Italian Serie A,2018-2019,Parma Calcio 1913 vs Roma,Parma Calcio 1913,0,Roma,2,14.0,6.0
+Italian Serie A,2020-2021,Parma Calcio 1913 vs Torino,Parma Calcio 1913,0,Torino,3,20.0,17.0
+Italian Serie A,2019-2020,Parma Calcio 1913 vs Torino,Parma Calcio 1913,3,Torino,2,11.0,16.0
+Italian Serie A,2018-2019,Parma Calcio 1913 vs Torino,Parma Calcio 1913,0,Torino,0,14.0,7.0
+Italian Serie A,2020-2021,Parma Calcio 1913 vs Udinese,Parma Calcio 1913,2,Udinese,2,20.0,14.0
+Italian Serie A,2019-2020,Parma Calcio 1913 vs Udinese,Parma Calcio 1913,2,Udinese,0,11.0,13.0
+Italian Serie A,2018-2019,Parma Calcio 1913 vs Udinese,Parma Calcio 1913,2,Udinese,2,14.0,12.0
+Italian Serie B,2023-2024,Parma Calcio 1913 vs Venezia,Parma Calcio 1913,2,Venezia,1,,
+Italian Serie B,2022-2023,Parma Calcio 1913 vs Venezia,Parma Calcio 1913,2,Venezia,1,,
+Coppa Italia,2019-2020,Parma Calcio 1913 vs Venezia,Parma Calcio 1913,3,Venezia,1,11.0,
+Italian Serie B,2017-2018,Parma Calcio 1913 vs Venezia,Parma Calcio 1913,,Venezia,,,
+Italian Lega Pro,2016-2017,Parma Calcio 1913 vs Venezia,Parma Calcio 1913,1,Venezia,2,,
+Italian Serie A,2020-2021,Parma Calcio 1913 vs Verona,Parma Calcio 1913,1,Verona,0,20.0,10.0
+Italian Serie A,2019-2020,Parma Calcio 1913 vs Verona,Parma Calcio 1913,0,Verona,1,11.0,9.0
+UEFA Europa League,2023-2024,Roma vs AC Milan,Roma,2,Milan,1,6.0,
+Italian Serie A,2023-2024,Roma vs AC Milan,Roma,1,Milan,2,6.0,
+Italian Serie A,2023-2024,Roma vs Atalanta,Roma,1,Atalanta,1,6.0,4.0
+Italian Serie A,2022-2023,Roma vs Atalanta,Roma,0,Atalanta,1,6.0,5.0
+Italian Serie A,2021-2022,Roma vs Atalanta,Roma,1,Atalanta,0,6.0,8.0
+Italian Serie A,2020-2021,Roma vs Atalanta,Roma,1,Atalanta,1,7.0,3.0
+Italian Serie A,2019-2020,Roma vs Atalanta,Roma,0,Atalanta,2,5.0,3.0
+Italian Serie A,2018-2019,Roma vs Atalanta,Roma,3,Atalanta,3,6.0,3.0
+Italian Serie A,2017-2018,Roma vs Atalanta,Roma,1,Atalanta,2,4.0,8.0
+Italian Serie A,2016-2017,Roma vs Atalanta,Roma,,Atalanta,,2.0,4.0
+Italian Serie A,2016-2017,Roma vs Atalanta,Roma,1,Atalanta,1,2.0,4.0
+Italian Serie A,2015-2016,Roma vs Atalanta,Roma,0,Atalanta,2,3.0,13.0
+Italian Serie A,2012-2013,Roma vs Atalanta,Roma,2,Atalanta,0,6.0,15.0
+Italian Serie A,2013-2014,Roma vs Atalanta,Roma,3,Atalanta,1,2.0,11.0
+Italian Serie A,2014-2015,Roma vs Atalanta,Roma,1,Atalanta,1,2.0,17.0
+Italian Serie A,2023-2024,Roma vs Bologna,Roma,1,Bologna,3,6.0,5.0
+Italian Serie A,2022-2023,Roma vs Bologna,Roma,1,Bologna,0,6.0,9.0
+Italian Serie A,2021-2022,Roma vs Bologna,Roma,0,Bologna,0,6.0,13.0
+Italian Serie A,2020-2021,Roma vs Bologna,Roma,1,Bologna,0,7.0,12.0
+Italian Serie A,2019-2020,Roma vs Bologna,Roma,2,Bologna,3,5.0,12.0
+Italian Serie A,2018-2019,Roma vs Bologna,Roma,2,Bologna,1,6.0,10.0
+Italian Serie A,2017-2018,Roma vs Bologna,Roma,1,Bologna,0,4.0,13.0
+Italian Serie A,2016-2017,Roma vs Bologna,Roma,3,Bologna,0,2.0,15.0
+Italian Serie A,2015-2016,Roma vs Bologna,Roma,1,Bologna,1,3.0,14.0
+Italian Serie A,2012-2013,Roma vs Bologna,Roma,2,Bologna,3,6.0,13.0
+Italian Serie A,2013-2014,Roma vs Bologna,Roma,5,Bologna,0,2.0,19.0
+Italian Serie A,2023-2024,Roma vs Cagliari,Roma,4,Cagliari,0,6.0,16.0
+Italian Serie A,2021-2022,Roma vs Cagliari,Roma,1,Cagliari,0,6.0,18.0
+Italian Serie A,2020-2021,Roma vs Cagliari,Roma,3,Cagliari,2,7.0,16.0
+Italian Serie A,2019-2020,Roma vs Cagliari,Roma,1,Cagliari,1,5.0,14.0
+Italian Serie A,2018-2019,Roma vs Cagliari,Roma,3,Cagliari,0,6.0,15.0
+Italian Serie A,2017-2018,Roma vs Cagliari,Roma,1,Cagliari,0,4.0,14.0
+Italian Serie A,2016-2017,Roma vs Cagliari,Roma,1,Cagliari,0,2.0,12.0
+Italian Serie A,2012-2013,Roma vs Cagliari,Roma,2,Cagliari,4,6.0,11.0
+Italian Serie A,2013-2014,Roma vs Cagliari,Roma,0,Cagliari,0,2.0,15.0
+Italian Serie A,2014-2015,Roma vs Cagliari,Roma,2,Cagliari,0,2.0,18.0
+Italian Serie A,2023-2024,Roma vs Empoli,Roma,7,Empoli,0,6.0,17.0
+Italian Serie A,2022-2023,Roma vs Empoli,Roma,2,Empoli,0,6.0,14.0
+Italian Serie A,2021-2022,Roma vs Empoli,Roma,2,Empoli,0,6.0,14.0
+Italian Serie A,2018-2019,Roma vs Empoli,Roma,2,Empoli,1,6.0,18.0
+Italian Serie A,2016-2017,Roma vs Empoli,Roma,2,Empoli,0,2.0,18.0
+Italian Serie A,2015-2016,Roma vs Empoli,Roma,3,Empoli,1,3.0,11.0
+Italian Serie A,2014-2015,Roma vs Empoli,Roma,1,Empoli,1,2.0,15.0
+Italian Serie A,2023-2024,Roma vs Fiorentina,Roma,1,Fiorentina,1,6.0,8.0
+Italian Serie A,2022-2023,Roma vs Fiorentina,Roma,2,Fiorentina,0,6.0,8.0
+Italian Serie A,2021-2022,Roma vs Fiorentina,Roma,3,Fiorentina,1,6.0,7.0
+Italian Serie A,2020-2021,Roma vs Fiorentina,Roma,2,Fiorentina,0,7.0,13.0
+Italian Serie A,2019-2020,Roma vs Fiorentina,Roma,2,Fiorentina,1,5.0,10.0
+Italian Serie A,2018-2019,Roma vs Fiorentina,Roma,2,Fiorentina,2,6.0,16.0
+Italian Serie A,2017-2018,Roma vs Fiorentina,Roma,0,Fiorentina,2,4.0,11.0
+Italian Serie A,2016-2017,Roma vs Fiorentina,Roma,4,Fiorentina,0,2.0,8.0
+Italian Serie A,2015-2016,Roma vs Fiorentina,Roma,4,Fiorentina,1,3.0,5.0
+Italian Serie A,2012-2013,Roma vs Fiorentina,Roma,4,Fiorentina,2,6.0,4.0
+Italian Serie A,2013-2014,Roma vs Fiorentina,Roma,2,Fiorentina,1,2.0,4.0
+Italian Serie A,2014-2015,Roma vs Fiorentina,Roma,2,Fiorentina,0,2.0,4.0
+Italian Serie A,2023-2024,Roma vs Genoa,Roma,1,Genoa,0,6.0,11.0
+Coppa Italia,2022-2023,Roma vs Genoa,Roma,1,Genoa,0,6.0,
+Italian Serie A,2021-2022,Roma vs Genoa,Roma,0,Genoa,0,6.0,19.0
+Italian Serie A,2020-2021,Roma vs Genoa,Roma,1,Genoa,0,7.0,11.0
+Italian Serie A,2019-2020,Roma vs Genoa,Roma,3,Genoa,3,5.0,17.0
+Italian Serie A,2018-2019,Roma vs Genoa,Roma,3,Genoa,2,6.0,17.0
+Italian Serie A,2017-2018,Roma vs Genoa,Roma,2,Genoa,1,4.0,12.0
+Italian Serie A,2016-2017,Roma vs Genoa,Roma,3,Genoa,2,2.0,16.0
+Italian Serie A,2015-2016,Roma vs Genoa,Roma,2,Genoa,0,3.0,10.0
+Italian Serie A,2012-2013,Roma vs Genoa,Roma,3,Genoa,1,6.0,17.0
+Italian Serie A,2013-2014,Roma vs Genoa,Roma,4,Genoa,0,2.0,13.0
+Italian Serie A,2014-2015,Roma vs Genoa,Roma,2,Genoa,0,2.0,6.0
+Italian Serie A,2023-2024,Roma vs Inter Milan,Roma,2,Inter,4,6.0,
+Italian Serie A,2023-2024,Roma vs Juventus,Roma,1,Juventus,1,6.0,3.0
+Italian Serie A,2022-2023,Roma vs Juventus,Roma,1,Juventus,0,6.0,7.0
+Italian Serie A,2021-2022,Roma vs Juventus,Roma,3,Juventus,4,6.0,4.0
+Italian Serie A,2020-2021,Roma vs Juventus,Roma,2,Juventus,2,7.0,4.0
+Italian Serie A,2019-2020,Roma vs Juventus,Roma,1,Juventus,2,5.0,1.0
+Italian Serie A,2018-2019,Roma vs Juventus,Roma,2,Juventus,0,6.0,1.0
+Italian Serie A,2017-2018,Roma vs Juventus,Roma,0,Juventus,0,4.0,2.0
+Italian Serie A,2016-2017,Roma vs Juventus,Roma,3,Juventus,1,2.0,1.0
+Italian Serie A,2015-2016,Roma vs Juventus,Roma,2,Juventus,1,3.0,1.0
+Italian Serie A,2013-2014,Roma vs Juventus,Roma,0,Juventus,1,2.0,1.0
+Italian Serie A,2014-2015,Roma vs Juventus,Roma,1,Juventus,1,2.0,1.0
+Italian Serie A,2023-2024,Roma vs Lazio,Roma,1,Lazio,0,6.0,7.0
+Italian Serie A,2022-2023,Roma vs Lazio,Roma,0,Lazio,1,6.0,2.0
+Italian Serie A,2021-2022,Roma vs Lazio,Roma,3,Lazio,0,6.0,5.0
+Italian Serie A,2020-2021,Roma vs Lazio,Roma,2,Lazio,0,7.0,6.0
+Italian Serie A,2019-2020,Roma vs Lazio,Roma,1,Lazio,1,5.0,4.0
+Italian Serie A,2018-2019,Roma vs Lazio,Roma,3,Lazio,1,6.0,8.0
+Italian Serie A,2017-2018,Roma vs Lazio,Roma,2,Lazio,1,4.0,5.0
+Italian Serie A,2016-2017,Roma vs Lazio,Roma,1,Lazio,3,2.0,5.0
+Italian Serie A,2015-2016,Roma vs Lazio,Roma,2,Lazio,0,3.0,8.0
+Italian Serie A,2012-2013,Roma vs Lazio,Roma,1,Lazio,1,6.0,7.0
+Italian Serie A,2013-2014,Roma vs Lazio,Roma,2,Lazio,0,2.0,9.0
+Italian Serie A,2014-2015,Roma vs Lazio,Roma,2,Lazio,2,2.0,3.0
+Italian Serie A,2023-2024,Roma vs Lecce,Roma,2,Lecce,1,6.0,14.0
+Italian Serie A,2022-2023,Roma vs Lecce,Roma,2,Lecce,1,6.0,16.0
+Coppa Italia,2021-2022,Roma vs Lecce,Roma,3,Lecce,1,6.0,
+Italian Serie A,2019-2020,Roma vs Lecce,Roma,4,Lecce,0,5.0,18.0
+Italian Serie A,2023-2024,Roma vs Monza,Roma,1,Monza,0,6.0,12.0
+Italian Serie A,2022-2023,Roma vs Monza,Roma,3,Monza,0,6.0,11.0
+Italian Serie A,2023-2024,Roma vs Napoli,Roma,2,Napoli,0,6.0,10.0
+Italian Serie A,2022-2023,Roma vs Napoli,Roma,0,Napoli,1,6.0,1.0
+Italian Serie A,2021-2022,Roma vs Napoli,Roma,0,Napoli,0,6.0,3.0
+Italian Serie A,2020-2021,Roma vs Napoli,Roma,0,Napoli,2,7.0,5.0
+Italian Serie A,2019-2020,Roma vs Napoli,Roma,2,Napoli,1,5.0,7.0
+Italian Serie A,2018-2019,Roma vs Napoli,Roma,1,Napoli,4,6.0,2.0
+Italian Serie A,2017-2018,Roma vs Napoli,Roma,0,Napoli,1,4.0,1.0
+Italian Serie A,2016-2017,Roma vs Napoli,Roma,1,Napoli,2,2.0,3.0
+Italian Serie A,2015-2016,Roma vs Napoli,Roma,1,Napoli,0,3.0,2.0
+Italian Serie A,2012-2013,Roma vs Napoli,Roma,2,Napoli,1,6.0,2.0
+Italian Serie A,2013-2014,Roma vs Napoli,Roma,2,Napoli,0,2.0,3.0
+Italian Serie A,2014-2015,Roma vs Napoli,Roma,1,Napoli,0,2.0,5.0
+Italian Serie A,2020-2021,Roma vs Parma Calcio 1913,Roma,3,Parma Calcio 1913,0,7.0,20.0
+Italian Serie A,2019-2020,Roma vs Parma Calcio 1913,Roma,2,Parma Calcio 1913,1,5.0,11.0
+Italian Serie A,2018-2019,Roma vs Parma Calcio 1913,Roma,2,Parma Calcio 1913,1,6.0,14.0
+Italian Serie A,2023-2024,Roma vs Torino,Roma,3,Torino,2,6.0,9.0
+Italian Serie A,2022-2023,Roma vs Torino,Roma,1,Torino,1,6.0,10.0
+Italian Serie A,2021-2022,Roma vs Torino,Roma,1,Torino,0,6.0,10.0
+Italian Serie A,2020-2021,Roma vs Torino,Roma,3,Torino,1,7.0,17.0
+Italian Serie A,2019-2020,Roma vs Torino,Roma,0,Torino,2,5.0,16.0
+Italian Serie A,2018-2019,Roma vs Torino,Roma,3,Torino,2,6.0,7.0
+Italian Serie A,2017-2018,Roma vs Torino,Roma,3,Torino,0,4.0,9.0
+Italian Serie A,2016-2017,Roma vs Torino,Roma,4,Torino,1,2.0,9.0
+Italian Serie A,2015-2016,Roma vs Torino,Roma,3,Torino,2,3.0,12.0
+Italian Serie A,2012-2013,Roma vs Torino,Roma,2,Torino,0,6.0,16.0
+Italian Serie A,2013-2014,Roma vs Torino,Roma,2,Torino,1,2.0,7.0
+Italian Serie A,2014-2015,Roma vs Torino,Roma,3,Torino,0,2.0,9.0
+Italian Serie A,2023-2024,Roma vs Udinese,Roma,3,Udinese,1,6.0,15.0
+Italian Serie A,2022-2023,Roma vs Udinese,Roma,3,Udinese,0,6.0,12.0
+Italian Serie A,2021-2022,Roma vs Udinese,Roma,1,Udinese,0,6.0,12.0
+Italian Serie A,2020-2021,Roma vs Udinese,Roma,3,Udinese,0,7.0,14.0
+Italian Serie A,2019-2020,Roma vs Udinese,Roma,0,Udinese,2,5.0,13.0
+Italian Serie A,2018-2019,Roma vs Udinese,Roma,1,Udinese,0,6.0,12.0
+Italian Serie A,2017-2018,Roma vs Udinese,Roma,3,Udinese,1,4.0,10.0
+Italian Serie A,2016-2017,Roma vs Udinese,Roma,4,Udinese,0,2.0,13.0
+Italian Serie A,2015-2016,Roma vs Udinese,Roma,3,Udinese,1,3.0,17.0
+Italian Serie A,2012-2013,Roma vs Udinese,Roma,2,Udinese,3,6.0,5.0
+Italian Serie A,2013-2014,Roma vs Udinese,Roma,3,Udinese,2,2.0,14.0
+Italian Serie A,2014-2015,Roma vs Udinese,Roma,2,Udinese,1,2.0,16.0
+Italian Serie A,2021-2022,Roma vs Venezia,Roma,1,Venezia,1,6.0,20.0
+Italian Serie A,2023-2024,Roma vs Verona,Roma,2,Verona,1,6.0,13.0
+Italian Serie A,2022-2023,Roma vs Verona,Roma,1,Verona,0,6.0,18.0
+Italian Serie A,2021-2022,Roma vs Verona,Roma,2,Verona,2,6.0,9.0
+Italian Serie A,2020-2021,Roma vs Verona,Roma,3,Verona,1,7.0,10.0
+Italian Serie A,2019-2020,Roma vs Verona,Roma,2,Verona,1,5.0,9.0
+Italian Serie A,2017-2018,Roma vs Verona,Roma,3,Verona,0,4.0,19.0
+Italian Serie A,2015-2016,Roma vs Verona,Roma,1,Verona,1,3.0,20.0
+Italian Serie A,2013-2014,Roma vs Verona,Roma,3,Verona,0,2.0,10.0
+Italian Serie A,2014-2015,Roma vs Verona,Roma,2,Verona,0,2.0,13.0
+Italian Serie A,2023-2024,Torino vs AC Milan,Torino,3,Milan,1,9.0,
+Italian Serie A,2023-2024,Torino vs Atalanta,Torino,3,Atalanta,0,9.0,4.0
+Italian Serie A,2022-2023,Torino vs Atalanta,Torino,1,Atalanta,2,10.0,5.0
+Italian Serie A,2021-2022,Torino vs Atalanta,Torino,1,Atalanta,2,10.0,8.0
+Italian Serie A,2020-2021,Torino vs Atalanta,Torino,2,Atalanta,4,17.0,3.0
+Italian Serie A,2019-2020,Torino vs Atalanta,Torino,0,Atalanta,7,16.0,3.0
+Italian Serie A,2018-2019,Torino vs Atalanta,Torino,2,Atalanta,0,7.0,3.0
+Italian Serie A,2017-2018,Torino vs Atalanta,Torino,1,Atalanta,1,9.0,8.0
+Italian Serie A,2016-2017,Torino vs Atalanta,Torino,1,Atalanta,1,9.0,4.0
+Italian Serie A,2015-2016,Torino vs Atalanta,Torino,2,Atalanta,1,12.0,13.0
+Italian Serie A,2012-2013,Torino vs Atalanta,Torino,2,Atalanta,1,16.0,15.0
+Italian Serie A,2013-2014,Torino vs Atalanta,Torino,1,Atalanta,0,7.0,11.0
+Italian Serie A,2014-2015,Torino vs Atalanta,Torino,0,Atalanta,0,9.0,17.0
+Italian Serie A,2023-2024,Torino vs Bologna,Torino,0,Bologna,0,9.0,5.0
+Italian Serie A,2022-2023,Torino vs Bologna,Torino,1,Bologna,0,10.0,9.0
+Italian Serie A,2021-2022,Torino vs Bologna,Torino,2,Bologna,1,10.0,13.0
+Italian Serie A,2020-2021,Torino vs Bologna,Torino,1,Bologna,1,17.0,12.0
+Italian Serie A,2019-2020,Torino vs Bologna,Torino,1,Bologna,0,16.0,12.0
+Italian Serie A,2018-2019,Torino vs Bologna,Torino,2,Bologna,3,7.0,10.0
+Italian Serie A,2017-2018,Torino vs Bologna,Torino,3,Bologna,0,9.0,13.0
+Italian Serie A,2016-2017,Torino vs Bologna,Torino,5,Bologna,1,9.0,15.0
+Italian Serie A,2015-2016,Torino vs Bologna,Torino,2,Bologna,0,12.0,14.0
+Italian Serie A,2012-2013,Torino vs Bologna,Torino,1,Bologna,0,16.0,13.0
+Italian Serie A,2013-2014,Torino vs Bologna,Torino,1,Bologna,2,7.0,19.0
+Italian Serie A,2023-2024,Torino vs Cagliari,Torino,0,Cagliari,0,9.0,16.0
+Italian Serie A,2021-2022,Torino vs Cagliari,Torino,1,Cagliari,2,10.0,18.0
+Italian Serie A,2020-2021,Torino vs Cagliari,Torino,2,Cagliari,3,17.0,16.0
+Italian Serie A,2019-2020,Torino vs Cagliari,Torino,1,Cagliari,1,16.0,14.0
+Italian Serie A,2018-2019,Torino vs Cagliari,Torino,1,Cagliari,1,7.0,15.0
+Italian Serie A,2017-2018,Torino vs Cagliari,Torino,2,Cagliari,1,9.0,14.0
+Italian Serie A,2016-2017,Torino vs Cagliari,Torino,5,Cagliari,1,9.0,12.0
+Italian Serie A,2012-2013,Torino vs Cagliari,Torino,0,Cagliari,1,16.0,11.0
+Italian Serie A,2013-2014,Torino vs Cagliari,Torino,2,Cagliari,1,7.0,15.0
+Italian Serie A,2014-2015,Torino vs Cagliari,Torino,1,Cagliari,1,9.0,18.0
+Italian Serie A,2023-2024,Torino vs Empoli,Torino,1,Empoli,0,9.0,17.0
+Italian Serie A,2022-2023,Torino vs Empoli,Torino,1,Empoli,1,10.0,14.0
+Italian Serie A,2021-2022,Torino vs Empoli,Torino,2,Empoli,2,10.0,14.0
+Italian Serie A,2018-2019,Torino vs Empoli,Torino,3,Empoli,0,7.0,18.0
+Italian Serie A,2016-2017,Torino vs Empoli,Torino,0,Empoli,0,9.0,18.0
+Italian Serie A,2015-2016,Torino vs Empoli,Torino,0,Empoli,1,12.0,11.0
+Italian Serie A,2014-2015,Torino vs Empoli,Torino,0,Empoli,1,9.0,15.0
+Italian Serie A,2023-2024,Torino vs Fiorentina,Torino,0,Fiorentina,0,9.0,8.0
+Italian Serie A,2022-2023,Torino vs Fiorentina,Torino,1,Fiorentina,1,10.0,8.0
+Italian Serie A,2021-2022,Torino vs Fiorentina,Torino,4,Fiorentina,0,10.0,7.0
+Italian Serie A,2020-2021,Torino vs Fiorentina,Torino,1,Fiorentina,1,17.0,13.0
+Italian Serie A,2019-2020,Torino vs Fiorentina,Torino,2,Fiorentina,1,16.0,10.0
+Coppa Italia,2018-2019,Torino vs Fiorentina,Torino,0,Fiorentina,2,7.0,16.0
+Italian Serie A,2018-2019,Torino vs Fiorentina,Torino,1,Fiorentina,1,7.0,16.0
+Italian Serie A,2017-2018,Torino vs Fiorentina,Torino,1,Fiorentina,2,9.0,11.0
+Italian Serie A,2016-2017,Torino vs Fiorentina,Torino,2,Fiorentina,1,9.0,8.0
+Italian Serie A,2015-2016,Torino vs Fiorentina,Torino,3,Fiorentina,1,12.0,5.0
+Italian Serie A,2012-2013,Torino vs Fiorentina,Torino,2,Fiorentina,2,16.0,4.0
+Italian Serie A,2013-2014,Torino vs Fiorentina,Torino,0,Fiorentina,0,7.0,4.0
+Italian Serie A,2014-2015,Torino vs Fiorentina,Torino,1,Fiorentina,1,9.0,4.0
+Italian Serie A,2023-2024,Torino vs Genoa,Torino,1,Genoa,0,9.0,11.0
+Italian Serie A,2021-2022,Torino vs Genoa,Torino,3,Genoa,2,10.0,19.0
+Italian Serie A,2020-2021,Torino vs Genoa,Torino,0,Genoa,0,17.0,11.0
+Italian Serie A,2019-2020,Torino vs Genoa,Torino,3,Genoa,0,16.0,17.0
+Coppa Italia,2019-2020,Torino vs Genoa,Torino,1,Genoa,1,16.0,17.0
+Italian Serie A,2018-2019,Torino vs Genoa,Torino,2,Genoa,1,7.0,17.0
+Italian Serie A,2017-2018,Torino vs Genoa,Torino,0,Genoa,0,9.0,12.0
+Italian Serie A,2016-2017,Torino vs Genoa,Torino,1,Genoa,0,9.0,16.0
+Italian Serie A,2015-2016,Torino vs Genoa,Torino,3,Genoa,3,12.0,10.0
+Italian Serie A,2012-2013,Torino vs Genoa,Torino,0,Genoa,0,16.0,17.0
+Italian Serie A,2013-2014,Torino vs Genoa,Torino,2,Genoa,1,7.0,13.0
+Italian Serie A,2014-2015,Torino vs Genoa,Torino,2,Genoa,1,9.0,6.0
+Italian Serie A,2023-2024,Torino vs Inter Milan,Torino,0,Inter,3,9.0,
+Italian Serie A,2023-2024,Torino vs Juventus,Torino,0,Juventus,0,9.0,3.0
+Italian Serie A,2022-2023,Torino vs Juventus,Torino,0,Juventus,1,10.0,7.0
+Italian Serie A,2021-2022,Torino vs Juventus,Torino,0,Juventus,1,10.0,4.0
+Italian Serie A,2020-2021,Torino vs Juventus,Torino,2,Juventus,2,17.0,4.0
+Italian Serie A,2019-2020,Torino vs Juventus,Torino,0,Juventus,1,16.0,1.0
+Italian Serie A,2018-2019,Torino vs Juventus,Torino,0,Juventus,1,7.0,1.0
+Italian Serie A,2017-2018,Torino vs Juventus,Torino,0,Juventus,1,9.0,2.0
+Italian Serie A,2016-2017,Torino vs Juventus,Torino,1,Juventus,3,9.0,1.0
+Italian Serie A,2015-2016,Torino vs Juventus,Torino,1,Juventus,4,12.0,1.0
+Italian Serie A,2012-2013,Torino vs Juventus,Torino,0,Juventus,2,16.0,1.0
+Italian Serie A,2013-2014,Torino vs Juventus,Torino,0,Juventus,1,7.0,1.0
+Italian Serie A,2014-2015,Torino vs Juventus,Torino,2,Juventus,1,9.0,1.0
+Italian Serie A,2023-2024,Torino vs Lazio,Torino,0,Lazio,2,9.0,7.0
+Italian Serie A,2022-2023,Torino vs Lazio,Torino,0,Lazio,0,10.0,2.0
+Italian Serie A,2021-2022,Torino vs Lazio,Torino,1,Lazio,1,10.0,5.0
+Italian Serie A,2020-2021,Torino vs Lazio,Torino,3,Lazio,4,17.0,6.0
+Italian Serie A,2019-2020,Torino vs Lazio,Torino,1,Lazio,2,16.0,4.0
+Italian Serie A,2018-2019,Torino vs Lazio,Torino,3,Lazio,1,7.0,8.0
+Italian Serie A,2017-2018,Torino vs Lazio,Torino,0,Lazio,1,9.0,5.0
+Italian Serie A,2016-2017,Torino vs Lazio,Torino,2,Lazio,2,9.0,5.0
+Italian Serie A,2015-2016,Torino vs Lazio,Torino,1,Lazio,1,12.0,8.0
+Italian Serie A,2012-2013,Torino vs Lazio,Torino,1,Lazio,0,16.0,7.0
+Italian Serie A,2013-2014,Torino vs Lazio,Torino,1,Lazio,0,7.0,9.0
+Italian Serie A,2014-2015,Torino vs Lazio,Torino,0,Lazio,2,9.0,3.0
+Italian Serie A,2023-2024,Torino vs Lecce,Torino,2,Lecce,0,9.0,14.0
+Italian Serie A,2022-2023,Torino vs Lecce,Torino,1,Lecce,0,10.0,16.0
+Coppa Italia,2020-2021,Torino vs Lecce,Torino,3,Lecce,1,17.0,
+Italian Serie A,2019-2020,Torino vs Lecce,Torino,1,Lecce,2,16.0,18.0
+Italian Serie A,2023-2024,Torino vs Monza,Torino,1,Monza,0,9.0,12.0
+Italian Serie A,2022-2023,Torino vs Monza,Torino,1,Monza,1,10.0,11.0
+Italian Serie A,2023-2024,Torino vs Napoli,Torino,3,Napoli,0,9.0,10.0
+Italian Serie A,2022-2023,Torino vs Napoli,Torino,0,Napoli,4,10.0,1.0
+Italian Serie A,2021-2022,Torino vs Napoli,Torino,0,Napoli,1,10.0,3.0
+Italian Serie A,2020-2021,Torino vs Napoli,Torino,0,Napoli,2,17.0,5.0
+Italian Serie A,2019-2020,Torino vs Napoli,Torino,0,Napoli,0,16.0,7.0
+Italian Serie A,2018-2019,Torino vs Napoli,Torino,1,Napoli,3,7.0,2.0
+Italian Serie A,2017-2018,Torino vs Napoli,Torino,1,Napoli,3,9.0,1.0
+Italian Serie A,2016-2017,Torino vs Napoli,Torino,0,Napoli,5,9.0,3.0
+Italian Serie A,2015-2016,Torino vs Napoli,Torino,1,Napoli,2,12.0,2.0
+Italian Serie A,2012-2013,Torino vs Napoli,Torino,3,Napoli,5,16.0,2.0
+Italian Serie A,2013-2014,Torino vs Napoli,Torino,0,Napoli,1,7.0,3.0
+Italian Serie A,2014-2015,Torino vs Napoli,Torino,1,Napoli,0,9.0,5.0
+Italian Serie A,2020-2021,Torino vs Parma Calcio 1913,Torino,1,Parma Calcio 1913,0,17.0,20.0
+Italian Serie A,2019-2020,Torino vs Parma Calcio 1913,Torino,1,Parma Calcio 1913,1,16.0,11.0
+Italian Serie A,2018-2019,Torino vs Parma Calcio 1913,Torino,1,Parma Calcio 1913,2,7.0,14.0
+Italian Serie A,2023-2024,Torino vs Roma,Torino,1,Roma,1,9.0,6.0
+Italian Serie A,2022-2023,Torino vs Roma,Torino,0,Roma,1,10.0,6.0
+Italian Serie A,2021-2022,Torino vs Roma,Torino,0,Roma,3,10.0,6.0
+Italian Serie A,2020-2021,Torino vs Roma,Torino,3,Roma,1,17.0,7.0
+Italian Serie A,2019-2020,Torino vs Roma,Torino,2,Roma,3,16.0,5.0
+Italian Serie A,2018-2019,Torino vs Roma,Torino,0,Roma,1,7.0,6.0
+Italian Serie A,2017-2018,Torino vs Roma,Torino,0,Roma,1,9.0,4.0
+Italian Serie A,2016-2017,Torino vs Roma,Torino,3,Roma,1,9.0,2.0
+Italian Serie A,2015-2016,Torino vs Roma,Torino,1,Roma,1,12.0,3.0
+Italian Serie A,2012-2013,Torino vs Roma,Torino,1,Roma,2,16.0,6.0
+Italian Serie A,2013-2014,Torino vs Roma,Torino,1,Roma,1,7.0,2.0
+Italian Serie A,2014-2015,Torino vs Roma,Torino,1,Roma,1,9.0,2.0
+Italian Serie A,2023-2024,Torino vs Udinese,Torino,1,Udinese,1,9.0,15.0
+Italian Serie A,2022-2023,Torino vs Udinese,Torino,1,Udinese,0,10.0,12.0
+Italian Serie A,2021-2022,Torino vs Udinese,Torino,2,Udinese,1,10.0,12.0
+Italian Serie A,2020-2021,Torino vs Udinese,Torino,2,Udinese,3,17.0,14.0
+Italian Serie A,2019-2020,Torino vs Udinese,Torino,1,Udinese,0,16.0,13.0
+Italian Serie A,2018-2019,Torino vs Udinese,Torino,1,Udinese,0,7.0,12.0
+Italian Serie A,2017-2018,Torino vs Udinese,Torino,2,Udinese,0,9.0,10.0
+Italian Serie A,2016-2017,Torino vs Udinese,Torino,2,Udinese,2,9.0,13.0
+Italian Serie A,2015-2016,Torino vs Udinese,Torino,0,Udinese,1,12.0,17.0
+Italian Serie A,2012-2013,Torino vs Udinese,Torino,0,Udinese,0,16.0,5.0
+Italian Serie A,2013-2014,Torino vs Udinese,Torino,2,Udinese,0,7.0,14.0
+Italian Serie A,2014-2015,Torino vs Udinese,Torino,1,Udinese,0,9.0,16.0
+Italian Serie A,2021-2022,Torino vs Venezia,Torino,1,Venezia,2,10.0,20.0
+Italian Serie A,2023-2024,Torino vs Verona,Torino,0,Verona,0,9.0,13.0
+Italian Serie A,2022-2023,Torino vs Verona,Torino,1,Verona,1,10.0,18.0
+Italian Serie A,2021-2022,Torino vs Verona,Torino,1,Verona,0,10.0,9.0
+Italian Serie A,2020-2021,Torino vs Verona,Torino,1,Verona,1,17.0,10.0
+Italian Serie A,2019-2020,Torino vs Verona,Torino,1,Verona,1,16.0,9.0
+Italian Serie A,2017-2018,Torino vs Verona,Torino,2,Verona,2,9.0,19.0
+Italian Serie A,2015-2016,Torino vs Verona,Torino,0,Verona,0,12.0,20.0
+Italian Serie A,2013-2014,Torino vs Verona,Torino,2,Verona,2,7.0,10.0
+Italian Serie A,2014-2015,Torino vs Verona,Torino,0,Verona,1,9.0,13.0
+Italian Serie A,2023-2024,Udinese vs AC Milan,Udinese,2,Milan,3,15.0,
+Italian Serie A,2012-2013,Udinese vs AC Milan,Udinese,2,AC Milan,1,5.0,
+Italian Serie A,2023-2024,Udinese vs Atalanta,Udinese,1,Atalanta,1,15.0,4.0
+Italian Serie A,2022-2023,Udinese vs Atalanta,Udinese,2,Atalanta,2,12.0,5.0
+Italian Serie A,2021-2022,Udinese vs Atalanta,Udinese,2,Atalanta,6,12.0,8.0
+Italian Serie A,2020-2021,Udinese vs Atalanta,Udinese,1,Atalanta,1,14.0,3.0
+Italian Serie A,2019-2020,Udinese vs Atalanta,Udinese,2,Atalanta,3,13.0,3.0
+Italian Serie A,2018-2019,Udinese vs Atalanta,Udinese,1,Atalanta,3,12.0,3.0
+Italian Serie A,2017-2018,Udinese vs Atalanta,Udinese,2,Atalanta,1,10.0,8.0
+Italian Serie A,2016-2017,Udinese vs Atalanta,Udinese,1,Atalanta,1,13.0,4.0
+Italian Serie A,2015-2016,Udinese vs Atalanta,Udinese,2,Atalanta,1,17.0,13.0
+Italian Serie A,2012-2013,Udinese vs Atalanta,Udinese,2,Atalanta,1,5.0,15.0
+Italian Serie A,2013-2014,Udinese vs Atalanta,Udinese,1,Atalanta,1,14.0,11.0
+Italian Serie A,2014-2015,Udinese vs Atalanta,Udinese,2,Atalanta,0,16.0,17.0
+Italian Serie A,2023-2024,Udinese vs Bologna,Udinese,3,Bologna,0,15.0,5.0
+Italian Serie A,2022-2023,Udinese vs Bologna,Udinese,1,Bologna,2,12.0,9.0
+Italian Serie A,2021-2022,Udinese vs Bologna,Udinese,1,Bologna,1,12.0,13.0
+Italian Serie A,2020-2021,Udinese vs Bologna,Udinese,1,Bologna,1,14.0,12.0
+Coppa Italia,2019-2020,Udinese vs Bologna,Udinese,4,Bologna,0,13.0,12.0
+Italian Serie A,2019-2020,Udinese vs Bologna,Udinese,1,Bologna,0,13.0,12.0
+Italian Serie A,2018-2019,Udinese vs Bologna,Udinese,2,Bologna,1,12.0,10.0
+Italian Serie A,2017-2018,Udinese vs Bologna,Udinese,1,Bologna,0,10.0,13.0
+Italian Serie A,2016-2017,Udinese vs Bologna,Udinese,1,Bologna,0,13.0,15.0
+Italian Serie A,2015-2016,Udinese vs Bologna,Udinese,0,Bologna,1,17.0,14.0
+Italian Serie A,2012-2013,Udinese vs Bologna,Udinese,0,Bologna,0,5.0,13.0
+Italian Serie A,2013-2014,Udinese vs Bologna,Udinese,1,Bologna,1,14.0,19.0
+Coppa Italia,2023-2024,Udinese vs Cagliari,Udinese,1,Cagliari,2,15.0,16.0
+Italian Serie A,2023-2024,Udinese vs Cagliari,Udinese,1,Cagliari,1,15.0,16.0
+Italian Serie A,2021-2022,Udinese vs Cagliari,Udinese,5,Cagliari,1,12.0,18.0
+Italian Serie A,2020-2021,Udinese vs Cagliari,Udinese,0,Cagliari,1,14.0,16.0
+Italian Serie A,2019-2020,Udinese vs Cagliari,Udinese,2,Cagliari,1,13.0,14.0
+Italian Serie A,2018-2019,Udinese vs Cagliari,Udinese,2,Cagliari,0,12.0,15.0
+Italian Serie A,2017-2018,Udinese vs Cagliari,Udinese,0,Cagliari,1,10.0,14.0
+Italian Serie A,2016-2017,Udinese vs Cagliari,Udinese,2,Cagliari,1,13.0,12.0
+Italian Serie A,2012-2013,Udinese vs Cagliari,Udinese,4,Cagliari,1,5.0,11.0
+Italian Serie A,2013-2014,Udinese vs Cagliari,Udinese,2,Cagliari,0,14.0,15.0
+Italian Serie A,2014-2015,Udinese vs Cagliari,Udinese,2,Cagliari,2,16.0,18.0
+Italian Serie A,2023-2024,Udinese vs Empoli,Udinese,1,Empoli,1,15.0,17.0
+Italian Serie A,2022-2023,Udinese vs Empoli,Udinese,1,Empoli,1,12.0,14.0
+Club Friendlies,2021-2022,Udinese vs Empoli,Udinese,1,Empoli,0,12.0,14.0
+Italian Serie A,2021-2022,Udinese vs Empoli,Udinese,4,Empoli,1,12.0,14.0
+Italian Serie A,2018-2019,Udinese vs Empoli,Udinese,3,Empoli,2,12.0,18.0
+Italian Serie A,2016-2017,Udinese vs Empoli,Udinese,2,Empoli,0,13.0,18.0
+Italian Serie A,2015-2016,Udinese vs Empoli,Udinese,1,Empoli,2,17.0,11.0
+Italian Serie A,2014-2015,Udinese vs Empoli,Udinese,2,Empoli,0,16.0,15.0
+Italian Serie A,2023-2024,Udinese vs Fiorentina,Udinese,0,Fiorentina,2,15.0,8.0
+Italian Serie A,2022-2023,Udinese vs Fiorentina,Udinese,1,Fiorentina,0,12.0,8.0
+Italian Serie A,2021-2022,Udinese vs Fiorentina,Udinese,0,Fiorentina,1,12.0,7.0
+Coppa Italia,2020-2021,Udinese vs Fiorentina,Udinese,0,Fiorentina,1,14.0,13.0
+Italian Serie A,2020-2021,Udinese vs Fiorentina,Udinese,1,Fiorentina,0,14.0,13.0
+Italian Serie A,2019-2020,Udinese vs Fiorentina,Udinese,0,Fiorentina,0,13.0,10.0
+Italian Serie A,2018-2019,Udinese vs Fiorentina,Udinese,1,Fiorentina,1,12.0,16.0
+Italian Serie A,2017-2018,Udinese vs Fiorentina,Udinese,0,Fiorentina,2,10.0,11.0
+Italian Serie A,2016-2017,Udinese vs Fiorentina,Udinese,2,Fiorentina,2,13.0,8.0
+Italian Serie A,2015-2016,Udinese vs Fiorentina,Udinese,2,Fiorentina,1,17.0,5.0
+Italian Serie A,2012-2013,Udinese vs Fiorentina,Udinese,3,Fiorentina,1,5.0,4.0
+Italian Serie A,2013-2014,Udinese vs Fiorentina,Udinese,1,Fiorentina,0,14.0,4.0
+Italian Serie A,2014-2015,Udinese vs Fiorentina,Udinese,2,Fiorentina,2,16.0,4.0
+Italian Serie A,2023-2024,Udinese vs Genoa,Udinese,2,Genoa,2,15.0,11.0
+Italian Serie A,2021-2022,Udinese vs Genoa,Udinese,0,Genoa,0,12.0,19.0
+Italian Serie A,2020-2021,Udinese vs Genoa,Udinese,1,Genoa,0,14.0,11.0
+Italian Serie A,2019-2020,Udinese vs Genoa,Udinese,2,Genoa,2,13.0,17.0
+Italian Serie A,2018-2019,Udinese vs Genoa,Udinese,2,Genoa,0,12.0,17.0
+Italian Serie A,2017-2018,Udinese vs Genoa,Udinese,1,Genoa,0,10.0,12.0
+Italian Serie A,2016-2017,Udinese vs Genoa,Udinese,3,Genoa,0,13.0,16.0
+Italian Serie A,2015-2016,Udinese vs Genoa,Udinese,1,Genoa,1,17.0,10.0
+Italian Serie A,2012-2013,Udinese vs Genoa,Udinese,0,Genoa,0,5.0,17.0
+Italian Serie A,2013-2014,Udinese vs Genoa,Udinese,1,Genoa,0,14.0,13.0
+Italian Serie A,2014-2015,Udinese vs Genoa,Udinese,2,Genoa,4,16.0,6.0
+Italian Serie A,2023-2024,Udinese vs Inter Milan,Udinese,1,Inter,2,15.0,
+Italian Serie A,2023-2024,Udinese vs Juventus,Udinese,0,Juventus,3,15.0,3.0
+Italian Serie A,2022-2023,Udinese vs Juventus,Udinese,0,Juventus,1,12.0,7.0
+Italian Serie A,2021-2022,Udinese vs Juventus,Udinese,2,Juventus,2,12.0,4.0
+Italian Serie A,2020-2021,Udinese vs Juventus,Udinese,1,Juventus,2,14.0,4.0
+Italian Serie A,2019-2020,Udinese vs Juventus,Udinese,2,Juventus,1,13.0,1.0
+Italian Serie A,2018-2019,Udinese vs Juventus,Udinese,0,Juventus,2,12.0,1.0
+Italian Serie A,2017-2018,Udinese vs Juventus,Udinese,2,Juventus,6,10.0,2.0
+Italian Serie A,2016-2017,Udinese vs Juventus,Udinese,1,Juventus,1,13.0,1.0
+Italian Serie A,2015-2016,Udinese vs Juventus,Udinese,0,Juventus,4,17.0,1.0
+Italian Serie A,2012-2013,Udinese vs Juventus,Udinese,1,Juventus,4,5.0,1.0
+Italian Serie A,2013-2014,Udinese vs Juventus,Udinese,0,Juventus,2,14.0,1.0
+Italian Serie A,2014-2015,Udinese vs Juventus,Udinese,0,Juventus,0,16.0,1.0
+Italian Serie A,2023-2024,Udinese vs Lazio,Udinese,1,Lazio,2,15.0,7.0
+Italian Serie A,2022-2023,Udinese vs Lazio,Udinese,0,Lazio,1,12.0,2.0
+Italian Serie A,2021-2022,Udinese vs Lazio,Udinese,1,Lazio,1,12.0,5.0
+Italian Serie A,2020-2021,Udinese vs Lazio,Udinese,0,Lazio,1,14.0,6.0
+Italian Serie A,2019-2020,Udinese vs Lazio,Udinese,0,Lazio,0,13.0,4.0
+Italian Serie A,2018-2019,Udinese vs Lazio,Udinese,1,Lazio,2,12.0,8.0
+Italian Serie A,2017-2018,Udinese vs Lazio,Udinese,1,Lazio,2,10.0,5.0
+Italian Serie A,2016-2017,Udinese vs Lazio,Udinese,0,Lazio,3,13.0,5.0
+Italian Serie A,2015-2016,Udinese vs Lazio,Udinese,0,Lazio,0,17.0,8.0
+Italian Serie A,2012-2013,Udinese vs Lazio,Udinese,1,Lazio,0,5.0,7.0
+Italian Serie A,2013-2014,Udinese vs Lazio,Udinese,2,Lazio,3,14.0,9.0
+Italian Serie A,2014-2015,Udinese vs Lazio,Udinese,0,Lazio,1,16.0,3.0
+Italian Serie A,2023-2024,Udinese vs Lecce,Udinese,1,Lecce,1,15.0,14.0
+Italian Serie A,2022-2023,Udinese vs Lecce,Udinese,1,Lecce,1,12.0,16.0
+Italian Serie A,2019-2020,Udinese vs Lecce,Udinese,1,Lecce,2,13.0,18.0
+Italian Serie A,2023-2024,Udinese vs Monza,Udinese,0,Monza,0,15.0,12.0
+Coppa Italia,2022-2023,Udinese vs Monza,Udinese,2,Monza,3,12.0,11.0
+Italian Serie A,2022-2023,Udinese vs Monza,Udinese,2,Monza,2,12.0,11.0
+Italian Serie A,2023-2024,Udinese vs Napoli,Udinese,1,Napoli,1,15.0,10.0
+Italian Serie A,2022-2023,Udinese vs Napoli,Udinese,1,Napoli,1,12.0,1.0
+Italian Serie A,2021-2022,Udinese vs Napoli,Udinese,0,Napoli,4,12.0,3.0
+Italian Serie A,2020-2021,Udinese vs Napoli,Udinese,1,Napoli,2,14.0,5.0
+Italian Serie A,2019-2020,Udinese vs Napoli,Udinese,1,Napoli,1,13.0,7.0
+Italian Serie A,2018-2019,Udinese vs Napoli,Udinese,0,Napoli,3,12.0,2.0
+Italian Serie A,2017-2018,Udinese vs Napoli,Udinese,0,Napoli,1,10.0,1.0
+Italian Serie A,2016-2017,Udinese vs Napoli,Udinese,1,Napoli,2,13.0,3.0
+Italian Serie A,2015-2016,Udinese vs Napoli,Udinese,3,Napoli,1,17.0,2.0
+Italian Serie A,2012-2013,Udinese vs Napoli,Udinese,0,Napoli,0,5.0,2.0
+Italian Serie A,2013-2014,Udinese vs Napoli,Udinese,1,Napoli,1,14.0,3.0
+Italian Serie A,2014-2015,Udinese vs Napoli,Udinese,1,Napoli,0,16.0,5.0
+Italian Serie A,2020-2021,Udinese vs Parma Calcio 1913,Udinese,3,Parma Calcio 1913,2,14.0,20.0
+Italian Serie A,2019-2020,Udinese vs Parma Calcio 1913,Udinese,1,Parma Calcio 1913,3,13.0,11.0
+Italian Serie A,2018-2019,Udinese vs Parma Calcio 1913,Udinese,1,Parma Calcio 1913,2,12.0,14.0
+Italian Serie A,2023-2024,Udinese vs Roma,Udinese,1,Roma,2,15.0,6.0
+Italian Serie A,2022-2023,Udinese vs Roma,Udinese,4,Roma,0,12.0,6.0
+Italian Serie A,2021-2022,Udinese vs Roma,Udinese,1,Roma,1,12.0,6.0
+Italian Serie A,2020-2021,Udinese vs Roma,Udinese,0,Roma,1,14.0,7.0
+Italian Serie A,2019-2020,Udinese vs Roma,Udinese,0,Roma,4,13.0,5.0
+Italian Serie A,2018-2019,Udinese vs Roma,Udinese,1,Roma,0,12.0,6.0
+Italian Serie A,2017-2018,Udinese vs Roma,Udinese,0,Roma,2,10.0,4.0
+Italian Serie A,2016-2017,Udinese vs Roma,Udinese,0,Roma,1,13.0,2.0
+Italian Serie A,2015-2016,Udinese vs Roma,Udinese,1,Roma,2,17.0,3.0
+Italian Serie A,2012-2013,Udinese vs Roma,Udinese,1,Roma,1,5.0,6.0
+Italian Serie A,2013-2014,Udinese vs Roma,Udinese,0,Roma,1,14.0,2.0
+Italian Serie A,2014-2015,Udinese vs Roma,Udinese,0,Roma,1,16.0,2.0
+Italian Serie A,2023-2024,Udinese vs Torino,Udinese,0,Torino,2,15.0,9.0
+Italian Serie A,2022-2023,Udinese vs Torino,Udinese,1,Torino,2,12.0,10.0
+Italian Serie A,2021-2022,Udinese vs Torino,Udinese,2,Torino,0,12.0,10.0
+Italian Serie A,2020-2021,Udinese vs Torino,Udinese,0,Torino,1,14.0,17.0
+Italian Serie A,2019-2020,Udinese vs Torino,Udinese,1,Torino,0,13.0,16.0
+Italian Serie A,2018-2019,Udinese vs Torino,Udinese,1,Torino,1,12.0,7.0
+Italian Serie A,2017-2018,Udinese vs Torino,Udinese,2,Torino,3,10.0,9.0
+Italian Serie A,2016-2017,Udinese vs Torino,Udinese,2,Torino,2,13.0,9.0
+Italian Serie A,2015-2016,Udinese vs Torino,Udinese,1,Torino,5,17.0,12.0
+Italian Serie A,2012-2013,Udinese vs Torino,Udinese,1,Torino,0,5.0,16.0
+Italian Serie A,2013-2014,Udinese vs Torino,Udinese,0,Torino,2,14.0,7.0
+Italian Serie A,2014-2015,Udinese vs Torino,Udinese,3,Torino,2,16.0,9.0
+Italian Serie A,2021-2022,Udinese vs Venezia,Udinese,3,Venezia,0,12.0,20.0
+Italian Serie A,2023-2024,Udinese vs Verona,Udinese,3,Verona,3,15.0,13.0
+Italian Serie A,2022-2023,Udinese vs Verona,Udinese,1,Verona,1,12.0,18.0
+Italian Serie A,2021-2022,Udinese vs Verona,Udinese,1,Verona,1,12.0,9.0
+Italian Serie A,2020-2021,Udinese vs Verona,Udinese,2,Verona,0,14.0,10.0
+Italian Serie A,2019-2020,Udinese vs Verona,Udinese,0,Verona,0,13.0,9.0
+Italian Serie A,2017-2018,Udinese vs Verona,Udinese,4,Verona,0,10.0,19.0
+Italian Serie A,2015-2016,Udinese vs Verona,Udinese,2,Verona,0,17.0,20.0
+Italian Serie A,2013-2014,Udinese vs Verona,Udinese,1,Verona,3,14.0,10.0
+Italian Serie A,2014-2015,Udinese vs Verona,Udinese,1,Verona,2,16.0,13.0
+Italian Serie A,2021-2022,Venezia vs Atalanta,Venezia,1,Atalanta,3,20.0,8.0
+Italian Serie A,2021-2022,Venezia vs Bologna,Venezia,4,Bologna,3,20.0,13.0
+Italian Serie B,2022-2023,Venezia vs Cagliari,Venezia,0,Cagliari,0,,
+Italian Serie A,2021-2022,Venezia vs Cagliari,Venezia,0,Cagliari,0,20.0,18.0
+Italian Serie B,2023-2024,Venezia vs Como,Venezia,3,Como,0,,
+Italian Serie B,2022-2023,Venezia vs Como,Venezia,3,Como,2,,
+Italian Serie A,2021-2022,Venezia vs Empoli,Venezia,1,Empoli,1,20.0,14.0
+Italian Serie B,2020-2021,Venezia vs Empoli,Venezia,2,Empoli,0,,
+Italian Serie B,2019-2020,Venezia vs Empoli,Venezia,0,Empoli,2,,
+Italian Serie B,2017-2018,Venezia vs Empoli,Venezia,1,Empoli,0,,
+Italian Serie A,2021-2022,Venezia vs Fiorentina,Venezia,1,Fiorentina,0,20.0,7.0
+Italian Serie B,2022-2023,Venezia vs Genoa,Venezia,1,Genoa,2,,
+Italian Serie A,2021-2022,Venezia vs Genoa,Venezia,1,Genoa,1,20.0,19.0
+Italian Serie A,2021-2022,Venezia vs Juventus,Venezia,1,Juventus,1,20.0,4.0
+Italian Serie A,2021-2022,Venezia vs Lazio,Venezia,1,Lazio,3,20.0,5.0
+Italian Serie B,2020-2021,Venezia vs Lecce,Venezia,1,Lecce,0,,
+Italian Serie B,2020-2021,Venezia vs Lecce,Venezia,2,Lecce,3,,
+Italian Serie B,2018-2019,Venezia vs Lecce,Venezia,1,Lecce,1,,
+Italian Serie B,2020-2021,Venezia vs Monza,Venezia,0,Monza,2,,
+Italian Serie A,2021-2022,Venezia vs Napoli,Venezia,0,Napoli,2,20.0,3.0
+Italian Serie B,2023-2024,Venezia vs Parma Calcio 1913,Venezia,3,Parma Calcio 1913,2,,
+Italian Serie B,2022-2023,Venezia vs Parma Calcio 1913,Venezia,2,Parma Calcio 1913,2,,
+Italian Serie B,2017-2018,Venezia vs Parma Calcio 1913,Venezia,0,Parma Calcio 1913,1,,
+Italian Lega Pro,2016-2017,Venezia vs Parma Calcio 1913,Venezia,2,Parma Calcio 1913,2,,
+Italian Serie A,2021-2022,Venezia vs Roma,Venezia,3,Roma,2,20.0,6.0
+Italian Serie A,2021-2022,Venezia vs Torino,Venezia,1,Torino,1,20.0,10.0
+Italian Serie A,2021-2022,Venezia vs Udinese,Venezia,1,Udinese,2,20.0,12.0
+Italian Serie A,2021-2022,Venezia vs Verona,Venezia,3,Verona,4,20.0,9.0
+Italian Serie B,2018-2019,Venezia vs Verona,Venezia,1,Verona,1,,
+Italian Serie A,2023-2024,Verona vs AC Milan,Verona,1,Milan,3,13.0,
+Italian Serie A,2023-2024,Verona vs Atalanta,Verona,0,Atalanta,1,13.0,4.0
+Italian Serie A,2022-2023,Verona vs Atalanta,Verona,0,Atalanta,1,18.0,5.0
+Italian Serie A,2021-2022,Verona vs Atalanta,Verona,1,Atalanta,2,9.0,8.0
+Italian Serie A,2020-2021,Verona vs Atalanta,Verona,0,Atalanta,2,10.0,3.0
+Italian Serie A,2019-2020,Verona vs Atalanta,Verona,1,Atalanta,1,9.0,3.0
+Italian Serie A,2017-2018,Verona vs Atalanta,Verona,0,Atalanta,5,19.0,8.0
+Italian Serie A,2015-2016,Verona vs Atalanta,Verona,2,Atalanta,1,20.0,13.0
+Italian Serie A,2013-2014,Verona vs Atalanta,Verona,2,Atalanta,1,10.0,11.0
+Italian Serie A,2014-2015,Verona vs Atalanta,Verona,1,Atalanta,0,13.0,17.0
+Italian Serie A,2023-2024,Verona vs Bologna,Verona,0,Bologna,0,13.0,5.0
+Italian Serie A,2022-2023,Verona vs Bologna,Verona,2,Bologna,1,18.0,9.0
+Italian Serie A,2021-2022,Verona vs Bologna,Verona,2,Bologna,1,9.0,13.0
+Italian Serie A,2020-2021,Verona vs Bologna,Verona,2,Bologna,2,10.0,12.0
+Italian Serie A,2019-2020,Verona vs Bologna,Verona,1,Bologna,1,9.0,12.0
+Italian Serie A,2017-2018,Verona vs Bologna,Verona,2,Bologna,3,19.0,13.0
+Italian Serie A,2015-2016,Verona vs Bologna,Verona,0,Bologna,2,20.0,14.0
+Italian Serie A,2013-2014,Verona vs Bologna,Verona,0,Bologna,0,10.0,19.0
+Italian Serie A,2023-2024,Verona vs Cagliari,Verona,2,Cagliari,0,13.0,16.0
+Italian Serie A,2021-2022,Verona vs Cagliari,Verona,0,Cagliari,0,9.0,18.0
+Italian Serie A,2020-2021,Verona vs Cagliari,Verona,1,Cagliari,1,10.0,16.0
+Italian Serie A,2019-2020,Verona vs Cagliari,Verona,2,Cagliari,1,9.0,14.0
+Italian Serie A,2017-2018,Verona vs Cagliari,Verona,1,Cagliari,0,19.0,14.0
+Italian Serie A,2013-2014,Verona vs Cagliari,Verona,2,Cagliari,1,10.0,15.0
+Italian Serie A,2014-2015,Verona vs Cagliari,Verona,1,Cagliari,0,13.0,18.0
+Italian Serie A,2023-2024,Verona vs Empoli,Verona,2,Empoli,1,13.0,17.0
+Italian Serie A,2022-2023,Verona vs Empoli,Verona,1,Empoli,1,18.0,14.0
+Coppa Italia,2021-2022,Verona vs Empoli,Verona,3,Empoli,4,9.0,14.0
+Italian Serie A,2021-2022,Verona vs Empoli,Verona,2,Empoli,1,9.0,14.0
+Italian Serie A,2015-2016,Verona vs Empoli,Verona,0,Empoli,1,20.0,11.0
+Italian Serie B,2012-2013,Verona vs Empoli,Verona,0,Empoli,0,,
+Italian Serie A,2014-2015,Verona vs Empoli,Verona,2,Empoli,1,13.0,15.0
+Italian Serie A,2023-2024,Verona vs Fiorentina,Verona,2,Fiorentina,1,13.0,8.0
+Italian Serie A,2022-2023,Verona vs Fiorentina,Verona,0,Fiorentina,3,18.0,8.0
+Italian Serie A,2021-2022,Verona vs Fiorentina,Verona,1,Fiorentina,1,9.0,7.0
+Italian Serie A,2020-2021,Verona vs Fiorentina,Verona,1,Fiorentina,2,10.0,13.0
+Italian Serie A,2019-2020,Verona vs Fiorentina,Verona,1,Fiorentina,0,9.0,10.0
+Italian Serie A,2017-2018,Verona vs Fiorentina,Verona,0,Fiorentina,5,19.0,11.0
+Italian Serie A,2015-2016,Verona vs Fiorentina,Verona,0,Fiorentina,2,20.0,5.0
+Italian Serie A,2013-2014,Verona vs Fiorentina,Verona,3,Fiorentina,5,10.0,4.0
+Italian Serie A,2014-2015,Verona vs Fiorentina,Verona,1,Fiorentina,2,13.0,4.0
+Italian Serie A,2023-2024,Verona vs Genoa,Verona,1,Genoa,2,13.0,11.0
+Italian Serie A,2021-2022,Verona vs Genoa,Verona,1,Genoa,0,9.0,19.0
+Italian Serie A,2020-2021,Verona vs Genoa,Verona,0,Genoa,0,10.0,11.0
+Italian Serie A,2019-2020,Verona vs Genoa,Verona,2,Genoa,1,9.0,17.0
+Italian Serie A,2017-2018,Verona vs Genoa,Verona,0,Genoa,1,19.0,12.0
+Italian Serie A,2015-2016,Verona vs Genoa,Verona,1,Genoa,1,20.0,10.0
+Italian Serie A,2013-2014,Verona vs Genoa,Verona,3,Genoa,0,10.0,13.0
+Italian Serie A,2014-2015,Verona vs Genoa,Verona,2,Genoa,2,13.0,6.0
+Italian Serie A,2023-2024,Verona vs Inter Milan,Verona,2,Inter,2,13.0,
+Italian Serie A,2023-2024,Verona vs Juventus,Verona,2,Juventus,2,13.0,3.0
+Italian Serie A,2022-2023,Verona vs Juventus,Verona,0,Juventus,1,18.0,7.0
+Italian Serie A,2021-2022,Verona vs Juventus,Verona,2,Juventus,1,9.0,4.0
+Italian Serie A,2020-2021,Verona vs Juventus,Verona,1,Juventus,1,10.0,4.0
+Italian Serie A,2019-2020,Verona vs Juventus,Verona,2,Juventus,1,9.0,1.0
+Italian Serie A,2017-2018,Verona vs Juventus,Verona,1,Juventus,3,19.0,2.0
+Italian Serie A,2015-2016,Verona vs Juventus,Verona,2,Juventus,1,20.0,1.0
+Italian Serie A,2013-2014,Verona vs Juventus,Verona,2,Juventus,2,10.0,1.0
+Italian Serie A,2014-2015,Verona vs Juventus,Verona,2,Juventus,2,13.0,1.0
+Italian Serie A,2023-2024,Verona vs Lazio,Verona,1,Lazio,1,13.0,7.0
+Italian Serie A,2022-2023,Verona vs Lazio,Verona,1,Lazio,1,18.0,2.0
+Italian Serie A,2021-2022,Verona vs Lazio,Verona,4,Lazio,1,9.0,5.0
+Italian Serie A,2020-2021,Verona vs Lazio,Verona,0,Lazio,1,10.0,6.0
+Italian Serie A,2019-2020,Verona vs Lazio,Verona,1,Lazio,5,9.0,4.0
+Italian Serie A,2017-2018,Verona vs Lazio,Verona,0,Lazio,3,19.0,5.0
+Italian Serie A,2015-2016,Verona vs Lazio,Verona,1,Lazio,2,20.0,8.0
+Italian Serie A,2013-2014,Verona vs Lazio,Verona,4,Lazio,1,10.0,9.0
+Italian Serie A,2014-2015,Verona vs Lazio,Verona,1,Lazio,1,13.0,3.0
+Italian Serie A,2023-2024,Verona vs Lecce,Verona,2,Lecce,2,13.0,14.0
+Italian Serie A,2022-2023,Verona vs Lecce,Verona,2,Lecce,0,18.0,16.0
+Italian Serie A,2019-2020,Verona vs Lecce,Verona,3,Lecce,0,9.0,18.0
+Italian Serie B,2018-2019,Verona vs Lecce,Verona,0,Lecce,2,,
+Italian Serie A,2023-2024,Verona vs Monza,Verona,1,Monza,3,13.0,12.0
+Italian Serie A,2022-2023,Verona vs Monza,Verona,1,Monza,1,18.0,11.0
+Italian Serie A,2023-2024,Verona vs Napoli,Verona,1,Napoli,3,13.0,10.0
+Italian Serie A,2022-2023,Verona vs Napoli,Verona,2,Napoli,5,18.0,1.0
+Italian Serie A,2021-2022,Verona vs Napoli,Verona,1,Napoli,2,9.0,3.0
+Italian Serie A,2020-2021,Verona vs Napoli,Verona,3,Napoli,1,10.0,5.0
+Italian Serie A,2019-2020,Verona vs Napoli,Verona,0,Napoli,2,9.0,7.0
+Italian Serie A,2017-2018,Verona vs Napoli,Verona,1,Napoli,3,19.0,1.0
+Italian Serie A,2015-2016,Verona vs Napoli,Verona,0,Napoli,2,20.0,2.0
+Italian Serie A,2013-2014,Verona vs Napoli,Verona,0,Napoli,3,10.0,3.0
+Italian Serie A,2014-2015,Verona vs Napoli,Verona,2,Napoli,0,13.0,5.0
+Italian Serie A,2020-2021,Verona vs Parma Calcio 1913,Verona,2,Parma Calcio 1913,1,10.0,20.0
+Italian Serie A,2019-2020,Verona vs Parma Calcio 1913,Verona,3,Parma Calcio 1913,2,9.0,11.0
+Italian Serie A,2023-2024,Verona vs Roma,Verona,2,Roma,1,13.0,6.0
+Italian Serie A,2022-2023,Verona vs Roma,Verona,1,Roma,3,18.0,6.0
+Italian Serie A,2021-2022,Verona vs Roma,Verona,3,Roma,2,9.0,6.0
+Italian Serie A,2020-2021,Verona vs Roma,Verona,3,Roma,0,10.0,7.0
+Italian Serie A,2019-2020,Verona vs Roma,Verona,1,Roma,3,9.0,5.0
+Italian Serie A,2017-2018,Verona vs Roma,Verona,0,Roma,1,19.0,4.0
+Italian Serie A,2015-2016,Verona vs Roma,Verona,1,Roma,1,20.0,3.0
+Italian Serie A,2013-2014,Verona vs Roma,Verona,1,Roma,3,10.0,2.0
+Italian Serie A,2014-2015,Verona vs Roma,Verona,1,Roma,1,13.0,2.0
+Italian Serie A,2023-2024,Verona vs Torino,Verona,1,Torino,2,13.0,9.0
+Italian Serie A,2022-2023,Verona vs Torino,Verona,0,Torino,1,18.0,10.0
+Italian Serie A,2021-2022,Verona vs Torino,Verona,0,Torino,1,9.0,10.0
+Italian Serie A,2020-2021,Verona vs Torino,Verona,1,Torino,1,10.0,17.0
+Italian Serie A,2019-2020,Verona vs Torino,Verona,3,Torino,3,9.0,16.0
+Italian Serie A,2017-2018,Verona vs Torino,Verona,2,Torino,1,19.0,9.0
+Italian Serie A,2015-2016,Verona vs Torino,Verona,2,Torino,2,20.0,12.0
+Italian Serie A,2013-2014,Verona vs Torino,Verona,1,Torino,3,10.0,7.0
+Italian Serie A,2014-2015,Verona vs Torino,Verona,1,Torino,3,13.0,9.0
+Italian Serie A,2023-2024,Verona vs Udinese,Verona,1,Udinese,0,13.0,15.0
+Italian Serie A,2022-2023,Verona vs Udinese,Verona,1,Udinese,2,18.0,12.0
+Italian Serie A,2021-2022,Verona vs Udinese,Verona,4,Udinese,0,9.0,12.0
+Italian Serie A,2020-2021,Verona vs Udinese,Verona,1,Udinese,0,10.0,14.0
+Italian Serie A,2019-2020,Verona vs Udinese,Verona,0,Udinese,0,9.0,13.0
+Italian Serie A,2017-2018,Verona vs Udinese,Verona,0,Udinese,1,19.0,10.0
+Italian Serie A,2015-2016,Verona vs Udinese,Verona,1,Udinese,1,20.0,17.0
+Italian Serie A,2013-2014,Verona vs Udinese,Verona,2,Udinese,2,10.0,14.0
+Italian Serie A,2014-2015,Verona vs Udinese,Verona,0,Udinese,1,13.0,16.0
+Italian Serie A,2021-2022,Verona vs Venezia,Verona,3,Venezia,1,9.0,20.0
+Coppa Italia,2020-2021,Verona vs Venezia,Verona,3,Venezia,3,10.0,
+Italian Serie B,2018-2019,Verona vs Venezia,Verona,1,Venezia,0,,
